@@ -1,0 +1,1001 @@
+,SK_ID_CURR,NAME_CONTRACT_TYPE,CODE_GENDER,AGE_CLIENT,YEARS_EMPLOYED,CNT_FAM_MEMBERS,FLAG_OWN_CAR,FLAG_OWN_REALTY,AMT_INCOME_TOTAL,AMT_CREDIT,AMT_ANNUITY,AMT_GOODS_PRICE,ANNUITY_INCOME%,PAYMENT_RATE,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE
+245895,384575,Cash loans,M,36.0,2.09,4.0,Y,N,207000.0,465457.5,52641.0,418500.0,0.25430434782608696,0.11309518054817035,Commercial associate,Secondary / secondary special,Married,House / apartment
+98194,214010,Cash loans,F,40.0,3.13,1.0,Y,Y,247500.0,1281712.5,48946.5,1179000.0,0.19776363636363636,0.03818836127446678,Commercial associate,Higher education,Single / not married,House / apartment
+36463,142232,Cash loans,F,49.0,1.75,2.0,Y,N,202500.0,495000.0,39109.5,495000.0,0.19313333333333332,0.0790090909090909,Working,Secondary / secondary special,Married,House / apartment
+249923,389171,Cash loans,F,54.0,19.13,1.0,N,Y,247500.0,254700.0,24939.0,225000.0,0.10076363636363636,0.09791519434628976,State servant,Secondary / secondary special,Widow,House / apartment
+158389,283617,Cash loans,M,56.0,3.03,1.0,N,Y,112500.0,308133.0,15862.5,234000.0,0.141,0.05147939363846132,Working,Secondary / secondary special,Single / not married,House / apartment
+226343,362171,Cash loans,M,52.0,1000.67,2.0,N,Y,85500.0,152820.0,16456.5,135000.0,0.19247368421052632,0.10768551236749116,Pensioner,Secondary / secondary special,Married,House / apartment
+69571,180689,Cash loans,F,43.0,0.95,3.0,N,N,112500.0,900000.0,24750.0,900000.0,0.22,0.0275,Commercial associate,Secondary / secondary special,Married,House / apartment
+181469,310328,Cash loans,M,30.0,0.71,1.0,Y,Y,141606.0,810000.0,33120.0,810000.0,0.23388839455955257,0.04088888888888889,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+114736,233043,Cash loans,F,64.0,1000.67,2.0,N,Y,130500.0,781920.0,34443.0,675000.0,0.2639310344827586,0.04404926335174954,Pensioner,Secondary / secondary special,Married,House / apartment
+114007,232220,Cash loans,F,24.0,1.78,2.0,N,Y,99000.0,900000.0,35824.5,900000.0,0.3618636363636364,0.039805,Working,Secondary / secondary special,Separated,House / apartment
+29765,134561,Cash loans,F,36.0,0.77,6.0,N,N,67500.0,331920.0,17077.5,225000.0,0.253,0.05145065075921909,Commercial associate,Secondary / secondary special,Married,House / apartment
+17967,120952,Cash loans,M,23.0,2.22,2.0,Y,Y,135000.0,225000.0,11074.5,225000.0,0.08203333333333333,0.04922,Commercial associate,Secondary / secondary special,Married,With parents
+76671,188909,Cash loans,F,62.0,1000.67,1.0,N,N,270000.0,593010.0,17122.5,495000.0,0.06341666666666666,0.0288738807102747,Pensioner,Secondary / secondary special,Widow,House / apartment
+213390,347275,Cash loans,M,46.0,2.99,4.0,Y,Y,630000.0,1125000.0,36292.5,1125000.0,0.05760714285714286,0.03226,Commercial associate,Secondary / secondary special,Married,House / apartment
+130021,250804,Cash loans,M,31.0,2.28,1.0,Y,N,180000.0,774000.0,28813.5,774000.0,0.160075,0.03722674418604651,Commercial associate,Higher education,Single / not married,Municipal apartment
+214670,348749,Cash loans,F,28.0,6.0,3.0,N,Y,112500.0,142200.0,9387.0,112500.0,0.08344,0.0660126582278481,Working,Secondary / secondary special,Married,With parents
+113284,231383,Revolving loans,F,62.0,18.98,2.0,Y,Y,256500.0,765000.0,38250.0,765000.0,0.14912280701754385,0.05,Commercial associate,Lower secondary,Married,Rented apartment
+16847,119647,Cash loans,F,33.0,2.55,2.0,N,Y,45000.0,454500.0,17739.0,454500.0,0.3942,0.03902970297029703,Working,Secondary / secondary special,Married,House / apartment
+135684,257374,Cash loans,F,62.0,1000.67,2.0,N,Y,292500.0,781920.0,33259.5,675000.0,0.1137076923076923,0.042535681399631674,Pensioner,Secondary / secondary special,Married,Municipal apartment
+177085,305211,Cash loans,F,64.0,1000.67,2.0,N,Y,157500.0,824823.0,24246.0,688500.0,0.15394285714285713,0.02939539755802154,Pensioner,Higher education,Married,House / apartment
+46456,153812,Cash loans,F,66.0,1000.67,2.0,N,Y,85500.0,225000.0,15790.5,225000.0,0.18468421052631578,0.07018,Pensioner,Lower secondary,Civil marriage,House / apartment
+42613,149325,Cash loans,M,26.0,2.24,2.0,Y,N,270000.0,755190.0,38610.0,675000.0,0.143,0.051126206649982124,Commercial associate,Incomplete higher,Married,House / apartment
+263110,404667,Cash loans,F,28.0,0.88,3.0,N,N,112500.0,503676.0,34200.0,382500.0,0.304,0.0679007933671646,Working,Higher education,Married,With parents
+12209,114238,Cash loans,F,23.0,1000.67,3.0,Y,Y,247500.0,270045.0,30595.5,256500.0,0.12361818181818182,0.11329778370271622,Pensioner,Higher education,Married,House / apartment
+236052,373414,Cash loans,F,38.0,2.13,2.0,N,Y,112500.0,339241.5,16627.5,238500.0,0.1478,0.049013755687320096,Working,Secondary / secondary special,Married,House / apartment
+76219,188388,Cash loans,F,62.0,3.64,2.0,Y,N,202500.0,500490.0,48888.0,450000.0,0.24142222222222223,0.09768027333213451,Commercial associate,Higher education,Married,House / apartment
+113757,231929,Cash loans,F,30.0,2.27,3.0,Y,Y,67500.0,1024740.0,52452.0,900000.0,0.7770666666666667,0.05118566660811523,Working,Secondary / secondary special,Married,House / apartment
+162888,288831,Cash loans,F,30.0,4.14,4.0,N,Y,171000.0,375322.5,20488.5,324000.0,0.11981578947368421,0.05458905341406391,Working,Secondary / secondary special,Civil marriage,House / apartment
+9929,111556,Cash loans,M,47.0,3.72,3.0,Y,Y,315000.0,927000.0,30766.5,927000.0,0.09767142857142858,0.033189320388349514,Working,Secondary / secondary special,Separated,House / apartment
+85872,199643,Cash loans,F,37.0,17.38,4.0,N,N,135000.0,675000.0,34465.5,675000.0,0.2553,0.05106,Working,Higher education,Civil marriage,House / apartment
+17719,120657,Cash loans,F,36.0,2.32,4.0,N,Y,202500.0,713889.0,56533.5,661500.0,0.2791777777777778,0.07919088261620504,Working,Higher education,Married,House / apartment
+293116,439579,Revolving loans,F,57.0,1000.67,2.0,N,Y,135000.0,360000.0,18000.0,360000.0,0.13333333333333333,0.05,Pensioner,Secondary / secondary special,Married,House / apartment
+225524,361223,Cash loans,F,61.0,1000.67,2.0,N,Y,180000.0,518562.0,20695.5,463500.0,0.114975,0.03990940331146517,Pensioner,Higher education,Married,House / apartment
+212265,345983,Cash loans,M,61.0,1000.67,2.0,Y,Y,225000.0,1710000.0,59566.5,1710000.0,0.26474,0.03483421052631579,Pensioner,Secondary / secondary special,Married,House / apartment
+158802,284103,Cash loans,F,39.0,6.33,4.0,N,Y,180000.0,225000.0,17775.0,225000.0,0.09875,0.079,Working,Secondary / secondary special,Married,House / apartment
+155869,280677,Cash loans,F,36.0,5.16,3.0,Y,Y,135000.0,225000.0,12334.5,225000.0,0.09136666666666667,0.05482,Working,Higher education,Married,House / apartment
+240488,378518,Revolving loans,F,43.0,7.73,1.0,N,N,202500.0,405000.0,20250.0,405000.0,0.1,0.05,Working,Incomplete higher,Widow,House / apartment
+280950,425522,Cash loans,F,52.0,2.54,2.0,N,Y,150750.0,247500.0,12766.5,247500.0,0.0846865671641791,0.05158181818181818,Working,Secondary / secondary special,Married,House / apartment
+250903,390314,Cash loans,F,59.0,1000.67,2.0,N,Y,229500.0,808650.0,23305.5,675000.0,0.10154901960784314,0.028820255982192542,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+52447,160738,Cash loans,F,32.0,4.89,1.0,Y,N,157500.0,545040.0,26509.5,450000.0,0.16831428571428572,0.04863771466314399,Commercial associate,Higher education,Single / not married,House / apartment
+250544,389904,Cash loans,F,30.0,1.91,4.0,N,N,72000.0,254700.0,20119.5,225000.0,0.2794375,0.0789929328621908,Working,Higher education,Married,House / apartment
+19940,123258,Revolving loans,F,31.0,2.15,3.0,N,Y,112500.0,202500.0,10125.0,202500.0,0.09,0.05,Commercial associate,Higher education,Married,House / apartment
+45587,152796,Cash loans,M,24.0,1.93,1.0,N,N,112500.0,254700.0,27022.5,225000.0,0.2402,0.10609540636042403,Working,Higher education,Single / not married,House / apartment
+29620,134391,Cash loans,M,26.0,2.04,1.0,N,Y,157500.0,592560.0,32274.0,450000.0,0.20491428571428572,0.05446537059538275,Working,Secondary / secondary special,Single / not married,House / apartment
+215235,349402,Cash loans,F,41.0,0.47,1.0,Y,Y,117000.0,339241.5,12919.5,238500.0,0.11042307692307693,0.03808348919574993,State servant,Secondary / secondary special,Single / not married,House / apartment
+83578,196937,Cash loans,F,34.0,10.28,4.0,Y,Y,166500.0,675000.0,28728.0,675000.0,0.17254054054054055,0.04256,Working,Secondary / secondary special,Married,House / apartment
+166031,292484,Cash loans,F,36.0,17.42,3.0,Y,N,157500.0,781920.0,39852.0,675000.0,0.25302857142857144,0.05096685082872928,Commercial associate,Secondary / secondary special,Separated,House / apartment
+51848,160044,Cash loans,M,44.0,5.87,2.0,N,Y,180000.0,1223010.0,48501.0,1125000.0,0.26945,0.039657075575833395,Working,Secondary / secondary special,Married,House / apartment
+33248,138523,Cash loans,F,54.0,21.58,1.0,N,Y,157500.0,651600.0,26289.0,562500.0,0.1669142857142857,0.040345303867403315,Working,Secondary / secondary special,Separated,House / apartment
+94618,209865,Cash loans,F,52.0,1000.67,1.0,N,N,130500.0,675000.0,20596.5,675000.0,0.15782758620689655,0.030513333333333333,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+170320,297401,Cash loans,F,64.0,1000.67,2.0,N,Y,28350.0,269550.0,11547.0,225000.0,0.4073015873015873,0.042838063439065106,Pensioner,Secondary / secondary special,Married,House / apartment
+48155,155773,Cash loans,F,43.0,0.8,2.0,N,Y,180000.0,125640.0,6943.5,90000.0,0.038575,0.0552650429799427,Commercial associate,Secondary / secondary special,Married,Municipal apartment
+248058,387025,Cash loans,F,49.0,2.67,2.0,Y,Y,2025000.0,382500.0,14418.0,382500.0,0.00712,0.03769411764705882,Working,Secondary / secondary special,Married,House / apartment
+204519,337101,Revolving loans,F,24.0,6.16,2.0,N,N,202500.0,360000.0,18000.0,,0.08888888888888889,0.05,Commercial associate,Higher education,Married,House / apartment
+191788,322386,Cash loans,M,31.0,2.83,3.0,N,Y,202500.0,900000.0,35824.5,900000.0,0.1769111111111111,0.039805,Working,Higher education,Married,House / apartment
+205582,338300,Cash loans,F,24.0,1.96,1.0,N,Y,180000.0,301500.0,18445.5,301500.0,0.102475,0.06117910447761194,Working,Incomplete higher,Single / not married,House / apartment
+241340,379443,Cash loans,M,44.0,1.01,3.0,Y,Y,315000.0,1255680.0,41629.5,1125000.0,0.13215714285714286,0.03315295298165138,Working,Secondary / secondary special,Married,House / apartment
+25298,129426,Cash loans,M,31.0,2.04,4.0,Y,N,112500.0,440784.0,34825.5,360000.0,0.30956,0.07900808559294348,Working,Secondary / secondary special,Married,House / apartment
+152751,277039,Cash loans,M,47.0,5.18,3.0,Y,Y,315000.0,719946.0,39186.0,643500.0,0.1244,0.05442908218116359,Working,Secondary / secondary special,Married,Municipal apartment
+302177,450086,Cash loans,M,32.0,4.55,2.0,Y,N,202500.0,1078200.0,31653.0,900000.0,0.15631111111111112,0.02935726210350584,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+152368,276602,Cash loans,F,58.0,1000.67,1.0,N,N,135000.0,354276.0,10872.0,292500.0,0.08053333333333333,0.030687938217660807,Pensioner,Secondary / secondary special,Widow,House / apartment
+33141,138400,Cash loans,M,43.0,0.59,2.0,N,Y,225000.0,247500.0,13423.5,247500.0,0.05966,0.05423636363636364,Working,Higher education,Married,House / apartment
+96007,211463,Cash loans,M,30.0,6.56,3.0,N,N,225000.0,468733.5,30649.5,387000.0,0.13622,0.06538790165413823,Working,Higher education,Married,House / apartment
+12581,114666,Cash loans,F,50.0,31.07,2.0,N,Y,67500.0,239850.0,23850.0,225000.0,0.35333333333333333,0.09943714821763602,Working,Secondary / secondary special,Married,House / apartment
+21005,124477,Cash loans,F,61.0,1000.67,2.0,N,N,211500.0,1129500.0,31059.0,1129500.0,0.14685106382978724,0.02749800796812749,Pensioner,Secondary / secondary special,Married,House / apartment
+56266,165205,Cash loans,F,39.0,15.99,4.0,Y,N,270000.0,562500.0,25546.5,562500.0,0.09461666666666667,0.045416,Working,Higher education,Married,House / apartment
+210348,343760,Cash loans,M,39.0,6.14,4.0,Y,N,180000.0,254700.0,27558.0,225000.0,0.1531,0.10819787985865724,Commercial associate,Higher education,Married,House / apartment
+35065,140623,Cash loans,F,38.0,0.29,1.0,N,Y,148500.0,167121.0,15457.5,139500.0,0.1040909090909091,0.0924928644515052,State servant,Secondary / secondary special,Single / not married,House / apartment
+37390,143311,Cash loans,F,44.0,2.62,2.0,Y,Y,126000.0,343800.0,13090.5,225000.0,0.10389285714285715,0.03807591623036649,Working,Secondary / secondary special,Married,House / apartment
+74150,185989,Cash loans,M,59.0,1000.67,2.0,Y,N,112500.0,1125000.0,32895.0,1125000.0,0.2924,0.02924,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+170890,298045,Cash loans,F,39.0,12.15,2.0,N,Y,157500.0,685012.5,33084.0,553500.0,0.21005714285714286,0.04829692888815897,Working,Higher education,Married,House / apartment
+10481,112205,Cash loans,F,26.0,1.88,3.0,N,Y,90000.0,157500.0,9171.0,157500.0,0.1019,0.05822857142857143,Commercial associate,Higher education,Married,House / apartment
+77453,189803,Cash loans,F,31.0,2.12,3.0,N,Y,112500.0,397017.0,24120.0,301500.0,0.2144,0.06075306598961757,Commercial associate,Higher education,Married,House / apartment
+208918,342139,Cash loans,F,49.0,8.98,1.0,N,Y,243000.0,270000.0,19332.0,270000.0,0.07955555555555556,0.0716,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+97353,213028,Cash loans,M,46.0,1.37,2.0,N,Y,225000.0,528633.0,25560.0,472500.0,0.1136,0.048351124504145596,Working,Secondary / secondary special,Married,House / apartment
+222400,357624,Cash loans,F,49.0,21.98,2.0,N,Y,135000.0,1256400.0,36864.0,900000.0,0.2730666666666667,0.029340974212034385,State servant,Higher education,Married,House / apartment
+278487,422659,Cash loans,M,47.0,4.57,2.0,N,N,175500.0,187929.0,13495.5,171000.0,0.0768974358974359,0.07181169484220104,Working,Secondary / secondary special,Married,House / apartment
+202539,334791,Cash loans,F,68.0,1000.67,2.0,N,Y,90000.0,239850.0,22671.0,225000.0,0.2519,0.09452157598499061,Pensioner,Secondary / secondary special,Married,House / apartment
+285603,430775,Cash loans,F,54.0,5.4,2.0,N,N,45000.0,225000.0,10822.5,225000.0,0.2405,0.0481,Working,Secondary / secondary special,Married,House / apartment
+143551,266456,Cash loans,F,46.0,9.41,2.0,N,Y,112500.0,391500.0,14886.0,391500.0,0.13232,0.038022988505747125,Working,Secondary / secondary special,Civil marriage,House / apartment
+11022,112836,Cash loans,M,33.0,0.71,2.0,Y,Y,315000.0,1024740.0,52321.5,900000.0,0.1661,0.051058317231688036,Commercial associate,Higher education,Civil marriage,House / apartment
+285604,430776,Cash loans,F,34.0,0.32,2.0,N,Y,112500.0,585000.0,42700.5,585000.0,0.37956,0.07299230769230769,Commercial associate,Secondary / secondary special,Married,House / apartment
+260187,401108,Cash loans,F,50.0,13.47,2.0,N,Y,202500.0,2013840.0,53253.0,1800000.0,0.26297777777777775,0.026443510904540578,Commercial associate,Secondary / secondary special,Married,House / apartment
+143916,266876,Cash loans,M,30.0,0.53,1.0,Y,Y,225000.0,1223010.0,48631.5,1125000.0,0.21614,0.03976377952755906,Commercial associate,Higher education,Single / not married,House / apartment
+80295,193089,Cash loans,M,29.0,2.37,2.0,N,N,238500.0,291384.0,30595.5,270000.0,0.12828301886792454,0.10500061774153695,Working,Secondary / secondary special,Civil marriage,House / apartment
+22113,125751,Cash loans,F,58.0,1000.67,2.0,N,Y,301500.0,469152.0,24084.0,405000.0,0.07988059701492538,0.051335174953959485,Pensioner,Secondary / secondary special,Married,House / apartment
+70914,182248,Cash loans,F,54.0,34.3,2.0,Y,N,121500.0,454500.0,19255.5,454500.0,0.15848148148148147,0.04236633663366337,State servant,Secondary / secondary special,Married,House / apartment
+201585,333675,Cash loans,M,55.0,2.75,2.0,N,N,135000.0,775327.5,30748.5,693000.0,0.22776666666666667,0.039658724861429524,Working,Secondary / secondary special,Civil marriage,House / apartment
+1831,102143,Cash loans,M,43.0,7.38,2.0,Y,Y,396000.0,1125171.0,48303.0,1035000.0,0.12197727272727273,0.042929474719842584,Commercial associate,Higher education,Married,House / apartment
+165614,291986,Cash loans,F,63.0,1000.67,2.0,Y,Y,242550.0,1406880.0,38817.0,1228500.0,0.16003710575139146,0.027590839303991813,Pensioner,Secondary / secondary special,Married,House / apartment
+33529,138839,Cash loans,M,62.0,1000.67,2.0,Y,N,103500.0,265851.0,21132.0,229500.0,0.20417391304347826,0.0794881343308846,Pensioner,Secondary / secondary special,Married,House / apartment
+41575,148136,Cash loans,M,42.0,5.19,3.0,Y,Y,270000.0,1687266.0,64395.0,1575000.0,0.2385,0.0381652922538592,Working,Secondary / secondary special,Married,House / apartment
+240466,378496,Cash loans,F,39.0,15.32,1.0,N,N,270000.0,1687266.0,68719.5,1575000.0,0.25451666666666667,0.04072831432625324,Commercial associate,Higher education,Separated,House / apartment
+34175,139605,Cash loans,F,62.0,1000.67,1.0,N,N,76500.0,675000.0,20596.5,675000.0,0.2692352941176471,0.030513333333333333,Pensioner,Higher education,Widow,House / apartment
+115004,233353,Revolving loans,F,22.0,2.14,1.0,N,N,112500.0,270000.0,13500.0,270000.0,0.12,0.05,Working,Secondary / secondary special,Single / not married,Rented apartment
+8935,110397,Cash loans,F,60.0,1000.67,2.0,N,N,58500.0,247275.0,17208.0,225000.0,0.29415384615384615,0.06959053685168334,Pensioner,Secondary / secondary special,Married,House / apartment
+281484,426103,Cash loans,M,54.0,1000.67,2.0,Y,Y,112500.0,1006920.0,42660.0,900000.0,0.3792,0.042366821594565604,Pensioner,Secondary / secondary special,Married,House / apartment
+19396,122624,Cash loans,F,55.0,0.44,2.0,N,Y,121500.0,454500.0,20151.0,454500.0,0.16585185185185186,0.044336633663366334,Working,Secondary / secondary special,Married,House / apartment
+169263,296180,Cash loans,F,64.0,1000.67,1.0,N,Y,54000.0,127350.0,7438.5,112500.0,0.13775,0.058409893992932865,Pensioner,Secondary / secondary special,Widow,House / apartment
+183284,312439,Revolving loans,M,40.0,4.49,3.0,Y,Y,157500.0,135000.0,6750.0,135000.0,0.04285714285714286,0.05,Working,Secondary / secondary special,Married,House / apartment
+277705,421750,Cash loans,F,30.0,11.16,2.0,N,Y,256500.0,253377.0,23368.5,211500.0,0.09110526315789473,0.09222818172130856,Working,Secondary / secondary special,Single / not married,House / apartment
+179748,308303,Cash loans,F,45.0,2.27,2.0,N,Y,112500.0,531706.5,29817.0,459000.0,0.26504,0.05607793021149826,Working,Secondary / secondary special,Married,House / apartment
+145405,268606,Cash loans,M,31.0,2.36,1.0,N,Y,247500.0,388512.0,31279.5,360000.0,0.12638181818181818,0.0805110266864344,Working,Secondary / secondary special,Single / not married,House / apartment
+135896,257626,Cash loans,F,44.0,14.07,1.0,Y,N,265500.0,792477.0,21033.0,661500.0,0.07922033898305085,0.026540833361725323,Working,Secondary / secondary special,Single / not married,House / apartment
+127461,247821,Revolving loans,F,27.0,5.68,3.0,Y,Y,135000.0,405000.0,20250.0,405000.0,0.15,0.05,Working,Secondary / secondary special,Married,House / apartment
+35020,140578,Cash loans,F,54.0,34.59,1.0,N,N,67500.0,501948.0,13369.5,328500.0,0.19806666666666667,0.026635229147242343,Working,Secondary / secondary special,Single / not married,House / apartment
+235287,372540,Cash loans,F,66.0,1000.67,2.0,N,Y,87750.0,247275.0,17338.5,225000.0,0.1975897435897436,0.07011828935395814,Pensioner,Secondary / secondary special,Married,House / apartment
+187251,317071,Revolving loans,M,65.0,1000.67,2.0,Y,Y,112500.0,135000.0,6750.0,135000.0,0.06,0.05,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+86243,200090,Cash loans,F,29.0,5.23,2.0,Y,N,90000.0,180000.0,17802.0,180000.0,0.1978,0.0989,Working,Secondary / secondary special,Single / not married,With parents
+1309,101538,Cash loans,M,33.0,5.12,4.0,N,Y,112500.0,864000.0,25393.5,864000.0,0.22572,0.029390625,Working,Secondary / secondary special,Married,House / apartment
+231978,368698,Cash loans,M,40.0,3.0,1.0,Y,Y,49500.0,197820.0,17050.5,180000.0,0.34445454545454546,0.08619199272065514,Working,Secondary / secondary special,Separated,House / apartment
+201628,333727,Cash loans,F,35.0,3.88,4.0,Y,Y,229500.0,610335.0,25785.0,463500.0,0.11235294117647059,0.042247290422472904,Working,Secondary / secondary special,Married,House / apartment
+79336,191974,Cash loans,F,56.0,9.65,1.0,N,N,225000.0,1006920.0,46791.0,900000.0,0.20796,0.0464694315337862,Working,Higher education,Separated,House / apartment
+109282,226743,Cash loans,F,61.0,1000.67,1.0,N,N,72000.0,254700.0,24939.0,225000.0,0.346375,0.09791519434628976,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+298914,446285,Cash loans,F,44.0,2.59,2.0,N,Y,135000.0,746626.5,30105.0,567000.0,0.223,0.040321365502028125,Working,Secondary / secondary special,Civil marriage,House / apartment
+72546,184126,Revolving loans,F,43.0,14.88,2.0,Y,Y,112500.0,765000.0,38250.0,765000.0,0.34,0.05,Working,Secondary / secondary special,Civil marriage,House / apartment
+215003,349136,Cash loans,F,43.0,18.68,3.0,N,Y,54000.0,112068.0,12199.5,99000.0,0.22591666666666665,0.10885801477674269,Working,Secondary / secondary special,Married,House / apartment
+46290,153624,Cash loans,F,32.0,0.56,4.0,N,Y,157500.0,651600.0,23535.0,562500.0,0.14942857142857144,0.03611878453038674,Working,Secondary / secondary special,Married,House / apartment
+297602,444775,Cash loans,M,43.0,1.81,4.0,Y,N,135000.0,1288350.0,37669.5,1125000.0,0.27903333333333336,0.02923856095005239,Working,Secondary / secondary special,Married,House / apartment
+162474,288359,Cash loans,F,28.0,3.61,2.0,N,Y,112500.0,134775.0,10426.5,112500.0,0.09268,0.07736227045075125,Commercial associate,Higher education,Civil marriage,House / apartment
+20302,123690,Cash loans,F,41.0,9.7,1.0,Y,N,202500.0,545040.0,17842.5,450000.0,0.08811111111111111,0.03273612945838838,Working,Higher education,Separated,Municipal apartment
+22212,125862,Revolving loans,F,31.0,7.56,1.0,N,Y,135000.0,202500.0,10125.0,202500.0,0.075,0.05,Working,Higher education,Single / not married,House / apartment
+111852,229764,Cash loans,F,29.0,2.41,2.0,N,Y,157500.0,324000.0,35023.5,324000.0,0.22237142857142858,0.10809722222222222,Working,Secondary / secondary special,Single / not married,House / apartment
+120088,239257,Cash loans,F,47.0,2.9,1.0,N,Y,540000.0,1078200.0,31653.0,900000.0,0.058616666666666664,0.02935726210350584,Working,Secondary / secondary special,Widow,House / apartment
+83513,196864,Cash loans,F,44.0,5.04,2.0,N,Y,99000.0,977724.0,38182.5,742500.0,0.3856818181818182,0.0390524319746677,Commercial associate,Secondary / secondary special,Married,House / apartment
+165219,291527,Cash loans,F,61.0,1000.67,2.0,N,Y,112500.0,688500.0,20259.0,688500.0,0.18008,0.02942483660130719,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+275033,418766,Cash loans,M,35.0,14.2,3.0,Y,N,135000.0,234000.0,15259.5,234000.0,0.11303333333333333,0.06521153846153846,Working,Higher education,Married,House / apartment
+107353,224552,Cash loans,F,68.0,1000.67,2.0,N,Y,67500.0,178290.0,17496.0,157500.0,0.2592,0.09813225643614336,Pensioner,Secondary / secondary special,Married,House / apartment
+101662,218033,Cash loans,F,60.0,1000.67,2.0,Y,N,90000.0,318645.0,15457.5,216000.0,0.17175,0.048510097443863864,Pensioner,Secondary / secondary special,Married,House / apartment
+107857,225127,Cash loans,F,28.0,1.4,3.0,Y,Y,67500.0,101880.0,11623.5,90000.0,0.1722,0.11409010600706714,Working,Secondary / secondary special,Married,House / apartment
+1249,101475,Cash loans,F,60.0,1000.67,1.0,N,N,67500.0,95940.0,9472.5,90000.0,0.14033333333333334,0.09873358348968105,Pensioner,Secondary / secondary special,Widow,House / apartment
+244261,382719,Cash loans,F,29.0,6.9,3.0,Y,N,157500.0,225000.0,6318.0,225000.0,0.04011428571428571,0.02808,Working,Higher education,Married,House / apartment
+139036,261216,Cash loans,F,63.0,1000.67,2.0,N,Y,126000.0,594121.5,25299.0,472500.0,0.2007857142857143,0.042582199095639525,Pensioner,Secondary / secondary special,Married,House / apartment
+152061,276251,Cash loans,F,47.0,27.38,2.0,N,Y,202500.0,526500.0,22437.0,526500.0,0.1108,0.04261538461538462,Commercial associate,Secondary / secondary special,Married,House / apartment
+90030,204529,Cash loans,F,36.0,0.49,1.0,Y,Y,135000.0,640080.0,29970.0,450000.0,0.222,0.046822272215973,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+284636,429650,Cash loans,F,32.0,2.26,3.0,N,Y,112500.0,314100.0,16573.5,225000.0,0.14732,0.052765042979942695,Commercial associate,Secondary / secondary special,Married,House / apartment
+78427,190921,Cash loans,F,37.0,10.75,2.0,Y,Y,135000.0,544491.0,17694.0,454500.0,0.13106666666666666,0.03249640489925453,Working,Higher education,Married,House / apartment
+35144,140713,Cash loans,M,23.0,3.8,1.0,Y,N,112500.0,247500.0,13423.5,247500.0,0.11932,0.05423636363636364,Working,Secondary / secondary special,Single / not married,With parents
+266171,408331,Cash loans,M,28.0,2.43,2.0,Y,N,180000.0,1350000.0,55116.0,1350000.0,0.3062,0.040826666666666664,Working,Higher education,Married,House / apartment
+268462,411110,Cash loans,F,24.0,0.81,2.0,N,N,117000.0,1024740.0,41737.5,900000.0,0.35673076923076924,0.04072984366766204,Working,Higher education,Civil marriage,House / apartment
+94758,210031,Cash loans,F,53.0,9.07,2.0,N,N,90000.0,900000.0,26316.0,900000.0,0.2924,0.02924,Commercial associate,Secondary / secondary special,Married,House / apartment
+35197,140773,Cash loans,F,55.0,1.47,1.0,N,Y,135000.0,1042560.0,34587.0,900000.0,0.2562,0.03317506906077348,Working,Secondary / secondary special,Separated,House / apartment
+118828,237795,Revolving loans,M,33.0,4.26,2.0,Y,Y,112500.0,337500.0,16875.0,337500.0,0.15,0.05,Working,Secondary / secondary special,Civil marriage,House / apartment
+62197,172135,Cash loans,M,39.0,12.55,3.0,Y,N,405000.0,640080.0,29970.0,450000.0,0.074,0.046822272215973,Working,Secondary / secondary special,Civil marriage,Rented apartment
+185646,315209,Cash loans,M,31.0,2.23,3.0,N,Y,225000.0,545040.0,35617.5,450000.0,0.1583,0.06534841479524439,Commercial associate,Secondary / secondary special,Married,With parents
+306992,455672,Cash loans,F,58.0,1000.67,2.0,N,Y,270000.0,900000.0,26316.0,900000.0,0.09746666666666666,0.02924,Pensioner,Higher education,Married,House / apartment
+64969,175338,Cash loans,M,43.0,4.56,4.0,Y,Y,112500.0,454500.0,23337.0,454500.0,0.20744,0.051346534653465344,Commercial associate,Secondary / secondary special,Married,House / apartment
+149528,273362,Cash loans,M,57.0,2.49,1.0,N,Y,45000.0,327024.0,12456.0,270000.0,0.2768,0.038088947600176136,Working,Secondary / secondary special,Single / not married,House / apartment
+58504,167812,Cash loans,M,56.0,4.72,1.0,Y,Y,99000.0,117162.0,11718.0,103500.0,0.11836363636363637,0.10001536334306345,Working,Secondary / secondary special,Separated,House / apartment
+137067,258972,Revolving loans,F,59.0,1000.67,2.0,N,N,112500.0,247500.0,12375.0,247500.0,0.11,0.05,Pensioner,Higher education,Married,House / apartment
+80122,192884,Cash loans,M,64.0,1000.67,2.0,N,N,112500.0,1078200.0,31653.0,900000.0,0.28136,0.02935726210350584,Pensioner,Secondary / secondary special,Married,Municipal apartment
+185192,314671,Revolving loans,F,41.0,11.52,1.0,N,Y,270000.0,720000.0,36000.0,720000.0,0.13333333333333333,0.05,State servant,Higher education,Separated,House / apartment
+146907,270323,Cash loans,F,66.0,1000.67,2.0,N,Y,90000.0,260640.0,26838.0,225000.0,0.2982,0.10296961325966851,Pensioner,Secondary / secondary special,Married,House / apartment
+21445,124985,Revolving loans,F,26.0,5.28,2.0,N,Y,112500.0,270000.0,13500.0,270000.0,0.12,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+49031,156777,Cash loans,F,65.0,1000.67,2.0,N,N,112500.0,331834.5,16092.0,252000.0,0.14304,0.048494053511614975,Pensioner,Lower secondary,Married,House / apartment
+103993,220689,Cash loans,M,41.0,8.71,2.0,N,Y,180000.0,332946.0,16146.0,238500.0,0.0897,0.04849435043520571,Working,Secondary / secondary special,Civil marriage,House / apartment
+255616,395779,Revolving loans,F,44.0,5.81,4.0,N,Y,90000.0,202500.0,10125.0,202500.0,0.1125,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+253987,393898,Cash loans,F,30.0,2.01,4.0,N,N,99000.0,436032.0,20457.0,360000.0,0.20663636363636365,0.04691628137384412,Commercial associate,Secondary / secondary special,Married,With parents
+82319,195467,Cash loans,F,40.0,1.37,2.0,N,Y,135000.0,450000.0,22018.5,450000.0,0.1631,0.04893,Working,Secondary / secondary special,Separated,House / apartment
+222505,357738,Cash loans,F,28.0,1.37,2.0,N,Y,180000.0,563269.5,27526.5,396000.0,0.152925,0.04886914700689457,Working,Secondary / secondary special,Married,House / apartment
+157806,282916,Cash loans,M,28.0,3.89,2.0,Y,N,292500.0,1575000.0,58500.0,1575000.0,0.2,0.037142857142857144,Working,Higher education,Married,House / apartment
+205465,338163,Cash loans,F,30.0,4.96,4.0,N,N,81000.0,117162.0,12559.5,103500.0,0.15505555555555556,0.10719772622522661,Working,Secondary / secondary special,Married,House / apartment
+184010,313277,Cash loans,M,46.0,5.0,2.0,N,Y,112500.0,967500.0,34879.5,967500.0,0.31004,0.03605116279069767,Working,Secondary / secondary special,Married,House / apartment
+234615,371775,Cash loans,M,46.0,15.32,2.0,Y,Y,144000.0,1024290.0,33174.0,855000.0,0.230375,0.032387312186978295,State servant,Higher education,Married,House / apartment
+64606,174926,Cash loans,F,42.0,2.13,2.0,N,N,90000.0,202500.0,18702.0,202500.0,0.2078,0.09235555555555555,Commercial associate,Secondary / secondary special,Married,House / apartment
+286818,432201,Cash loans,F,41.0,6.83,2.0,N,N,180000.0,781920.0,47965.5,675000.0,0.266475,0.06134323204419889,State servant,Higher education,Married,Municipal apartment
+91443,206191,Cash loans,F,54.0,6.77,2.0,N,Y,193500.0,1147500.0,31684.5,1147500.0,0.16374418604651164,0.027611764705882353,Working,Secondary / secondary special,Married,House / apartment
+260465,401426,Revolving loans,M,43.0,4.86,2.0,Y,N,135000.0,315000.0,15750.0,405000.0,0.11666666666666667,0.05,Working,Higher education,Civil marriage,House / apartment
+202683,334956,Cash loans,F,62.0,1000.67,1.0,N,Y,38250.0,98910.0,7011.0,90000.0,0.18329411764705883,0.07088262056414922,Pensioner,Lower secondary,Separated,House / apartment
+155734,280523,Cash loans,F,47.0,1000.67,4.0,Y,Y,270000.0,1185282.0,38236.5,1035000.0,0.14161666666666667,0.032259411684308036,Pensioner,Higher education,Civil marriage,House / apartment
+197547,329038,Cash loans,F,28.0,3.77,2.0,N,Y,202500.0,521280.0,28408.5,450000.0,0.14028888888888888,0.05449758287292818,State servant,Secondary / secondary special,Single / not married,House / apartment
+17641,120568,Cash loans,F,35.0,12.98,2.0,N,Y,85500.0,599472.0,21663.0,517500.0,0.2533684210526316,0.03613680038433822,State servant,Secondary / secondary special,Married,House / apartment
+126581,246801,Cash loans,M,41.0,9.54,2.0,Y,Y,180000.0,1024740.0,52452.0,900000.0,0.2914,0.05118566660811523,Working,Secondary / secondary special,Married,House / apartment
+32308,137460,Cash loans,M,24.0,1.31,2.0,N,N,180000.0,163332.0,11178.0,117000.0,0.0621,0.06843729336566012,Commercial associate,Secondary / secondary special,Separated,House / apartment
+201747,333865,Cash loans,F,56.0,2.77,2.0,N,Y,157500.0,824823.0,24246.0,688500.0,0.15394285714285713,0.02939539755802154,Working,Higher education,Civil marriage,House / apartment
+35106,140667,Cash loans,M,54.0,4.19,2.0,N,Y,112500.0,894906.0,26293.5,747000.0,0.23372,0.029381298147514934,Working,Secondary / secondary special,Civil marriage,House / apartment
+267010,409357,Cash loans,M,24.0,5.01,1.0,N,N,166500.0,376078.5,19471.5,310500.0,0.11694594594594594,0.051775094827276755,Working,Higher education,Single / not married,House / apartment
+214531,348592,Cash loans,F,60.0,1000.67,2.0,N,Y,108000.0,303489.0,29695.5,274500.0,0.27495833333333336,0.09784703893716082,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+26253,130536,Cash loans,F,37.0,1.15,3.0,N,Y,225000.0,473760.0,51151.5,450000.0,0.22734,0.10796922492401216,Working,Incomplete higher,Married,House / apartment
+90813,205439,Cash loans,M,28.0,1.65,1.0,N,N,315000.0,296280.0,21690.0,225000.0,0.06885714285714285,0.07320777642770353,Working,Secondary / secondary special,Single / not married,Municipal apartment
+135042,256622,Cash loans,F,36.0,5.05,1.0,N,N,76500.0,272520.0,21658.5,225000.0,0.28311764705882353,0.07947490092470277,Working,Secondary / secondary special,Single / not married,With parents
+265667,407720,Cash loans,M,30.0,7.69,3.0,N,Y,112500.0,225000.0,15660.0,225000.0,0.1392,0.0696,Working,Secondary / secondary special,Married,House / apartment
+41866,148478,Revolving loans,F,44.0,1.16,2.0,N,Y,157500.0,202500.0,10125.0,202500.0,0.06428571428571428,0.05,Working,Secondary / secondary special,Separated,House / apartment
+143429,266306,Cash loans,F,63.0,1000.67,1.0,N,Y,90000.0,544491.0,16047.0,454500.0,0.1783,0.029471561513413444,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+141104,263601,Cash loans,F,59.0,3.87,1.0,N,Y,144000.0,239850.0,23364.0,225000.0,0.16225,0.0974108818011257,Working,Higher education,Separated,House / apartment
+195401,326579,Cash loans,F,54.0,1000.67,2.0,N,N,117000.0,225000.0,8482.5,225000.0,0.0725,0.0377,Pensioner,Secondary / secondary special,Married,Municipal apartment
+88551,202813,Cash loans,F,61.0,1000.67,1.0,N,Y,49500.0,74182.5,5292.0,67500.0,0.10690909090909091,0.07133757961783439,Pensioner,Secondary / secondary special,Separated,House / apartment
+75295,187321,Cash loans,M,52.0,3.62,2.0,N,Y,202500.0,1006920.0,42790.5,900000.0,0.21131111111111112,0.04249642474079371,Working,Secondary / secondary special,Civil marriage,House / apartment
+104109,220830,Cash loans,F,46.0,5.48,1.0,N,Y,157500.0,165024.0,6057.0,108000.0,0.038457142857142856,0.036703752181500876,State servant,Secondary / secondary special,Single / not married,House / apartment
+109160,226606,Cash loans,M,47.0,1.99,2.0,N,Y,90000.0,314100.0,16573.5,225000.0,0.18415,0.052765042979942695,Working,Secondary / secondary special,Civil marriage,House / apartment
+133705,255072,Cash loans,F,27.0,5.01,2.0,N,Y,121500.0,568057.5,24196.5,459000.0,0.19914814814814816,0.04259515982096883,Working,Incomplete higher,Single / not married,House / apartment
+58562,167878,Cash loans,M,53.0,12.19,1.0,N,N,103500.0,450000.0,22018.5,450000.0,0.2127391304347826,0.04893,Working,Secondary / secondary special,Separated,Rented apartment
+41062,147553,Cash loans,F,47.0,6.57,1.0,Y,N,180000.0,781920.0,25969.5,675000.0,0.144275,0.033212476979742174,Commercial associate,Higher education,Single / not married,Co-op apartment
+82022,195122,Revolving loans,M,39.0,3.85,1.0,Y,Y,112500.0,180000.0,9000.0,180000.0,0.08,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+123992,243791,Cash loans,M,47.0,17.35,2.0,Y,N,180000.0,254700.0,25321.5,225000.0,0.140675,0.09941696113074205,Working,Secondary / secondary special,Married,House / apartment
+233274,370195,Cash loans,M,36.0,7.49,4.0,N,Y,153000.0,360000.0,24187.5,360000.0,0.15808823529411764,0.0671875,Commercial associate,Higher education,Married,House / apartment
+305592,454056,Cash loans,M,39.0,0.79,3.0,Y,Y,81000.0,585000.0,22666.5,585000.0,0.2798333333333333,0.03874615384615385,Working,Secondary / secondary special,Married,House / apartment
+299158,446571,Cash loans,M,48.0,6.43,3.0,N,Y,180000.0,436032.0,20457.0,360000.0,0.11365,0.04691628137384412,Working,Secondary / secondary special,Married,House / apartment
+184987,314437,Cash loans,F,38.0,5.62,2.0,N,Y,90000.0,830214.0,24273.0,693000.0,0.2697,0.02923704008845912,Working,Secondary / secondary special,Married,House / apartment
+169869,296876,Cash loans,F,55.0,7.71,2.0,N,Y,54000.0,206280.0,7906.5,135000.0,0.14641666666666667,0.038328970331588136,Working,Secondary / secondary special,Married,House / apartment
+40381,146778,Cash loans,F,49.0,3.48,3.0,N,Y,90000.0,891072.0,45625.5,720000.0,0.50695,0.05120293309631545,Working,Secondary / secondary special,Married,House / apartment
+231097,367670,Cash loans,F,47.0,1.16,3.0,N,Y,301500.0,942300.0,36643.5,675000.0,0.12153731343283582,0.0388872970391595,Commercial associate,Higher education,Married,House / apartment
+304630,452938,Cash loans,F,55.0,1000.67,2.0,Y,Y,202500.0,1354500.0,37246.5,1354500.0,0.18393333333333334,0.027498338870431894,Pensioner,Secondary / secondary special,Married,House / apartment
+61916,171816,Cash loans,F,60.0,4.37,2.0,N,Y,292500.0,1575000.0,41679.0,1575000.0,0.1424923076923077,0.026462857142857142,Working,Secondary / secondary special,Married,House / apartment
+28513,133141,Cash loans,M,57.0,3.12,1.0,N,N,225000.0,1206000.0,31941.0,1206000.0,0.14196,0.02648507462686567,Working,Secondary / secondary special,Single / not married,House / apartment
+105505,222426,Revolving loans,F,37.0,1.76,4.0,N,Y,90000.0,247500.0,12375.0,247500.0,0.1375,0.05,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+149914,273791,Cash loans,F,43.0,20.58,2.0,N,N,135000.0,364428.0,13869.0,238500.0,0.10273333333333333,0.03805690012842043,Commercial associate,Secondary / secondary special,Married,With parents
+45334,152509,Cash loans,F,55.0,7.99,2.0,Y,Y,180000.0,256500.0,18715.5,256500.0,0.103975,0.07296491228070176,Working,Higher education,Civil marriage,House / apartment
+85598,199332,Cash loans,F,28.0,4.5,2.0,N,Y,135000.0,906615.0,30091.5,688500.0,0.2229,0.033191045813272445,Working,Secondary / secondary special,Married,House / apartment
+216400,350742,Cash loans,F,36.0,15.56,3.0,Y,Y,270000.0,1687266.0,64264.5,1575000.0,0.23801666666666665,0.038087948195483105,Working,Higher education,Civil marriage,House / apartment
+174670,302418,Cash loans,M,59.0,1000.67,2.0,N,Y,202500.0,698517.0,35793.0,603000.0,0.17675555555555555,0.051241415742208134,Pensioner,Higher education,Married,House / apartment
+220401,355325,Cash loans,F,50.0,9.13,2.0,N,Y,99000.0,808650.0,23773.5,675000.0,0.24013636363636365,0.02939899833055092,Commercial associate,Secondary / secondary special,Married,House / apartment
+162191,288037,Cash loans,M,47.0,8.27,2.0,N,Y,189000.0,573628.5,27724.5,463500.0,0.14669047619047618,0.048331803597624595,Working,Secondary / secondary special,Married,House / apartment
+288562,434299,Cash loans,F,55.0,7.18,3.0,N,Y,202500.0,1305000.0,38155.5,1305000.0,0.1884222222222222,0.02923793103448276,Commercial associate,Higher education,Married,House / apartment
+252533,392200,Cash loans,F,41.0,0.49,2.0,N,Y,157500.0,1174977.0,34483.5,1026000.0,0.21894285714285713,0.029348234050538862,Working,Secondary / secondary special,Married,House / apartment
+285207,430310,Cash loans,F,32.0,5.59,3.0,N,N,180000.0,592560.0,35937.0,450000.0,0.19965,0.06064702308626974,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+63504,173643,Cash loans,F,27.0,2.58,2.0,N,Y,225000.0,790830.0,57676.5,675000.0,0.25634,0.0729316035051781,Working,Higher education,Married,House / apartment
+259190,399954,Cash loans,F,36.0,8.25,2.0,N,N,270000.0,288000.0,19246.5,288000.0,0.07128333333333334,0.066828125,Working,Higher education,Married,House / apartment
+18291,121338,Cash loans,F,57.0,13.37,1.0,N,Y,112500.0,590337.0,25141.5,477000.0,0.22348,0.04258838595581846,Working,Secondary / secondary special,Widow,House / apartment
+43546,150410,Cash loans,F,60.0,1000.67,2.0,N,Y,121500.0,562491.0,24907.5,454500.0,0.205,0.04428070849133586,Pensioner,Secondary / secondary special,Married,House / apartment
+260291,401227,Cash loans,M,31.0,9.03,2.0,N,N,81000.0,343377.0,16830.0,283500.0,0.20777777777777778,0.049013183760123716,Working,Lower secondary,Civil marriage,Municipal apartment
+143969,266933,Cash loans,F,38.0,4.13,4.0,N,Y,292500.0,364500.0,19903.5,364500.0,0.06804615384615384,0.05460493827160494,Working,Lower secondary,Married,House / apartment
+274143,417762,Revolving loans,F,23.0,0.69,2.0,N,Y,90000.0,270000.0,13500.0,270000.0,0.15,0.05,Working,Higher education,Civil marriage,With parents
+121676,241069,Cash loans,M,42.0,8.39,2.0,Y,Y,315000.0,497520.0,52371.0,450000.0,0.16625714285714285,0.10526410998552822,State servant,Higher education,Married,House / apartment
+285225,430331,Cash loans,F,33.0,9.9,3.0,N,N,90000.0,900000.0,32328.0,900000.0,0.3592,0.03592,Working,Higher education,Married,House / apartment
+233527,370492,Cash loans,F,50.0,7.91,1.0,N,Y,202500.0,315000.0,19165.5,315000.0,0.09464444444444445,0.06084285714285714,Working,Secondary / secondary special,Single / not married,House / apartment
+208961,342191,Cash loans,M,66.0,1000.67,1.0,N,Y,81000.0,225000.0,12915.0,225000.0,0.15944444444444444,0.0574,Pensioner,Secondary / secondary special,Widow,House / apartment
+78564,191077,Cash loans,F,48.0,1.56,2.0,Y,Y,112500.0,381528.0,24381.0,315000.0,0.21672,0.06390356671070013,Working,Secondary / secondary special,Married,House / apartment
+135385,257028,Cash loans,M,42.0,21.52,1.0,Y,Y,450000.0,1255680.0,41629.5,1125000.0,0.09251,0.03315295298165138,Commercial associate,Secondary / secondary special,Separated,House / apartment
+295669,442554,Cash loans,F,53.0,1000.67,2.0,N,N,108000.0,781920.0,23836.5,675000.0,0.22070833333333334,0.030484576427255987,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+128631,249204,Cash loans,M,55.0,9.01,2.0,Y,Y,292500.0,1078200.0,31522.5,900000.0,0.10776923076923077,0.029236227045075124,Commercial associate,Higher education,Married,House / apartment
+185982,315600,Cash loans,M,30.0,3.86,3.0,Y,N,112500.0,263686.5,19318.5,238500.0,0.17172,0.07326313633803778,Working,Incomplete higher,Civil marriage,House / apartment
+110713,228436,Cash loans,F,38.0,3.09,2.0,N,N,81000.0,142200.0,8068.5,112500.0,0.09961111111111111,0.05674050632911393,Working,Secondary / secondary special,Separated,With parents
+139814,262125,Cash loans,F,33.0,5.89,1.0,Y,Y,121500.0,346968.0,27540.0,274500.0,0.22666666666666666,0.07937331396555301,Working,Secondary / secondary special,Single / not married,With parents
+286017,431255,Cash loans,F,29.0,1.93,3.0,N,Y,202500.0,288873.0,18589.5,238500.0,0.0918,0.06435180858024114,Commercial associate,Secondary / secondary special,Married,House / apartment
+259991,400865,Cash loans,F,43.0,11.19,3.0,N,N,229500.0,52767.0,5728.5,49500.0,0.02496078431372549,0.1085621695377793,Working,Lower secondary,Separated,House / apartment
+274731,418409,Cash loans,F,55.0,1.06,2.0,N,Y,135000.0,440784.0,24741.0,360000.0,0.18326666666666666,0.05612953283240771,Working,Secondary / secondary special,Separated,With parents
+292540,438901,Cash loans,F,45.0,1.87,1.0,Y,N,292500.0,544491.0,14359.5,454500.0,0.04909230769230769,0.02637233673283856,Working,Secondary / secondary special,Single / not married,House / apartment
+214257,348281,Cash loans,M,35.0,3.69,3.0,N,N,270000.0,756000.0,22234.5,756000.0,0.08235,0.029410714285714287,Working,Higher education,Married,House / apartment
+304681,452997,Cash loans,M,64.0,8.19,2.0,Y,Y,180000.0,1312110.0,52168.5,1125000.0,0.289825,0.039759242746416075,Commercial associate,Secondary / secondary special,Married,House / apartment
+291921,438186,Cash loans,F,28.0,2.35,3.0,Y,Y,148500.0,1193580.0,38632.5,855000.0,0.26015151515151513,0.032366912984466895,Working,Secondary / secondary special,Civil marriage,House / apartment
+150825,274833,Cash loans,F,56.0,1000.67,2.0,N,Y,157500.0,553806.0,23593.5,495000.0,0.1498,0.0426024636786167,Pensioner,Secondary / secondary special,Married,House / apartment
+138582,260704,Cash loans,F,51.0,19.67,1.0,Y,Y,90000.0,388512.0,27760.5,360000.0,0.30845,0.0714533914010378,Working,Secondary / secondary special,Single / not married,House / apartment
+140152,262510,Revolving loans,M,54.0,6.95,2.0,N,Y,180000.0,405000.0,20250.0,405000.0,0.1125,0.05,Commercial associate,Higher education,Married,House / apartment
+303169,451245,Cash loans,M,27.0,3.23,3.0,Y,Y,225000.0,582768.0,59845.5,540000.0,0.26598,0.10269180874722016,Working,Secondary / secondary special,Married,House / apartment
+205483,338185,Cash loans,F,62.0,36.75,1.0,N,Y,180000.0,315000.0,19269.0,315000.0,0.10705,0.06117142857142857,Working,Higher education,Single / not married,House / apartment
+29675,134452,Cash loans,F,32.0,10.43,2.0,N,N,135000.0,1506816.0,49797.0,1350000.0,0.3688666666666667,0.03304783065749235,Working,Secondary / secondary special,Married,House / apartment
+296148,443108,Cash loans,M,41.0,8.02,2.0,N,Y,135000.0,584766.0,27225.0,472500.0,0.20166666666666666,0.04655708437221042,Working,Higher education,Married,House / apartment
+141563,264139,Cash loans,M,47.0,6.24,2.0,Y,Y,166500.0,888840.0,37494.0,675000.0,0.22518918918918918,0.04218307006885379,Working,Secondary / secondary special,Married,House / apartment
+215915,350181,Revolving loans,M,60.0,14.59,2.0,N,Y,112500.0,247500.0,12375.0,247500.0,0.11,0.05,Commercial associate,Higher education,Married,House / apartment
+147041,270484,Cash loans,F,41.0,2.98,1.0,N,Y,99000.0,284400.0,20740.5,225000.0,0.2095,0.07292721518987341,Working,Secondary / secondary special,Separated,House / apartment
+286,100329,Cash loans,F,55.0,1.77,2.0,Y,Y,135000.0,247275.0,17716.5,225000.0,0.13123333333333334,0.07164695177434031,Working,Secondary / secondary special,Married,House / apartment
+305228,453634,Cash loans,F,53.0,18.33,2.0,N,Y,283500.0,1006920.0,42790.5,900000.0,0.15093650793650792,0.04249642474079371,Commercial associate,Secondary / secondary special,Married,House / apartment
+279125,423361,Cash loans,M,56.0,14.76,1.0,N,Y,180000.0,808650.0,26086.5,675000.0,0.144925,0.032259321090706734,Working,Secondary / secondary special,Single / not married,House / apartment
+149321,273124,Cash loans,F,44.0,3.18,2.0,N,Y,157500.0,1339884.0,39307.5,1170000.0,0.24957142857142858,0.02933649480104248,Working,Secondary / secondary special,Married,House / apartment
+88787,203085,Cash loans,F,54.0,1.32,2.0,N,Y,193500.0,625500.0,30091.5,625500.0,0.15551162790697676,0.04810791366906475,Working,Secondary / secondary special,Civil marriage,House / apartment
+58925,168301,Cash loans,M,35.0,8.08,2.0,Y,N,202500.0,225000.0,11488.5,225000.0,0.05673333333333333,0.05106,Working,Higher education,Married,With parents
+79642,192323,Cash loans,F,39.0,1.49,2.0,Y,N,153000.0,703728.0,33853.5,607500.0,0.22126470588235295,0.04810594434213219,Working,Higher education,Civil marriage,With parents
+191304,321816,Cash loans,F,34.0,5.33,4.0,Y,N,279000.0,900000.0,26446.5,900000.0,0.09479032258064517,0.029385,Commercial associate,Higher education,Married,House / apartment
+230282,366736,Cash loans,M,32.0,10.93,3.0,Y,N,112500.0,265851.0,14049.0,229500.0,0.12488,0.05284539083922949,Working,Secondary / secondary special,Married,With parents
+208359,341508,Cash loans,F,37.0,7.17,2.0,N,Y,157500.0,922666.5,33138.0,796500.0,0.2104,0.0359154689153665,Working,Secondary / secondary special,Married,House / apartment
+71380,182779,Cash loans,F,63.0,1000.67,2.0,Y,Y,54000.0,125136.0,7114.5,99000.0,0.13175,0.05685414269275029,Pensioner,Secondary / secondary special,Married,House / apartment
+117154,235859,Revolving loans,M,63.0,1000.67,2.0,N,N,292500.0,337500.0,16875.0,337500.0,0.057692307692307696,0.05,Pensioner,Lower secondary,Married,House / apartment
+269178,411941,Cash loans,M,35.0,1.12,2.0,Y,Y,315000.0,545040.0,20547.0,450000.0,0.06522857142857143,0.037698150594451786,Working,Secondary / secondary special,Married,House / apartment
+164870,291123,Cash loans,M,45.0,10.21,2.0,N,N,270000.0,545040.0,19575.0,450000.0,0.0725,0.03591479524438573,Commercial associate,Secondary / secondary special,Married,House / apartment
+79095,191687,Cash loans,F,55.0,2.51,1.0,N,Y,121500.0,219042.0,12703.5,193500.0,0.10455555555555555,0.05799572684690607,Working,Secondary / secondary special,Widow,House / apartment
+231231,367825,Cash loans,M,30.0,5.41,2.0,Y,N,301500.0,203760.0,22072.5,180000.0,0.0732089552238806,0.10832597173144877,Working,Secondary / secondary special,Married,With parents
+140112,262467,Cash loans,F,58.0,1000.67,2.0,N,N,76500.0,517500.0,15129.0,517500.0,0.19776470588235295,0.029234782608695654,Pensioner,Secondary / secondary special,Married,House / apartment
+83850,197249,Cash loans,F,31.0,7.05,2.0,Y,Y,148500.0,437877.0,31270.5,378000.0,0.21057575757575758,0.07141389020204304,Working,Incomplete higher,Married,House / apartment
+193858,324798,Cash loans,M,29.0,6.78,4.0,Y,N,81000.0,67500.0,5296.5,67500.0,0.06538888888888889,0.07846666666666667,Working,Secondary / secondary special,Married,House / apartment
+160401,285945,Revolving loans,F,53.0,22.07,2.0,N,Y,90000.0,270000.0,13500.0,270000.0,0.15,0.05,Commercial associate,Higher education,Married,House / apartment
+184210,313516,Cash loans,M,41.0,4.01,3.0,Y,Y,225000.0,1113840.0,57001.5,900000.0,0.25334,0.051175662572721395,Working,Secondary / secondary special,Married,House / apartment
+199291,331047,Cash loans,M,47.0,1.8,4.0,Y,N,270000.0,679671.0,32827.5,607500.0,0.12158333333333333,0.048299103536858276,Working,Secondary / secondary special,Married,House / apartment
+32998,138242,Cash loans,F,36.0,6.73,2.0,N,Y,157500.0,450000.0,27324.0,450000.0,0.1734857142857143,0.06072,State servant,Secondary / secondary special,Married,House / apartment
+256439,396747,Cash loans,F,63.0,1000.67,2.0,N,N,112500.0,284400.0,9211.5,225000.0,0.08188,0.03238924050632912,Pensioner,Secondary / secondary special,Married,House / apartment
+149449,273269,Cash loans,M,42.0,3.07,3.0,N,Y,180000.0,331834.5,17505.0,252000.0,0.09725,0.05275220026850734,State servant,Secondary / secondary special,Married,House / apartment
+54997,163722,Cash loans,F,64.0,1000.67,1.0,N,Y,54000.0,123637.5,8923.5,112500.0,0.16525,0.0721747042766151,Pensioner,Secondary / secondary special,Widow,House / apartment
+97647,213381,Cash loans,F,57.0,1000.67,2.0,N,Y,225000.0,1724220.0,47542.5,1350000.0,0.2113,0.027573337509134564,Pensioner,Secondary / secondary special,Married,House / apartment
+264145,405878,Cash loans,M,33.0,12.57,2.0,Y,N,202500.0,327024.0,25965.0,270000.0,0.1282222222222222,0.07939784236019375,Working,Higher education,Married,Office apartment
+132215,253345,Cash loans,M,34.0,2.14,1.0,N,Y,157500.0,755190.0,36459.0,675000.0,0.2314857142857143,0.0482779168156358,Working,Secondary / secondary special,Single / not married,House / apartment
+127308,247637,Cash loans,F,52.0,3.43,2.0,N,Y,135000.0,474048.0,21010.5,360000.0,0.15563333333333335,0.044321461117861484,Working,Higher education,Married,House / apartment
+304230,452481,Cash loans,F,43.0,11.91,2.0,N,Y,189000.0,695439.0,20461.5,580500.0,0.10826190476190477,0.02942242238355916,Working,Secondary / secondary special,Civil marriage,House / apartment
+212968,346788,Cash loans,M,57.0,12.38,2.0,Y,N,135000.0,545040.0,35617.5,450000.0,0.2638333333333333,0.06534841479524439,Commercial associate,Lower secondary,Married,House / apartment
+244201,382657,Cash loans,M,56.0,13.89,2.0,Y,Y,67500.0,271066.5,13171.5,234000.0,0.19513333333333333,0.048591397313943255,Working,Secondary / secondary special,Married,House / apartment
+176517,304547,Cash loans,F,52.0,1000.67,1.0,N,Y,72000.0,325908.0,15808.5,247500.0,0.2195625,0.04850602010383298,Pensioner,Secondary / secondary special,Separated,House / apartment
+158283,283496,Cash loans,M,48.0,2.13,3.0,Y,N,405000.0,1255680.0,41629.5,1125000.0,0.10278888888888889,0.03315295298165138,State servant,Higher education,Married,House / apartment
+153121,277482,Cash loans,M,55.0,1000.67,3.0,N,Y,121500.0,765261.0,30478.5,684000.0,0.2508518518518518,0.039827588234602314,Pensioner,Secondary / secondary special,Married,House / apartment
+2563,102992,Cash loans,M,25.0,3.86,1.0,Y,Y,180000.0,278613.0,30136.5,252000.0,0.167425,0.10816616597215492,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+260359,401303,Cash loans,F,39.0,4.33,3.0,N,Y,135000.0,675000.0,26770.5,675000.0,0.1983,0.03966,State servant,Secondary / secondary special,Separated,House / apartment
+219697,354514,Cash loans,M,26.0,5.36,4.0,N,N,67500.0,225000.0,10620.0,225000.0,0.15733333333333333,0.0472,Working,Secondary / secondary special,Civil marriage,With parents
+78612,191126,Cash loans,M,29.0,2.28,2.0,N,N,135000.0,246357.0,26271.0,234000.0,0.1946,0.1066379278851423,Working,Secondary / secondary special,Separated,House / apartment
+101441,217769,Cash loans,F,30.0,3.63,2.0,Y,Y,135000.0,135000.0,7749.0,135000.0,0.0574,0.0574,Commercial associate,Higher education,Single / not married,House / apartment
+67362,178120,Cash loans,F,31.0,5.42,4.0,N,Y,94500.0,414792.0,21307.5,315000.0,0.22547619047619047,0.05136911994445409,State servant,Secondary / secondary special,Married,House / apartment
+224392,359900,Cash loans,M,47.0,1.87,2.0,Y,N,135000.0,348264.0,23274.0,315000.0,0.1724,0.06682861277651436,Working,Secondary / secondary special,Married,House / apartment
+177742,305975,Cash loans,F,58.0,38.46,1.0,Y,Y,153000.0,314100.0,12091.5,225000.0,0.07902941176470588,0.03849570200573066,Working,Secondary / secondary special,Widow,House / apartment
+106061,223055,Cash loans,F,40.0,0.5,5.0,N,N,103500.0,239850.0,25960.5,225000.0,0.25082608695652175,0.10823639774859287,Working,Secondary / secondary special,Married,House / apartment
+265145,407064,Cash loans,F,58.0,1000.67,2.0,Y,N,67500.0,99000.0,10273.5,99000.0,0.1522,0.10377272727272727,Pensioner,Secondary / secondary special,Married,House / apartment
+128468,249017,Revolving loans,F,38.0,4.34,4.0,Y,N,67500.0,180000.0,9000.0,180000.0,0.13333333333333333,0.05,Working,Secondary / secondary special,Married,House / apartment
+32706,137905,Cash loans,M,32.0,3.55,4.0,Y,Y,130500.0,849415.5,40995.0,697500.0,0.31413793103448273,0.04826259939923394,Working,Secondary / secondary special,Married,House / apartment
+176826,304908,Cash loans,F,56.0,1000.67,1.0,N,Y,121500.0,654498.0,25956.0,585000.0,0.21362962962962964,0.03965787519595171,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+289814,435754,Cash loans,M,40.0,2.52,4.0,Y,Y,292500.0,800500.5,31878.0,715500.0,0.10898461538461539,0.0398225859946371,Working,Secondary / secondary special,Married,House / apartment
+24799,128839,Cash loans,M,30.0,7.65,3.0,Y,Y,292500.0,675000.0,34641.0,675000.0,0.11843076923076923,0.05132,Working,Secondary / secondary special,Married,House / apartment
+59762,169277,Cash loans,M,54.0,7.43,2.0,N,Y,157500.0,1293502.5,35698.5,1129500.0,0.22665714285714286,0.027598323157473605,Working,Secondary / secondary special,Married,House / apartment
+288567,434304,Cash loans,F,63.0,1000.67,2.0,N,Y,83250.0,229500.0,23643.0,229500.0,0.284,0.10301960784313725,Pensioner,Secondary / secondary special,Married,House / apartment
+306109,454661,Cash loans,F,51.0,3.68,2.0,N,Y,135000.0,454500.0,16825.5,454500.0,0.12463333333333333,0.03701980198019802,Working,Secondary / secondary special,Married,House / apartment
+43573,150440,Cash loans,F,56.0,1000.67,2.0,N,Y,270000.0,1293502.5,35698.5,1129500.0,0.13221666666666668,0.027598323157473605,Pensioner,Secondary / secondary special,Married,House / apartment
+80510,193333,Cash loans,M,46.0,22.56,3.0,Y,Y,315000.0,1113840.0,57001.5,900000.0,0.18095714285714284,0.051175662572721395,State servant,Incomplete higher,Married,House / apartment
+194273,325265,Cash loans,M,33.0,5.84,3.0,Y,Y,360000.0,1971072.0,61888.5,1800000.0,0.1719125,0.031398396405610755,Working,Higher education,Married,House / apartment
+112399,230384,Cash loans,M,51.0,1.32,1.0,Y,N,180000.0,568800.0,16429.5,450000.0,0.091275,0.028884493670886077,Commercial associate,Higher education,Separated,House / apartment
+218992,353699,Cash loans,M,48.0,1000.67,2.0,N,Y,90000.0,245268.0,19507.5,202500.0,0.21675,0.07953544693967415,Pensioner,Secondary / secondary special,Married,House / apartment
+24149,128086,Cash loans,M,38.0,9.01,1.0,N,Y,157500.0,715095.0,49900.5,675000.0,0.3168285714285714,0.06978163740482034,Commercial associate,Incomplete higher,Single / not married,House / apartment
+18054,121056,Cash loans,F,24.0,2.44,2.0,N,N,135000.0,310671.0,14611.5,256500.0,0.10823333333333333,0.04703206929517077,Working,Higher education,Civil marriage,Rented apartment
+133275,254570,Cash loans,M,45.0,6.57,1.0,N,Y,180000.0,543037.5,43033.5,463500.0,0.239075,0.07924590843173814,Working,Secondary / secondary special,Single / not married,House / apartment
+90059,204560,Cash loans,F,59.0,1000.67,1.0,N,Y,337500.0,1256400.0,36864.0,900000.0,0.10922666666666667,0.029340974212034385,Pensioner,Secondary / secondary special,Separated,House / apartment
+877,101007,Cash loans,F,41.0,1.87,1.0,Y,N,202500.0,728460.0,40675.5,675000.0,0.20086666666666667,0.05583765752409192,Working,Higher education,Separated,House / apartment
+146148,269453,Cash loans,M,29.0,0.86,3.0,Y,N,157500.0,495000.0,14314.5,495000.0,0.09088571428571429,0.02891818181818182,Working,Higher education,Married,House / apartment
+267978,410506,Revolving loans,F,54.0,5.98,2.0,N,Y,99000.0,450000.0,22500.0,450000.0,0.22727272727272727,0.05,Working,Secondary / secondary special,Married,House / apartment
+304153,452392,Cash loans,F,60.0,1000.67,1.0,N,Y,202500.0,1546020.0,42511.5,1350000.0,0.20993333333333333,0.027497380370241006,Pensioner,Secondary / secondary special,Widow,House / apartment
+135223,256839,Cash loans,M,40.0,8.63,4.0,Y,Y,270000.0,225000.0,24363.0,225000.0,0.09023333333333333,0.10828,Working,Secondary / secondary special,Married,House / apartment
+22821,126558,Cash loans,F,51.0,7.59,2.0,N,Y,45000.0,137538.0,10863.0,121500.0,0.2414,0.07898180866378746,Working,Secondary / secondary special,Married,House / apartment
+55470,164275,Revolving loans,F,30.0,2.47,3.0,N,Y,90000.0,270000.0,13500.0,270000.0,0.15,0.05,Working,Secondary / secondary special,Married,House / apartment
+225786,361519,Cash loans,F,49.0,3.41,1.0,N,N,499500.0,938304.0,33700.5,810000.0,0.06746846846846846,0.03591639809699202,Commercial associate,Secondary / secondary special,Separated,House / apartment
+186304,315978,Cash loans,M,32.0,6.62,1.0,Y,Y,450000.0,1249740.0,66712.5,1125000.0,0.14825,0.05338110326948005,Commercial associate,Higher education,Single / not married,House / apartment
+261390,402549,Cash loans,M,43.0,4.91,2.0,Y,Y,225000.0,178290.0,18850.5,157500.0,0.08378,0.10572942958101969,Working,Secondary / secondary special,Married,House / apartment
+169769,296755,Cash loans,F,61.0,1000.67,1.0,Y,N,225000.0,576000.0,18711.0,576000.0,0.08316,0.032484375,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+35789,141452,Cash loans,F,42.0,0.71,2.0,Y,N,112500.0,1078200.0,28570.5,900000.0,0.25396,0.026498330550918197,Commercial associate,Higher education,Married,House / apartment
+14176,116528,Cash loans,F,52.0,8.95,2.0,N,Y,90000.0,1076247.0,45729.0,990000.0,0.5081,0.042489317043392455,Working,Secondary / secondary special,Married,House / apartment
+287801,433386,Cash loans,F,33.0,9.86,2.0,N,Y,202500.0,729792.0,23044.5,630000.0,0.1138,0.03157680544593528,Commercial associate,Higher education,Married,House / apartment
+143693,266615,Cash loans,F,63.0,1000.67,2.0,N,Y,202500.0,457834.5,22396.5,378000.0,0.1106,0.04891833184261998,Pensioner,Secondary / secondary special,Married,House / apartment
+275086,418819,Cash loans,F,24.0,1.52,2.0,N,Y,112500.0,199080.0,13302.0,157500.0,0.11824,0.06681735985533453,Working,Secondary / secondary special,Civil marriage,House / apartment
+60335,169951,Cash loans,F,33.0,9.85,5.0,N,Y,157500.0,284400.0,10345.5,225000.0,0.06568571428571429,0.036376582278481014,Working,Secondary / secondary special,Civil marriage,House / apartment
+162949,288905,Revolving loans,F,60.0,1000.67,2.0,N,Y,135000.0,360000.0,18000.0,360000.0,0.13333333333333333,0.05,Pensioner,Secondary / secondary special,Married,House / apartment
+40631,147055,Cash loans,M,33.0,7.21,3.0,N,Y,157500.0,379008.0,40347.0,360000.0,0.25617142857142855,0.10645421732522796,State servant,Secondary / secondary special,Married,House / apartment
+214013,347993,Cash loans,F,57.0,1.38,2.0,N,N,135000.0,95940.0,9099.0,90000.0,0.0674,0.0948405253283302,Commercial associate,Secondary / secondary special,Married,House / apartment
+307170,455873,Cash loans,M,40.0,4.53,4.0,Y,Y,315000.0,1071909.0,31473.0,936000.0,0.09991428571428572,0.029361634243205346,Working,Secondary / secondary special,Married,House / apartment
+263950,405618,Cash loans,F,39.0,7.54,4.0,Y,Y,180000.0,904500.0,32485.5,904500.0,0.180475,0.03591542288557214,Commercial associate,Secondary / secondary special,Married,House / apartment
+152439,276684,Cash loans,M,26.0,6.76,2.0,Y,N,360000.0,485640.0,41674.5,450000.0,0.1157625,0.08581356560415122,Commercial associate,Incomplete higher,Married,House / apartment
+64881,175236,Cash loans,M,25.0,1.49,1.0,Y,N,225000.0,576072.0,18216.0,405000.0,0.08096,0.031621047369078864,Working,Higher education,Single / not married,With parents
+152020,276204,Cash loans,F,39.0,12.18,2.0,N,N,135000.0,398016.0,26725.5,360000.0,0.19796666666666668,0.0671467981186686,Working,Higher education,Married,House / apartment
+16649,119421,Cash loans,F,24.0,4.25,2.0,N,Y,135000.0,178290.0,16798.5,157500.0,0.12443333333333334,0.0942200908632004,Commercial associate,Higher education,Civil marriage,House / apartment
+233640,370624,Cash loans,F,36.0,4.29,4.0,N,Y,180000.0,1108089.0,43254.0,841500.0,0.2403,0.03903477067275282,Working,Higher education,Married,House / apartment
+234664,371832,Revolving loans,F,31.0,7.63,2.0,N,Y,247500.0,225000.0,11250.0,225000.0,0.045454545454545456,0.05,Working,Secondary / secondary special,Single / not married,With parents
+218424,353062,Cash loans,M,36.0,1.05,1.0,Y,Y,157500.0,261648.0,20799.0,207000.0,0.13205714285714285,0.07949229499174464,Working,Secondary / secondary special,Single / not married,House / apartment
+108198,225513,Cash loans,F,42.0,23.04,3.0,N,N,126000.0,463284.0,24115.5,382500.0,0.19139285714285714,0.05205338410132877,Working,Secondary / secondary special,Married,House / apartment
+55340,164120,Revolving loans,F,25.0,1.25,1.0,N,N,90000.0,180000.0,9000.0,180000.0,0.1,0.05,Working,Higher education,Single / not married,House / apartment
+27306,131732,Revolving loans,F,50.0,21.5,1.0,N,Y,180000.0,202500.0,10125.0,202500.0,0.05625,0.05,Working,Higher education,Separated,House / apartment
+69075,180113,Cash loans,M,48.0,5.21,2.0,Y,Y,180000.0,1256400.0,40657.5,900000.0,0.225875,0.03236031518624642,Working,Secondary / secondary special,Married,House / apartment
+124224,244059,Cash loans,F,56.0,1000.67,2.0,N,N,90000.0,450000.0,16164.0,450000.0,0.1796,0.03592,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+288905,434699,Cash loans,M,29.0,3.72,1.0,Y,N,157500.0,473760.0,56353.5,450000.0,0.3578,0.11894946808510638,Working,Secondary / secondary special,Single / not married,House / apartment
+169466,296414,Cash loans,F,29.0,9.19,3.0,N,Y,112500.0,276277.5,14985.0,238500.0,0.1332,0.05423894453945761,Commercial associate,Secondary / secondary special,Civil marriage,Office apartment
+259364,400162,Cash loans,F,44.0,6.3,3.0,N,Y,180000.0,440784.0,29587.5,360000.0,0.164375,0.06712471414570402,Working,Incomplete higher,Married,House / apartment
+164591,290796,Cash loans,F,24.0,4.5,1.0,N,N,112500.0,284400.0,18643.5,225000.0,0.16572,0.06555379746835444,Working,Secondary / secondary special,Single / not married,With parents
+245403,384012,Cash loans,M,67.0,1000.67,1.0,N,N,99000.0,338314.5,17185.5,306000.0,0.1735909090909091,0.050797408919806865,Pensioner,Secondary / secondary special,Separated,House / apartment
+274619,418291,Revolving loans,F,30.0,3.03,3.0,Y,Y,112500.0,202500.0,10125.0,202500.0,0.09,0.05,Working,Secondary / secondary special,Married,House / apartment
+197328,328789,Cash loans,M,28.0,3.55,2.0,N,N,162000.0,900000.0,35028.0,900000.0,0.21622222222222223,0.03892,Commercial associate,Higher education,Married,House / apartment
+142843,265625,Cash loans,F,33.0,9.27,1.0,N,N,69750.0,544491.0,17694.0,454500.0,0.25367741935483873,0.03249640489925453,Working,Secondary / secondary special,Single / not married,House / apartment
+65483,175941,Cash loans,M,38.0,7.9,2.0,Y,Y,112500.0,152820.0,15241.5,135000.0,0.13548,0.09973498233215548,Commercial associate,Higher education,Married,House / apartment
+256721,397073,Cash loans,F,47.0,23.82,2.0,Y,Y,306000.0,495000.0,21933.0,495000.0,0.0716764705882353,0.04430909090909091,Working,Secondary / secondary special,Married,House / apartment
+13207,115390,Cash loans,F,46.0,3.04,2.0,Y,Y,90000.0,553806.0,23593.5,495000.0,0.26215,0.0426024636786167,Working,Secondary / secondary special,Civil marriage,House / apartment
+11066,112892,Cash loans,F,31.0,2.81,2.0,N,Y,135000.0,528633.0,25560.0,472500.0,0.18933333333333333,0.048351124504145596,Working,Higher education,Married,House / apartment
+269296,412085,Revolving loans,F,41.0,8.21,2.0,N,Y,77850.0,247500.0,12375.0,247500.0,0.15895953757225434,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+36649,142450,Revolving loans,F,38.0,14.35,3.0,N,Y,121500.0,360000.0,18000.0,360000.0,0.14814814814814814,0.05,Commercial associate,Higher education,Married,House / apartment
+167375,294030,Cash loans,M,37.0,4.89,1.0,Y,N,270000.0,473161.5,43528.5,405000.0,0.16121666666666667,0.09199501650070853,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+93170,208190,Cash loans,F,37.0,10.84,2.0,N,N,90000.0,96696.0,7137.0,76500.0,0.0793,0.07380863737900223,Working,Higher education,Single / not married,House / apartment
+73515,185248,Cash loans,F,69.0,1000.67,2.0,N,N,45000.0,129519.0,12298.5,121500.0,0.2733,0.09495518032103398,Pensioner,Higher education,Married,House / apartment
+68005,178863,Revolving loans,M,28.0,5.41,1.0,Y,Y,202500.0,270000.0,13500.0,270000.0,0.06666666666666667,0.05,State servant,Secondary / secondary special,Single / not married,House / apartment
+223996,359441,Revolving loans,F,31.0,5.34,2.0,Y,N,225000.0,585000.0,29250.0,585000.0,0.13,0.05,Commercial associate,Higher education,Single / not married,House / apartment
+194340,325348,Cash loans,M,29.0,1.67,2.0,N,Y,135000.0,307152.0,24394.5,243000.0,0.1807,0.07942158931082982,Commercial associate,Secondary / secondary special,Married,House / apartment
+273182,416662,Cash loans,F,55.0,4.45,1.0,Y,Y,175500.0,859212.0,36117.0,652500.0,0.2057948717948718,0.04203502744375079,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+301344,449111,Cash loans,M,42.0,1.62,4.0,N,Y,135000.0,550980.0,40221.0,450000.0,0.29793333333333333,0.07299901992812806,Commercial associate,Incomplete higher,Married,House / apartment
+103112,219687,Revolving loans,M,46.0,3.29,2.0,N,Y,157500.0,405000.0,20250.0,405000.0,0.12857142857142856,0.05,Commercial associate,Secondary / secondary special,Married,Municipal apartment
+79603,192278,Cash loans,F,66.0,1000.67,2.0,N,Y,90000.0,263686.5,15268.5,238500.0,0.16965,0.05790398825878458,Pensioner,Secondary / secondary special,Married,House / apartment
+135084,256670,Revolving loans,F,51.0,29.56,2.0,N,Y,54000.0,180000.0,9000.0,180000.0,0.16666666666666666,0.05,Working,Secondary / secondary special,Married,House / apartment
+43568,150435,Cash loans,M,59.0,11.11,2.0,N,N,427500.0,1575000.0,54747.0,1575000.0,0.12806315789473685,0.03476,Commercial associate,Higher education,Married,House / apartment
+46656,154042,Revolving loans,F,26.0,2.58,1.0,N,Y,112500.0,180000.0,9000.0,180000.0,0.08,0.05,Working,Secondary / secondary special,Single / not married,Rented apartment
+5600,106555,Cash loans,F,41.0,3.67,1.0,N,Y,135000.0,509922.0,32719.5,472500.0,0.24236666666666667,0.06416569592996577,Working,Higher education,Separated,House / apartment
+297448,444606,Cash loans,M,40.0,7.07,2.0,Y,Y,450000.0,552555.0,43785.0,477000.0,0.0973,0.07924098053587425,Commercial associate,Secondary / secondary special,Married,House / apartment
+287742,433307,Cash loans,F,30.0,11.01,2.0,N,N,157500.0,1078200.0,29650.5,900000.0,0.18825714285714285,0.0275,Working,Higher education,Married,House / apartment
+212557,346317,Cash loans,F,47.0,1.48,2.0,N,Y,72000.0,309420.0,15178.5,202500.0,0.2108125,0.04905468295520651,Working,Secondary / secondary special,Civil marriage,House / apartment
+18584,121678,Cash loans,M,32.0,0.52,2.0,Y,Y,225000.0,900000.0,40801.5,900000.0,0.18134,0.045335,Working,Higher education,Married,Office apartment
+208336,341483,Cash loans,M,53.0,1.07,1.0,N,N,126000.0,544068.0,25492.5,382500.0,0.20232142857142857,0.046855356315754645,Working,Secondary / secondary special,Single / not married,With parents
+191414,321946,Cash loans,M,37.0,0.65,4.0,Y,Y,121500.0,450000.0,22018.5,450000.0,0.18122222222222223,0.04893,Working,Secondary / secondary special,Married,House / apartment
+248873,387911,Cash loans,F,67.0,1000.67,1.0,N,N,90000.0,225000.0,12564.0,225000.0,0.1396,0.05584,Pensioner,Secondary / secondary special,Widow,Municipal apartment
+239147,376987,Cash loans,F,33.0,0.36,3.0,Y,Y,112500.0,1078200.0,38331.0,900000.0,0.34072,0.03555091819699499,Working,Higher education,Civil marriage,House / apartment
+36004,141706,Cash loans,F,37.0,6.1,5.0,N,N,135000.0,269550.0,14112.0,225000.0,0.10453333333333334,0.05235392320534224,Commercial associate,Secondary / secondary special,Married,House / apartment
+241667,379826,Cash loans,F,29.0,4.12,3.0,N,Y,121500.0,325908.0,16767.0,247500.0,0.138,0.05144703413233182,Working,Secondary / secondary special,Married,House / apartment
+222197,357396,Cash loans,F,38.0,5.2,3.0,N,Y,121500.0,272520.0,21658.5,225000.0,0.17825925925925926,0.07947490092470277,Working,Lower secondary,Single / not married,House / apartment
+17854,120818,Cash loans,M,48.0,7.24,2.0,N,N,135000.0,450000.0,16294.5,450000.0,0.1207,0.03621,Commercial associate,Secondary / secondary special,Married,House / apartment
+243417,381814,Cash loans,F,48.0,16.08,3.0,N,N,189000.0,1305909.0,43159.5,1170000.0,0.22835714285714287,0.033049393181301304,Commercial associate,Higher education,Married,House / apartment
+200187,332066,Cash loans,M,37.0,2.32,3.0,N,N,90000.0,1350000.0,39474.0,1350000.0,0.4386,0.02924,Working,Secondary / secondary special,Married,House / apartment
+80723,193593,Cash loans,F,63.0,1000.67,2.0,N,Y,112500.0,500211.0,27931.5,463500.0,0.24828,0.055839435758110074,Pensioner,Secondary / secondary special,Married,House / apartment
+121072,240370,Cash loans,F,47.0,3.03,3.0,N,Y,157500.0,440784.0,34825.5,360000.0,0.2211142857142857,0.07900808559294348,Working,Secondary / secondary special,Married,House / apartment
+190970,321432,Cash loans,M,56.0,1000.67,2.0,Y,Y,180000.0,339241.5,12919.5,238500.0,0.071775,0.03808348919574993,Pensioner,Secondary / secondary special,Married,House / apartment
+187207,317021,Cash loans,M,44.0,8.94,3.0,N,N,225000.0,497520.0,32521.5,450000.0,0.14454,0.06536722141823444,Working,Secondary / secondary special,Married,With parents
+166431,292948,Cash loans,F,39.0,13.36,3.0,N,N,270000.0,367389.0,18886.5,279000.0,0.06995,0.05140736385683839,Working,Higher education,Married,House / apartment
+216362,350696,Cash loans,M,30.0,0.65,1.0,N,Y,225000.0,679500.0,32818.5,679500.0,0.14586,0.04829801324503311,Commercial associate,Higher education,Single / not married,House / apartment
+252323,391955,Cash loans,F,55.0,4.41,2.0,N,N,202500.0,677664.0,22153.5,585000.0,0.1094,0.032690979600509984,Commercial associate,Secondary / secondary special,Married,House / apartment
+33862,139238,Cash loans,F,49.0,17.32,2.0,N,Y,112500.0,675000.0,20668.5,675000.0,0.18372,0.03062,Working,Secondary / secondary special,Married,House / apartment
+211088,344619,Cash loans,F,55.0,1000.67,2.0,N,Y,67500.0,539100.0,27693.0,450000.0,0.41026666666666667,0.051368948247078466,Pensioner,Secondary / secondary special,Married,House / apartment
+296215,443180,Cash loans,F,29.0,2.56,2.0,N,N,225000.0,288000.0,24849.0,288000.0,0.11044,0.08628125,Working,Secondary / secondary special,Civil marriage,House / apartment
+236357,373763,Cash loans,F,61.0,1000.67,1.0,N,Y,202500.0,468000.0,24700.5,468000.0,0.12197777777777778,0.052778846153846155,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+126404,246593,Cash loans,F,29.0,4.05,2.0,N,Y,135000.0,1125000.0,44748.0,1125000.0,0.3314666666666667,0.039776,Working,Higher education,Married,House / apartment
+305601,454065,Cash loans,F,28.0,0.7,2.0,N,N,135000.0,324000.0,12213.0,324000.0,0.09046666666666667,0.03769444444444445,Working,Higher education,Married,House / apartment
+117762,236548,Cash loans,F,52.0,20.98,1.0,N,Y,225000.0,1741972.5,51061.5,1557000.0,0.22694,0.029312460443548908,State servant,Higher education,Separated,House / apartment
+14830,117311,Cash loans,F,34.0,11.39,4.0,N,Y,76500.0,247275.0,17586.0,225000.0,0.22988235294117648,0.07111919927206552,Working,Secondary / secondary special,Separated,House / apartment
+216214,350520,Cash loans,F,56.0,37.12,1.0,N,Y,261000.0,991818.0,42151.5,886500.0,0.1615,0.0424992286891345,Commercial associate,Secondary / secondary special,Widow,House / apartment
+221608,356710,Cash loans,M,30.0,6.98,1.0,N,N,112500.0,640080.0,29970.0,450000.0,0.2664,0.046822272215973,Working,Secondary / secondary special,Single / not married,House / apartment
+225966,361731,Cash loans,F,59.0,1000.67,2.0,N,N,180000.0,558841.5,22162.5,499500.0,0.123125,0.039657935210609806,Pensioner,Secondary / secondary special,Married,House / apartment
+93214,208243,Cash loans,F,31.0,9.32,2.0,N,Y,90000.0,225000.0,14778.0,225000.0,0.1642,0.06568,Working,Secondary / secondary special,Married,House / apartment
+288319,434005,Cash loans,F,39.0,5.04,2.0,N,Y,90000.0,76410.0,7555.5,67500.0,0.08395,0.09888103651354535,State servant,Secondary / secondary special,Separated,House / apartment
+91408,206152,Cash loans,F,32.0,0.58,3.0,N,Y,67500.0,138204.0,8478.0,99000.0,0.1256,0.06134410002604845,Working,Secondary / secondary special,Married,House / apartment
+304064,452290,Cash loans,M,27.0,4.56,2.0,Y,Y,112500.0,263686.5,29880.0,238500.0,0.2656,0.11331638138471253,Working,Secondary / secondary special,Civil marriage,House / apartment
+222463,357691,Cash loans,F,56.0,1000.67,2.0,N,Y,67500.0,360000.0,20664.0,360000.0,0.3061333333333333,0.0574,Pensioner,Higher education,Married,House / apartment
+39822,146120,Cash loans,F,37.0,1.72,3.0,N,N,180000.0,808650.0,31464.0,675000.0,0.1748,0.03890929326655537,Working,Secondary / secondary special,Separated,House / apartment
+107876,225154,Cash loans,F,48.0,1.72,2.0,N,Y,135000.0,592560.0,35937.0,450000.0,0.2662,0.06064702308626974,Working,Secondary / secondary special,Married,House / apartment
+160128,285629,Cash loans,F,56.0,1000.67,2.0,N,Y,112500.0,297130.5,22342.5,256500.0,0.1986,0.07519423283708673,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+156969,281935,Cash loans,M,48.0,1.59,2.0,N,Y,67500.0,343800.0,16155.0,225000.0,0.23933333333333334,0.04698952879581152,Working,Secondary / secondary special,Married,House / apartment
+44843,151944,Cash loans,F,55.0,1000.67,1.0,N,Y,180000.0,808650.0,26217.0,675000.0,0.14565,0.032420701168614355,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+11047,112869,Cash loans,F,60.0,1000.67,2.0,N,N,153000.0,276277.5,20785.5,238500.0,0.1358529411764706,0.07523413958791432,Pensioner,Secondary / secondary special,Married,House / apartment
+261363,402511,Cash loans,F,26.0,6.38,3.0,Y,Y,157500.0,746280.0,59094.0,675000.0,0.3752,0.07918475639170285,Commercial associate,Higher education,Married,House / apartment
+266204,408372,Cash loans,M,37.0,1.63,4.0,Y,Y,270000.0,508495.5,24592.5,454500.0,0.09108333333333334,0.0483632598518571,Working,Secondary / secondary special,Married,House / apartment
+297168,444286,Cash loans,M,28.0,1.32,3.0,Y,Y,112500.0,301464.0,23949.0,238500.0,0.21288,0.07944232147122045,Working,Secondary / secondary special,Married,House / apartment
+30629,135550,Cash loans,F,33.0,1.5,4.0,Y,N,123750.0,675000.0,26284.5,675000.0,0.2124,0.03894,Commercial associate,Higher education,Married,House / apartment
+188761,318843,Cash loans,F,37.0,1.86,1.0,N,Y,135000.0,299772.0,14710.5,247500.0,0.10896666666666667,0.04907229494415756,Commercial associate,Lower secondary,Single / not married,House / apartment
+261225,402347,Cash loans,F,58.0,1000.67,2.0,Y,Y,112500.0,284400.0,9211.5,225000.0,0.08188,0.03238924050632912,Pensioner,Secondary / secondary special,Married,House / apartment
+111300,229138,Cash loans,F,38.0,4.01,4.0,Y,Y,157500.0,1130760.0,33192.0,810000.0,0.21074285714285715,0.02935370900986947,Working,Secondary / secondary special,Married,House / apartment
+44245,151251,Cash loans,F,53.0,5.72,2.0,N,N,180000.0,834048.0,44568.0,720000.0,0.2476,0.05343577348066298,Working,Secondary / secondary special,Married,House / apartment
+11360,113230,Cash loans,F,25.0,4.37,2.0,N,N,112500.0,112500.0,8149.5,112500.0,0.07244,0.07244,Working,Secondary / secondary special,Married,Municipal apartment
+304793,453131,Cash loans,M,51.0,6.25,1.0,N,Y,90000.0,521280.0,35392.5,450000.0,0.39325,0.0678953729281768,Commercial associate,Higher education,Single / not married,House / apartment
+8606,110021,Cash loans,F,38.0,0.58,4.0,Y,Y,171000.0,688500.0,36810.0,688500.0,0.21526315789473685,0.0534640522875817,Commercial associate,Secondary / secondary special,Married,House / apartment
+213575,347484,Cash loans,F,50.0,23.5,2.0,Y,Y,135000.0,714154.5,22806.0,616500.0,0.16893333333333332,0.031934266324723855,Commercial associate,Secondary / secondary special,Married,House / apartment
+131934,253018,Revolving loans,F,32.0,3.84,3.0,N,N,90000.0,225000.0,11250.0,225000.0,0.125,0.05,Working,Secondary / secondary special,Married,House / apartment
+47798,155360,Revolving loans,F,27.0,2.25,3.0,N,Y,90000.0,247500.0,12375.0,247500.0,0.1375,0.05,Working,Secondary / secondary special,Civil marriage,House / apartment
+40892,147355,Cash loans,M,32.0,2.83,1.0,N,Y,225000.0,675000.0,32602.5,675000.0,0.1449,0.0483,Working,Secondary / secondary special,Single / not married,House / apartment
+302915,450951,Revolving loans,F,47.0,23.88,3.0,Y,Y,67500.0,337500.0,16875.0,337500.0,0.25,0.05,Working,Secondary / secondary special,Married,House / apartment
+114885,233215,Cash loans,F,66.0,1000.67,2.0,N,Y,126000.0,314100.0,13437.0,225000.0,0.10664285714285714,0.04277936962750716,Pensioner,Secondary / secondary special,Married,House / apartment
+168698,295545,Cash loans,F,59.0,1000.67,2.0,N,Y,270000.0,1219500.0,40995.0,1219500.0,0.15183333333333332,0.033616236162361625,Pensioner,Higher education,Married,House / apartment
+270714,413814,Cash loans,F,47.0,2.65,1.0,N,N,112500.0,337500.0,17145.0,337500.0,0.1524,0.0508,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+172264,299627,Revolving loans,F,65.0,1000.67,2.0,Y,Y,180000.0,382500.0,19125.0,382500.0,0.10625,0.05,Pensioner,Secondary / secondary special,Married,House / apartment
+238607,376371,Cash loans,F,35.0,9.33,3.0,Y,Y,112500.0,504000.0,23485.5,504000.0,0.20876,0.046598214285714284,Working,Higher education,Married,House / apartment
+5046,105898,Cash loans,M,34.0,4.31,1.0,N,N,135000.0,225000.0,16303.5,225000.0,0.12076666666666666,0.07246,Working,Secondary / secondary special,Separated,With parents
+293224,439702,Cash loans,M,42.0,6.96,3.0,N,Y,202500.0,1271929.5,50571.0,1170000.0,0.24973333333333333,0.03975927911098846,Commercial associate,Secondary / secondary special,Married,House / apartment
+132399,253563,Revolving loans,F,40.0,0.3,3.0,N,N,45000.0,270000.0,13500.0,270000.0,0.3,0.05,Working,Secondary / secondary special,Married,House / apartment
+238164,375814,Cash loans,M,31.0,9.65,2.0,N,N,135000.0,201024.0,10390.5,144000.0,0.07696666666666667,0.051687858166189114,Working,Secondary / secondary special,Separated,House / apartment
+87577,201649,Cash loans,F,51.0,1.5,2.0,N,Y,157500.0,331834.5,18130.5,252000.0,0.11511428571428571,0.05463717606216352,Working,Secondary / secondary special,Married,House / apartment
+12743,114855,Cash loans,F,44.0,2.5,2.0,N,Y,121500.0,544491.0,17694.0,454500.0,0.14562962962962964,0.03249640489925453,Working,Secondary / secondary special,Married,House / apartment
+78869,191425,Cash loans,M,51.0,10.14,2.0,Y,N,153000.0,755190.0,38556.0,675000.0,0.252,0.05105470146585627,Working,Secondary / secondary special,Married,House / apartment
+292598,438966,Cash loans,M,34.0,8.67,3.0,Y,Y,270000.0,835380.0,40320.0,675000.0,0.14933333333333335,0.048265460030165915,Working,Incomplete higher,Married,House / apartment
+173224,300739,Cash loans,M,53.0,1.08,2.0,N,Y,225000.0,564124.5,36049.5,481500.0,0.16022,0.06390344684551016,Working,Secondary / secondary special,Married,House / apartment
+243010,381306,Cash loans,F,40.0,7.11,3.0,N,Y,112500.0,474048.0,22936.5,360000.0,0.20388,0.048384340826245445,Working,Secondary / secondary special,Civil marriage,House / apartment
+61996,171900,Cash loans,M,38.0,2.43,3.0,N,Y,112500.0,253737.0,18594.0,229500.0,0.16528,0.07328060156776504,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+147123,270583,Cash loans,F,33.0,5.38,1.0,N,N,157500.0,134316.0,15939.0,126000.0,0.1012,0.11866791744840526,Working,Higher education,Single / not married,House / apartment
+15212,117763,Cash loans,F,50.0,8.46,3.0,N,Y,157500.0,609187.5,29304.0,544500.0,0.18605714285714287,0.048103416435826406,Commercial associate,Secondary / secondary special,Married,Municipal apartment
+277882,421939,Revolving loans,F,57.0,1000.67,1.0,N,N,135000.0,382500.0,19125.0,382500.0,0.14166666666666666,0.05,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+154461,279022,Revolving loans,F,30.0,4.56,3.0,N,N,180000.0,270000.0,13500.0,270000.0,0.075,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+39129,145315,Cash loans,M,32.0,4.75,1.0,Y,Y,292500.0,263686.5,28395.0,238500.0,0.09707692307692307,0.10768469375565302,Commercial associate,Higher education,Single / not married,House / apartment
+145461,268667,Cash loans,F,54.0,2.37,1.0,N,Y,76500.0,47970.0,5089.5,45000.0,0.06652941176470588,0.10609756097560975,Working,Secondary / secondary special,Widow,House / apartment
+27388,131832,Cash loans,M,59.0,1.27,2.0,Y,N,225000.0,562500.0,14836.5,562500.0,0.06594,0.026376,Commercial associate,Higher education,Married,House / apartment
+86674,200598,Cash loans,M,27.0,5.38,2.0,Y,N,112500.0,247275.0,16119.0,225000.0,0.14328,0.06518653321201091,Working,Secondary / secondary special,Civil marriage,House / apartment
+24907,128967,Cash loans,F,34.0,7.95,3.0,N,N,126000.0,512064.0,23998.5,360000.0,0.19046428571428572,0.0468662120359955,Commercial associate,Secondary / secondary special,Married,House / apartment
+153736,278182,Cash loans,M,44.0,14.24,4.0,Y,N,112500.0,1125000.0,47794.5,1125000.0,0.42484,0.042484,Working,Secondary / secondary special,Married,House / apartment
+112799,230843,Cash loans,F,30.0,3.16,2.0,N,Y,90000.0,270000.0,25245.0,270000.0,0.2805,0.0935,Commercial associate,Secondary / secondary special,Married,House / apartment
+130068,250856,Revolving loans,F,31.0,2.27,3.0,N,N,81000.0,180000.0,9000.0,180000.0,0.1111111111111111,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+49985,157860,Cash loans,F,46.0,4.67,2.0,N,Y,301500.0,481495.5,36130.5,454500.0,0.11983582089552239,0.07503808446807914,Commercial associate,Higher education,Civil marriage,House / apartment
+303063,451118,Cash loans,F,32.0,10.58,2.0,N,N,247500.0,675000.0,28507.5,675000.0,0.11518181818181818,0.04223333333333333,Working,Secondary / secondary special,Single / not married,With parents
+119138,238144,Cash loans,M,60.0,9.25,1.0,N,N,180000.0,157500.0,6066.0,157500.0,0.0337,0.038514285714285716,Working,Higher education,Separated,Municipal apartment
+39355,145576,Cash loans,M,59.0,11.13,2.0,Y,Y,112500.0,781920.0,41787.0,675000.0,0.37144,0.05344152854511971,Working,Secondary / secondary special,Married,House / apartment
+139672,261948,Cash loans,F,41.0,7.07,1.0,Y,N,247500.0,540000.0,26109.0,540000.0,0.1054909090909091,0.04835,Working,Secondary / secondary special,Separated,House / apartment
+114636,232933,Cash loans,M,53.0,10.34,2.0,Y,Y,112500.0,573408.0,29407.5,495000.0,0.2614,0.05128547212456052,Working,Secondary / secondary special,Married,House / apartment
+40427,146833,Cash loans,F,51.0,1.74,2.0,N,Y,270000.0,808650.0,24601.5,675000.0,0.09111666666666667,0.03042292710072343,Working,Secondary / secondary special,Married,House / apartment
+260566,401551,Cash loans,F,63.0,38.58,1.0,N,Y,225000.0,755190.0,33264.0,675000.0,0.14784,0.04404719342152306,Working,Higher education,Separated,House / apartment
+139967,262301,Cash loans,F,61.0,1000.67,2.0,Y,Y,161100.0,500211.0,47493.0,463500.0,0.29480446927374304,0.0949459328163515,Pensioner,Secondary / secondary special,Married,House / apartment
+38204,144242,Cash loans,F,45.0,9.86,3.0,N,Y,126000.0,254700.0,14751.0,225000.0,0.11707142857142858,0.05791519434628975,State servant,Secondary / secondary special,Married,House / apartment
+289526,435421,Cash loans,F,60.0,2.83,1.0,N,Y,90000.0,276277.5,11835.0,238500.0,0.1315,0.04283736460623829,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+115195,233587,Cash loans,M,35.0,2.26,2.0,Y,Y,193500.0,561384.0,59080.5,540000.0,0.3053255813953488,0.10524079774272156,Commercial associate,Secondary / secondary special,Married,House / apartment
+135963,257705,Cash loans,F,31.0,11.26,4.0,N,N,45000.0,509400.0,37197.0,450000.0,0.8266,0.07302120141342756,Working,Secondary / secondary special,Married,House / apartment
+10780,112550,Cash loans,F,56.0,2.16,1.0,N,Y,157500.0,1288350.0,37053.0,1125000.0,0.23525714285714286,0.028760041914076145,Working,Higher education,Single / not married,House / apartment
+1096,101275,Cash loans,M,52.0,11.16,2.0,N,Y,112500.0,900000.0,26316.0,900000.0,0.23392,0.02924,Commercial associate,Secondary / secondary special,Married,House / apartment
+302042,449934,Revolving loans,M,25.0,3.12,1.0,N,Y,225000.0,270000.0,13500.0,270000.0,0.06,0.05,State servant,Secondary / secondary special,Single / not married,House / apartment
+265932,408059,Cash loans,M,31.0,1.09,2.0,Y,Y,112500.0,177903.0,15349.5,148500.0,0.13644,0.08628016390954621,Working,Secondary / secondary special,Married,House / apartment
+200920,332900,Cash loans,F,60.0,8.7,2.0,N,Y,153000.0,521280.0,22216.5,450000.0,0.14520588235294118,0.042619129834254144,Working,Secondary / secondary special,Married,House / apartment
+46592,153972,Cash loans,F,40.0,7.44,2.0,N,Y,157500.0,1051245.0,34042.5,877500.0,0.21614285714285714,0.03238303154830701,Working,Higher education,Married,House / apartment
+124742,244663,Cash loans,F,51.0,10.53,2.0,Y,Y,247500.0,972441.0,92331.0,945000.0,0.37305454545454547,0.09494766263454543,Working,Secondary / secondary special,Married,House / apartment
+100291,216426,Cash loans,F,28.0,3.09,2.0,N,Y,112500.0,450000.0,27324.0,450000.0,0.24288,0.06072,Working,Higher education,Married,House / apartment
+246026,384717,Cash loans,M,45.0,2.33,2.0,Y,Y,225000.0,539100.0,27652.5,450000.0,0.1229,0.05129382303839733,Commercial associate,Higher education,Married,House / apartment
+89585,204006,Cash loans,M,29.0,3.88,2.0,Y,N,450000.0,1312110.0,55593.0,1125000.0,0.12354,0.04236916112216201,Working,Secondary / secondary special,Married,With parents
+298470,445773,Cash loans,M,47.0,2.4,2.0,N,Y,225000.0,285264.0,33984.0,252000.0,0.15104,0.11913175164058556,Working,Secondary / secondary special,Married,House / apartment
+40366,146762,Cash loans,M,33.0,0.25,3.0,Y,Y,225000.0,1078200.0,38331.0,900000.0,0.17036,0.03555091819699499,Working,Secondary / secondary special,Married,House / apartment
+253513,393350,Cash loans,F,26.0,1.76,2.0,Y,Y,270000.0,1493086.5,52029.0,1363500.0,0.1927,0.03484660801634735,Commercial associate,Higher education,Married,With parents
+215405,349594,Cash loans,M,47.0,1000.67,3.0,N,N,81000.0,361462.5,18585.0,274500.0,0.22944444444444445,0.0514161220043573,Pensioner,Secondary / secondary special,Married,House / apartment
+19007,122169,Cash loans,F,32.0,0.52,4.0,N,Y,112500.0,545040.0,26640.0,450000.0,0.2368,0.0488771466314399,Working,Secondary / secondary special,Married,House / apartment
+21915,125532,Cash loans,M,31.0,0.59,2.0,Y,N,180000.0,513531.0,19161.0,459000.0,0.10645,0.03731225573529154,Working,Secondary / secondary special,Married,House / apartment
+260405,401356,Cash loans,F,41.0,5.22,1.0,N,Y,180000.0,72400.5,6637.5,58500.0,0.036875,0.0916775436633725,Working,Secondary / secondary special,Single / not married,House / apartment
+258671,399348,Revolving loans,M,50.0,9.17,2.0,N,Y,202500.0,135000.0,6750.0,135000.0,0.03333333333333333,0.05,Working,Higher education,Married,House / apartment
+282797,427538,Cash loans,M,27.0,3.56,1.0,N,Y,157500.0,167076.0,12622.5,135000.0,0.08014285714285714,0.07554945054945054,Working,Secondary / secondary special,Single / not married,House / apartment
+73650,185406,Cash loans,F,58.0,1000.67,2.0,N,N,144000.0,808650.0,23773.5,675000.0,0.16509375,0.02939899833055092,Pensioner,Secondary / secondary special,Married,House / apartment
+705,100814,Cash loans,F,59.0,11.26,2.0,N,Y,126000.0,942300.0,27679.5,675000.0,0.21967857142857142,0.02937440305635148,State servant,Secondary / secondary special,Married,House / apartment
+160701,286289,Cash loans,F,33.0,2.56,2.0,N,N,114750.0,119448.0,8109.0,94500.0,0.07066666666666667,0.06788728149487643,State servant,Secondary / secondary special,Single / not married,House / apartment
+248690,387719,Cash loans,M,61.0,1000.67,1.0,N,Y,81000.0,123993.0,9400.5,103500.0,0.11605555555555555,0.07581476373666256,Pensioner,Higher education,Single / not married,House / apartment
+156858,281808,Cash loans,F,54.0,18.71,2.0,N,Y,81000.0,781920.0,25839.0,675000.0,0.319,0.033045580110497234,Working,Secondary / secondary special,Civil marriage,House / apartment
+38683,144804,Cash loans,M,31.0,4.81,1.0,N,Y,144000.0,284400.0,18643.5,225000.0,0.12946875,0.06555379746835444,Commercial associate,Higher education,Single / not married,House / apartment
+34953,140500,Cash loans,F,67.0,1000.67,1.0,N,Y,90000.0,254700.0,14350.5,225000.0,0.15945,0.05634275618374558,Pensioner,Secondary / secondary special,Widow,House / apartment
+158504,283758,Cash loans,M,41.0,4.92,1.0,Y,Y,202500.0,103500.0,11835.0,103500.0,0.058444444444444445,0.11434782608695652,Working,Secondary / secondary special,Single / not married,House / apartment
+186995,316779,Cash loans,M,54.0,5.13,2.0,N,Y,45000.0,63000.0,6583.5,63000.0,0.1463,0.1045,Working,Secondary / secondary special,Civil marriage,House / apartment
+228243,364370,Cash loans,F,46.0,13.96,2.0,N,Y,180000.0,1535553.0,40635.0,1372500.0,0.22575,0.02646277920723023,Working,Secondary / secondary special,Married,House / apartment
+69790,180959,Cash loans,F,37.0,7.25,3.0,N,N,157500.0,870984.0,37030.5,778500.0,0.23511428571428572,0.04251570637348103,Working,Secondary / secondary special,Married,House / apartment
+163583,289630,Cash loans,M,36.0,2.18,2.0,N,Y,180000.0,450000.0,21109.5,450000.0,0.117275,0.04691,Commercial associate,Higher education,Married,House / apartment
+141421,263966,Cash loans,M,40.0,3.1,3.0,Y,N,225000.0,345510.0,18873.0,247500.0,0.08388,0.0546235998958062,Commercial associate,Secondary / secondary special,Married,House / apartment
+25121,129219,Cash loans,M,39.0,5.06,4.0,Y,Y,270000.0,607041.0,29331.0,490500.0,0.10863333333333333,0.048317988406054946,Working,Secondary / secondary special,Married,House / apartment
+20017,123350,Cash loans,F,47.0,3.59,3.0,N,Y,112500.0,315000.0,21438.0,315000.0,0.19056,0.06805714285714286,Working,Secondary / secondary special,Civil marriage,House / apartment
+284080,428993,Cash loans,M,38.0,3.51,2.0,N,Y,180000.0,1201207.5,35253.0,940500.0,0.19585,0.02934796860658962,Working,Secondary / secondary special,Married,House / apartment
+140155,262513,Cash loans,F,34.0,3.27,2.0,N,Y,292500.0,781920.0,40054.5,675000.0,0.13693846153846154,0.05122582872928177,Working,Higher education,Married,House / apartment
+179466,307966,Revolving loans,F,36.0,3.81,4.0,Y,Y,180000.0,225000.0,11250.0,495000.0,0.0625,0.05,Working,Higher education,Married,House / apartment
+141921,264555,Cash loans,F,39.0,20.02,2.0,N,N,157500.0,1506816.0,47443.5,1350000.0,0.3012285714285714,0.03148592794342508,Working,Incomplete higher,Married,House / apartment
+247126,385968,Cash loans,F,51.0,4.41,3.0,N,N,99000.0,675000.0,38749.5,675000.0,0.39140909090909093,0.05740666666666667,Commercial associate,Secondary / secondary special,Married,House / apartment
+85810,199571,Cash loans,F,27.0,7.17,3.0,N,Y,180000.0,225000.0,20767.5,225000.0,0.115375,0.0923,State servant,Secondary / secondary special,Married,With parents
+288488,434213,Cash loans,M,39.0,9.55,2.0,Y,N,112500.0,634482.0,16866.0,454500.0,0.14992,0.026582314391897642,Working,Secondary / secondary special,Civil marriage,House / apartment
+33523,138833,Cash loans,F,68.0,1000.67,1.0,N,Y,94500.0,239850.0,24705.0,225000.0,0.26142857142857145,0.10300187617260788,Pensioner,Secondary / secondary special,Widow,House / apartment
+67350,178106,Cash loans,F,38.0,10.27,3.0,N,Y,157500.0,509922.0,28602.0,472500.0,0.1816,0.05609093155423771,State servant,Secondary / secondary special,Married,House / apartment
+251330,390810,Cash loans,F,69.0,1000.67,2.0,N,Y,135000.0,225000.0,22383.0,225000.0,0.1658,0.09948,Pensioner,Secondary / secondary special,Married,House / apartment
+74684,186607,Cash loans,M,28.0,7.43,4.0,Y,Y,225000.0,284400.0,22599.0,225000.0,0.10044,0.0794620253164557,Commercial associate,Incomplete higher,Married,House / apartment
+157604,282684,Cash loans,M,47.0,0.78,3.0,Y,Y,225000.0,679500.0,45724.5,679500.0,0.20322,0.06729139072847683,Commercial associate,Secondary / secondary special,Married,House / apartment
+146518,269883,Cash loans,M,33.0,4.82,3.0,Y,Y,720000.0,1200744.0,38866.5,1048500.0,0.05398125,0.03236868141752114,Commercial associate,Higher education,Married,With parents
+260046,400929,Cash loans,F,37.0,17.39,2.0,N,Y,225000.0,1389852.0,50053.5,1147500.0,0.22246,0.03601354676613049,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+192998,323809,Cash loans,M,49.0,18.58,2.0,N,Y,135000.0,904500.0,38322.0,904500.0,0.28386666666666666,0.0423681592039801,Working,Higher education,Married,House / apartment
+264287,406059,Cash loans,M,41.0,3.7,2.0,Y,Y,180000.0,781920.0,43789.5,675000.0,0.243275,0.056002532228360956,Commercial associate,Secondary / secondary special,Married,House / apartment
+18912,122053,Cash loans,F,42.0,7.24,4.0,N,Y,94500.0,495000.0,23814.0,495000.0,0.252,0.04810909090909091,Commercial associate,Secondary / secondary special,Married,House / apartment
+234119,371189,Cash loans,M,29.0,4.42,3.0,Y,Y,202500.0,323388.0,31149.0,292500.0,0.15382222222222222,0.09632082823110319,Working,Higher education,Married,House / apartment
+293356,439860,Cash loans,M,51.0,9.56,2.0,N,Y,54000.0,417024.0,21451.5,360000.0,0.39725,0.05143948549723757,Working,Secondary / secondary special,Civil marriage,House / apartment
+97732,213479,Cash loans,F,37.0,4.73,3.0,N,N,270000.0,1288350.0,37669.5,1125000.0,0.13951666666666668,0.02923856095005239,Working,Secondary / secondary special,Married,House / apartment
+169490,296441,Cash loans,F,30.0,0.27,3.0,N,Y,112500.0,152820.0,16587.0,135000.0,0.14744,0.10853945818610129,Commercial associate,Secondary / secondary special,Married,House / apartment
+96635,212184,Cash loans,M,27.0,2.68,1.0,Y,N,202500.0,790830.0,52978.5,675000.0,0.2616222222222222,0.06699100944577216,Commercial associate,Higher education,Single / not married,House / apartment
+293189,439664,Cash loans,M,42.0,3.11,2.0,Y,N,315000.0,781920.0,61906.5,675000.0,0.19652857142857144,0.07917242173112339,Working,Secondary / secondary special,Married,House / apartment
+202449,334688,Cash loans,F,57.0,3.69,2.0,N,Y,135000.0,1223010.0,48631.5,1125000.0,0.36023333333333335,0.03976377952755906,Working,Secondary / secondary special,Married,House / apartment
+86512,200400,Cash loans,F,41.0,6.83,2.0,N,N,112500.0,900000.0,46084.5,900000.0,0.40964,0.051205,Working,Secondary / secondary special,Married,House / apartment
+174573,302307,Cash loans,F,40.0,1.67,2.0,N,Y,112500.0,1293502.5,37948.5,1129500.0,0.33732,0.02933778635912957,Working,Secondary / secondary special,Married,House / apartment
+217545,352066,Cash loans,F,42.0,10.39,2.0,Y,Y,193500.0,382500.0,14548.5,382500.0,0.07518604651162791,0.038035294117647056,Working,Secondary / secondary special,Married,House / apartment
+288232,433909,Cash loans,F,60.0,1000.67,1.0,N,Y,79200.0,738000.0,23301.0,738000.0,0.29420454545454544,0.03157317073170732,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+294040,440656,Cash loans,M,37.0,16.28,2.0,N,N,135000.0,254700.0,14751.0,225000.0,0.10926666666666666,0.05791519434628975,Working,Secondary / secondary special,Married,House / apartment
+203126,335488,Cash loans,F,55.0,4.67,1.0,N,N,137250.0,755190.0,50800.5,675000.0,0.3701311475409836,0.06726850196639256,Working,Higher education,Separated,Municipal apartment
+266026,408167,Cash loans,F,46.0,2.53,2.0,Y,Y,202500.0,1006920.0,39933.0,900000.0,0.1972,0.03965856274579907,Commercial associate,Secondary / secondary special,Married,House / apartment
+247159,386002,Revolving loans,F,31.0,2.65,3.0,Y,Y,270000.0,337500.0,16875.0,337500.0,0.0625,0.05,Working,Higher education,Married,House / apartment
+290462,436505,Cash loans,M,39.0,15.87,2.0,Y,N,360000.0,135000.0,6889.5,135000.0,0.0191375,0.05103333333333333,Working,Secondary / secondary special,Married,House / apartment
+281222,425795,Cash loans,F,67.0,1000.67,2.0,N,Y,103500.0,239850.0,23494.5,225000.0,0.227,0.09795497185741088,Pensioner,Higher education,Married,House / apartment
+33766,139120,Cash loans,M,57.0,7.78,2.0,N,N,225000.0,1288350.0,41562.0,1125000.0,0.18472,0.03225986727209221,Working,Secondary / secondary special,Married,House / apartment
+278878,423069,Revolving loans,M,42.0,5.27,2.0,N,Y,157500.0,270000.0,13500.0,270000.0,0.08571428571428572,0.05,Working,Secondary / secondary special,Married,House / apartment
+212509,346264,Cash loans,F,48.0,3.25,2.0,Y,Y,157500.0,1422337.5,41719.5,1242000.0,0.2648857142857143,0.029331645970102033,Working,Secondary / secondary special,Married,House / apartment
+145776,269025,Cash loans,M,49.0,1000.67,2.0,Y,Y,135000.0,247500.0,19282.5,247500.0,0.14283333333333334,0.07790909090909091,Pensioner,Secondary / secondary special,Married,House / apartment
+233044,369925,Cash loans,F,35.0,1.81,3.0,N,Y,135000.0,373311.0,22815.0,283500.0,0.169,0.06111526314520601,Working,Secondary / secondary special,Married,House / apartment
+25327,129458,Cash loans,F,65.0,1000.67,2.0,N,Y,99000.0,780363.0,31077.0,697500.0,0.3139090909090909,0.039823774320412425,Pensioner,Higher education,Married,House / apartment
+87885,202021,Cash loans,F,26.0,1.28,1.0,N,Y,112500.0,495000.0,23944.5,495000.0,0.21284,0.048372727272727276,Working,Secondary / secondary special,Single / not married,House / apartment
+253854,393742,Cash loans,M,51.0,1.55,2.0,Y,Y,225000.0,1408806.0,92457.0,1350000.0,0.41092,0.06562791470223721,Working,Secondary / secondary special,Married,House / apartment
+94236,209424,Revolving loans,F,34.0,1.05,2.0,N,Y,112500.0,247500.0,12375.0,247500.0,0.11,0.05,Working,Secondary / secondary special,Married,House / apartment
+92655,207588,Cash loans,F,35.0,2.08,5.0,N,Y,225000.0,1321902.0,38781.0,1035000.0,0.17236,0.029337273111017307,Working,Secondary / secondary special,Married,House / apartment
+28114,132679,Cash loans,M,32.0,2.16,4.0,Y,N,166500.0,1575000.0,43443.0,1575000.0,0.26091891891891894,0.02758285714285714,State servant,Secondary / secondary special,Married,Municipal apartment
+234623,371783,Revolving loans,F,33.0,0.66,3.0,N,Y,103500.0,270000.0,13500.0,270000.0,0.13043478260869565,0.05,Working,Higher education,Married,House / apartment
+182413,311426,Cash loans,F,46.0,2.49,1.0,N,N,121500.0,755190.0,29947.5,675000.0,0.24648148148148147,0.03965558336312716,Working,Higher education,Separated,Municipal apartment
+230900,367443,Cash loans,F,49.0,3.2,2.0,Y,Y,171000.0,647046.0,21001.5,463500.0,0.12281578947368421,0.032457506885136454,Working,Secondary / secondary special,Married,House / apartment
+246484,385275,Cash loans,F,54.0,1000.67,2.0,Y,Y,247500.0,1293502.5,35698.5,1129500.0,0.14423636363636363,0.027598323157473605,Pensioner,Higher education,Married,House / apartment
+103242,219832,Cash loans,F,52.0,5.89,1.0,N,Y,202500.0,350860.5,19161.0,283500.0,0.09462222222222222,0.05461144813964525,Working,Secondary / secondary special,Separated,House / apartment
+229003,365249,Cash loans,F,42.0,2.37,2.0,N,Y,157500.0,182016.0,8851.5,144000.0,0.0562,0.04863034018987342,Working,Secondary / secondary special,Civil marriage,House / apartment
+159642,285062,Cash loans,M,46.0,0.29,2.0,Y,Y,180000.0,540000.0,25150.5,540000.0,0.139725,0.046575,Commercial associate,Secondary / secondary special,Separated,House / apartment
+8871,110314,Cash loans,F,43.0,12.63,1.0,N,Y,193500.0,675000.0,21906.0,675000.0,0.11320930232558139,0.032453333333333334,Working,Secondary / secondary special,Single / not married,House / apartment
+20880,124332,Cash loans,F,58.0,1000.67,1.0,Y,N,81000.0,450000.0,13774.5,450000.0,0.17005555555555554,0.03061,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+291817,438070,Cash loans,F,48.0,7.58,2.0,N,Y,90000.0,1303812.0,35851.5,1138500.0,0.39835,0.027497445950796586,Working,Secondary / secondary special,Married,House / apartment
+131812,252874,Revolving loans,F,32.0,7.01,4.0,N,Y,58500.0,157500.0,7875.0,157500.0,0.1346153846153846,0.05,Commercial associate,Secondary / secondary special,Married,With parents
+298392,445684,Cash loans,F,33.0,2.16,2.0,N,N,135000.0,835380.0,35523.0,675000.0,0.26313333333333333,0.04252316311139841,Working,Secondary / secondary special,Married,House / apartment
+17207,120070,Cash loans,M,36.0,9.85,3.0,Y,N,180000.0,284400.0,16456.5,225000.0,0.091425,0.05786392405063291,Working,Secondary / secondary special,Married,Rented apartment
+226323,362145,Cash loans,F,45.0,2.49,2.0,N,Y,112500.0,1288350.0,37800.0,1125000.0,0.336,0.029339853300733496,Working,Higher education,Married,House / apartment
+75732,187815,Cash loans,F,55.0,1000.67,3.0,Y,N,175500.0,1506816.0,47443.5,1350000.0,0.2703333333333333,0.03148592794342508,Pensioner,Secondary / secondary special,Married,House / apartment
+238136,375785,Cash loans,M,62.0,1000.67,2.0,N,Y,112500.0,1024290.0,30078.0,855000.0,0.26736,0.029364730691503384,Pensioner,Secondary / secondary special,Married,House / apartment
+299408,446870,Cash loans,M,44.0,4.2,3.0,N,Y,256500.0,521280.0,23089.5,450000.0,0.09001754385964912,0.04429385359116022,Working,Secondary / secondary special,Civil marriage,House / apartment
+163137,289134,Cash loans,F,60.0,1000.67,2.0,N,N,144000.0,1339884.0,36976.5,1170000.0,0.25678125,0.02759679196109514,Pensioner,Higher education,Married,House / apartment
+295913,442838,Cash loans,M,41.0,11.79,4.0,Y,N,112500.0,590337.0,25141.5,477000.0,0.22348,0.04258838595581846,Working,Secondary / secondary special,Married,House / apartment
+174491,302210,Revolving loans,M,33.0,3.93,2.0,N,Y,211500.0,180000.0,9000.0,180000.0,0.0425531914893617,0.05,Working,Secondary / secondary special,Married,House / apartment
+95773,211182,Cash loans,F,57.0,1000.67,2.0,Y,Y,67500.0,254700.0,14751.0,225000.0,0.21853333333333333,0.05791519434628975,Pensioner,Secondary / secondary special,Married,House / apartment
+130831,251746,Cash loans,M,40.0,0.35,4.0,Y,N,112500.0,700830.0,18616.5,585000.0,0.16548,0.026563503274688583,Working,Higher education,Married,House / apartment
+267962,410489,Cash loans,F,52.0,15.62,2.0,N,Y,360000.0,651600.0,33399.0,562500.0,0.092775,0.05125690607734806,Commercial associate,Secondary / secondary special,Married,House / apartment
+205348,338031,Cash loans,F,52.0,2.82,1.0,N,N,247500.0,629325.0,25087.5,562500.0,0.10136363636363636,0.03986414015016089,Working,Secondary / secondary special,Separated,House / apartment
+113956,232165,Cash loans,F,46.0,14.62,2.0,N,Y,247500.0,886401.0,45387.0,778500.0,0.18338181818181817,0.051203687721471436,Commercial associate,Higher education,Married,House / apartment
+83761,197143,Revolving loans,M,30.0,3.22,2.0,Y,Y,135000.0,180000.0,9000.0,180000.0,0.06666666666666667,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+79012,191587,Revolving loans,M,47.0,0.5,1.0,Y,Y,225000.0,540000.0,27000.0,540000.0,0.12,0.05,Commercial associate,Higher education,Single / not married,House / apartment
+39696,145960,Cash loans,F,29.0,3.75,1.0,Y,N,216000.0,302341.5,18400.5,261000.0,0.0851875,0.06085998779525801,State servant,Higher education,Single / not married,House / apartment
+199863,331698,Cash loans,F,35.0,2.96,3.0,Y,N,202500.0,910890.0,33592.5,652500.0,0.1658888888888889,0.036878766920264795,Commercial associate,Secondary / secondary special,Married,House / apartment
+11858,113818,Cash loans,F,63.0,1000.67,2.0,N,Y,135000.0,163512.0,13045.5,135000.0,0.09663333333333333,0.07978313518273888,Pensioner,Secondary / secondary special,Married,House / apartment
+80888,193783,Cash loans,F,29.0,1.4,1.0,N,N,112500.0,450000.0,22018.5,450000.0,0.19572,0.04893,Working,Incomplete higher,Single / not married,House / apartment
+16992,119824,Cash loans,F,39.0,0.51,3.0,N,N,76500.0,1170000.0,30861.0,1170000.0,0.40341176470588236,0.026376923076923076,Working,Higher education,Married,House / apartment
+221455,356527,Cash loans,M,46.0,2.79,3.0,N,Y,225000.0,1022022.0,43429.5,913500.0,0.19302,0.042493703658042586,Working,Higher education,Married,House / apartment
+125202,245195,Cash loans,M,27.0,0.92,1.0,N,Y,202500.0,418743.0,28111.5,342000.0,0.13882222222222224,0.0671330625228362,Working,Secondary / secondary special,Single / not married,With parents
+188680,318742,Cash loans,F,36.0,7.59,4.0,Y,Y,216000.0,238896.0,16092.0,189000.0,0.0745,0.06735985533453888,Working,Secondary / secondary special,Married,House / apartment
+60826,170539,Cash loans,M,27.0,4.53,4.0,N,Y,202500.0,495000.0,13743.0,495000.0,0.06786666666666667,0.027763636363636365,Working,Higher education,Married,House / apartment
+265497,407502,Cash loans,F,49.0,21.84,1.0,N,N,103500.0,508495.5,22527.0,454500.0,0.21765217391304348,0.04430127700245135,Working,Higher education,Widow,House / apartment
+222761,358024,Cash loans,F,39.0,1.3,2.0,N,N,270000.0,1089000.0,31842.0,1089000.0,0.11793333333333333,0.029239669421487605,Working,Higher education,Separated,House / apartment
+148364,272024,Cash loans,F,27.0,0.83,2.0,Y,N,71100.0,593010.0,17122.5,495000.0,0.2408227848101266,0.0288738807102747,Commercial associate,Higher education,Single / not married,House / apartment
+186754,316505,Cash loans,M,53.0,3.65,2.0,Y,Y,90000.0,862560.0,25348.5,720000.0,0.28165,0.029387520868113522,Working,Secondary / secondary special,Married,House / apartment
+91026,205703,Cash loans,F,43.0,6.79,2.0,Y,Y,135000.0,819391.5,50260.5,715500.0,0.3723,0.06133881056857436,Working,Secondary / secondary special,Married,House / apartment
+53926,162482,Cash loans,M,23.0,0.6,1.0,Y,Y,126000.0,254700.0,28867.5,225000.0,0.22910714285714287,0.11333922261484099,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+89341,203724,Cash loans,F,28.0,0.82,4.0,N,Y,72000.0,90000.0,10282.5,90000.0,0.1428125,0.11425,Working,Secondary / secondary special,Married,House / apartment
+199163,330897,Cash loans,M,59.0,1000.67,2.0,Y,Y,45000.0,314100.0,15241.5,225000.0,0.3387,0.0485243553008596,Pensioner,Lower secondary,Married,House / apartment
+150228,274154,Cash loans,M,43.0,0.38,2.0,Y,Y,121500.0,922500.0,39213.0,922500.0,0.3227407407407407,0.04250731707317073,Commercial associate,Secondary / secondary special,Married,House / apartment
+62255,172201,Cash loans,M,46.0,8.49,2.0,Y,Y,180000.0,574668.0,38533.5,490500.0,0.214075,0.06705349871578024,Working,Secondary / secondary special,Married,House / apartment
+135348,256981,Cash loans,F,30.0,6.39,2.0,Y,Y,108000.0,495000.0,23944.5,495000.0,0.22170833333333334,0.048372727272727276,Working,Incomplete higher,Civil marriage,House / apartment
+279904,424308,Cash loans,M,27.0,2.33,2.0,N,Y,180000.0,379008.0,39928.5,360000.0,0.221825,0.10535001899696049,Working,Secondary / secondary special,Married,Rented apartment
+226000,361765,Cash loans,F,57.0,1000.67,1.0,N,Y,67500.0,284400.0,9850.5,225000.0,0.14593333333333333,0.03463607594936709,Pensioner,Secondary / secondary special,Widow,House / apartment
+250047,389311,Revolving loans,F,34.0,4.01,4.0,Y,Y,157500.0,337500.0,16875.0,337500.0,0.10714285714285714,0.05,Working,Higher education,Married,House / apartment
+170691,297820,Cash loans,M,53.0,1000.67,2.0,N,Y,157500.0,755190.0,36459.0,675000.0,0.2314857142857143,0.0482779168156358,Pensioner,Higher education,Married,House / apartment
+131829,252896,Cash loans,M,30.0,4.93,2.0,Y,Y,67500.0,251280.0,13284.0,180000.0,0.1968,0.05286532951289398,Working,Higher education,Married,House / apartment
+82575,195764,Cash loans,F,36.0,2.19,1.0,N,N,189000.0,1350000.0,39474.0,1350000.0,0.20885714285714285,0.02924,Commercial associate,Incomplete higher,Single / not married,House / apartment
+42403,149082,Cash loans,F,42.0,4.93,4.0,N,Y,67500.0,71955.0,8248.5,67500.0,0.1222,0.11463414634146342,Working,Secondary / secondary special,Married,House / apartment
+274602,418274,Cash loans,F,59.0,1000.67,2.0,N,Y,117000.0,263686.5,26208.0,238500.0,0.224,0.09939075379285629,Pensioner,Secondary / secondary special,Married,House / apartment
+27141,131545,Cash loans,F,38.0,0.39,4.0,N,N,175500.0,1035832.5,30415.5,904500.0,0.1733076923076923,0.02936333818450377,Working,Secondary / secondary special,Widow,House / apartment
+137032,258932,Cash loans,F,47.0,20.58,2.0,N,N,315000.0,545040.0,25407.0,450000.0,0.08065714285714286,0.04661492734478204,Working,Secondary / secondary special,Married,House / apartment
+92407,207300,Revolving loans,M,29.0,3.04,1.0,N,Y,112500.0,495000.0,24750.0,495000.0,0.22,0.05,Commercial associate,Higher education,Single / not married,House / apartment
+271032,414196,Cash loans,F,43.0,7.33,2.0,N,N,225000.0,790830.0,50539.5,675000.0,0.22462,0.06390690793217253,Commercial associate,Higher education,Civil marriage,House / apartment
+125855,245943,Cash loans,M,37.0,2.75,2.0,N,Y,148500.0,135000.0,9954.0,135000.0,0.06703030303030302,0.07373333333333333,Working,Secondary / secondary special,Separated,House / apartment
+244583,383083,Cash loans,F,31.0,2.45,3.0,Y,Y,112500.0,408780.0,20011.5,337500.0,0.17788,0.048954205195948924,Working,Secondary / secondary special,Married,House / apartment
+239098,376938,Cash loans,F,61.0,23.28,2.0,N,N,83250.0,728460.0,38808.0,675000.0,0.46616216216216216,0.053274030145787,State servant,Secondary / secondary special,Married,House / apartment
+207901,340972,Revolving loans,M,27.0,1.47,1.0,Y,Y,76500.0,180000.0,9000.0,180000.0,0.11764705882352941,0.05,Working,Secondary / secondary special,Single / not married,With parents
+253428,393254,Cash loans,F,43.0,7.82,3.0,N,Y,135000.0,157500.0,7789.5,157500.0,0.0577,0.04945714285714286,State servant,Secondary / secondary special,Married,House / apartment
+147369,270869,Cash loans,F,59.0,1000.67,2.0,N,Y,90000.0,284400.0,10345.5,225000.0,0.11495,0.036376582278481014,Pensioner,Secondary / secondary special,Married,House / apartment
+4068,104759,Cash loans,F,63.0,1000.67,2.0,N,Y,47700.0,314100.0,13963.5,225000.0,0.29273584905660377,0.04445558739255014,Pensioner,Secondary / secondary special,Married,House / apartment
+63398,173524,Cash loans,M,48.0,14.45,2.0,Y,Y,90000.0,1339884.0,35473.5,1170000.0,0.39415,0.02647505306429512,Working,Secondary / secondary special,Married,House / apartment
+87060,201040,Cash loans,M,43.0,4.38,2.0,Y,N,708610.5,2700000.0,133348.5,2700000.0,0.18818307095364803,0.04938833333333333,Commercial associate,Higher education,Married,House / apartment
+266948,409290,Cash loans,F,49.0,26.69,4.0,Y,Y,103500.0,1288350.0,37800.0,1125000.0,0.3652173913043478,0.029339853300733496,Working,Secondary / secondary special,Married,House / apartment
+164314,290477,Cash loans,M,45.0,12.86,2.0,N,N,225000.0,315000.0,33075.0,315000.0,0.147,0.105,Working,Secondary / secondary special,Married,House / apartment
+38696,144820,Cash loans,M,37.0,15.34,2.0,Y,Y,225000.0,473161.5,33061.5,405000.0,0.14694,0.0698736055236954,Commercial associate,Higher education,Married,House / apartment
+110306,227947,Cash loans,M,36.0,3.95,2.0,Y,Y,405000.0,1480500.0,40842.0,1480500.0,0.10084444444444444,0.02758662613981763,Commercial associate,Higher education,Married,House / apartment
+106328,223358,Cash loans,F,35.0,0.4,4.0,N,Y,90000.0,868500.0,25524.0,868500.0,0.2836,0.02938860103626943,Commercial associate,Higher education,Married,House / apartment
+93257,208291,Cash loans,M,66.0,1000.67,2.0,Y,Y,121500.0,225000.0,12694.5,225000.0,0.10448148148148148,0.05642,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+119642,238740,Cash loans,F,48.0,0.33,4.0,N,Y,58500.0,629325.0,26793.0,562500.0,0.458,0.04257418662853057,Working,Secondary / secondary special,Married,House / apartment
+261036,402115,Cash loans,F,59.0,1000.67,2.0,N,N,90000.0,148365.0,9720.0,135000.0,0.108,0.06551410373066424,Pensioner,Secondary / secondary special,Married,House / apartment
+511,100588,Cash loans,F,32.0,4.22,2.0,N,Y,157500.0,679500.0,19998.0,679500.0,0.12697142857142857,0.02943046357615894,Commercial associate,Higher education,Single / not married,House / apartment
+186537,316253,Cash loans,F,61.0,1000.67,2.0,N,Y,202500.0,331920.0,17077.5,225000.0,0.08433333333333333,0.05145065075921909,Pensioner,Secondary / secondary special,Married,House / apartment
+117712,236493,Cash loans,F,33.0,0.08,3.0,N,Y,94500.0,679500.0,36202.5,679500.0,0.3830952380952381,0.05327814569536424,Working,Higher education,Married,House / apartment
+270099,413028,Cash loans,F,28.0,2.18,2.0,Y,Y,135000.0,450000.0,50904.0,450000.0,0.37706666666666666,0.11312,Working,Higher education,Married,House / apartment
+260559,401543,Cash loans,M,34.0,8.94,2.0,Y,Y,157500.0,1227901.5,46899.0,1129500.0,0.2977714285714286,0.038194431719482384,State servant,Secondary / secondary special,Married,House / apartment
+17389,120279,Cash loans,F,31.0,6.45,2.0,N,Y,180000.0,495351.0,30433.5,459000.0,0.169075,0.061438252875233926,Working,Secondary / secondary special,Married,House / apartment
+165428,291774,Cash loans,F,50.0,9.73,2.0,N,Y,117000.0,601470.0,30838.5,450000.0,0.2635769230769231,0.05127188388448302,Working,Higher education,Married,House / apartment
+172874,300329,Cash loans,M,28.0,1.59,1.0,N,N,157500.0,450000.0,30442.5,450000.0,0.19328571428571428,0.06765,State servant,Secondary / secondary special,Single / not married,With parents
+288028,433671,Cash loans,F,43.0,2.19,2.0,N,Y,225000.0,545040.0,25537.5,450000.0,0.1135,0.04685435931307794,Working,Secondary / secondary special,Civil marriage,House / apartment
+265696,407762,Cash loans,M,32.0,0.73,2.0,N,N,427500.0,900000.0,45954.0,900000.0,0.10749473684210527,0.05106,Working,Incomplete higher,Married,House / apartment
+66183,176761,Cash loans,F,46.0,18.98,3.0,Y,Y,135000.0,733500.0,33273.0,733500.0,0.24646666666666667,0.04536196319018405,State servant,Higher education,Married,House / apartment
+102251,218706,Cash loans,F,28.0,0.57,1.0,N,Y,258880.5,315000.0,16308.0,315000.0,0.06299431591023658,0.05177142857142857,Commercial associate,Higher education,Single / not married,House / apartment
+260688,401685,Cash loans,M,57.0,0.57,2.0,Y,Y,112500.0,545040.0,25537.5,450000.0,0.227,0.04685435931307794,Working,Secondary / secondary special,Married,House / apartment
+46712,154107,Cash loans,M,36.0,1.42,2.0,Y,N,270000.0,358344.0,9850.5,283500.0,0.03648333333333333,0.027488949166164355,Working,Secondary / secondary special,Married,Municipal apartment
+105778,222739,Cash loans,M,67.0,1000.67,2.0,Y,Y,67500.0,50940.0,5089.5,45000.0,0.0754,0.09991166077738516,Pensioner,Secondary / secondary special,Married,House / apartment
+42518,149211,Cash loans,M,42.0,7.43,1.0,N,Y,135000.0,254700.0,26874.0,225000.0,0.19906666666666667,0.10551236749116608,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+11201,113053,Cash loans,F,33.0,12.36,4.0,N,Y,90000.0,677664.0,34731.0,585000.0,0.3859,0.051251062473438164,Working,Higher education,Married,House / apartment
+288844,434631,Cash loans,M,35.0,1.5,4.0,Y,N,112500.0,614475.0,30015.0,432000.0,0.2668,0.04884657634566093,Working,Secondary / secondary special,Married,House / apartment
+29047,133748,Cash loans,M,44.0,4.14,2.0,Y,Y,108000.0,384048.0,18031.5,270000.0,0.16695833333333332,0.04695116235470566,Working,Secondary / secondary special,Married,House / apartment
+244439,382934,Cash loans,F,53.0,7.63,2.0,N,Y,103500.0,760225.5,30280.5,679500.0,0.29256521739130437,0.03983094489727061,Working,Secondary / secondary special,Married,House / apartment
+210827,344319,Cash loans,F,63.0,1000.67,1.0,Y,Y,162000.0,808650.0,23305.5,675000.0,0.1438611111111111,0.028820255982192542,Pensioner,Higher education,Single / not married,House / apartment
+97923,213699,Cash loans,F,29.0,6.38,3.0,N,N,112500.0,1078200.0,28570.5,900000.0,0.25396,0.026498330550918197,Working,Incomplete higher,Married,House / apartment
+127856,248290,Cash loans,M,51.0,8.47,2.0,N,Y,202500.0,1006920.0,42790.5,900000.0,0.21131111111111112,0.04249642474079371,Commercial associate,Secondary / secondary special,Married,House / apartment
+259203,399970,Cash loans,F,36.0,5.06,4.0,Y,Y,261000.0,1824480.0,63549.0,1575000.0,0.24348275862068966,0.03483129439621152,Commercial associate,Higher education,Married,House / apartment
+45499,152695,Cash loans,F,32.0,6.62,4.0,N,N,90000.0,819792.0,41854.5,720000.0,0.46505,0.05105502371333216,Commercial associate,Higher education,Married,House / apartment
+109117,226558,Cash loans,F,58.0,1000.67,1.0,N,Y,112500.0,540000.0,19525.5,540000.0,0.17356,0.036158333333333334,Pensioner,Secondary / secondary special,Widow,House / apartment
+144993,268126,Cash loans,F,39.0,8.37,2.0,N,N,247500.0,726381.0,48672.0,657000.0,0.19665454545454544,0.06700615792538626,Commercial associate,Secondary / secondary special,Married,House / apartment
+144721,267812,Cash loans,F,32.0,2.63,4.0,Y,Y,135000.0,573408.0,20727.0,495000.0,0.15353333333333333,0.036147036664992464,Working,Secondary / secondary special,Married,House / apartment
+169448,296395,Cash loans,F,65.0,42.82,1.0,N,Y,247500.0,1381500.0,36571.5,1381500.0,0.14776363636363637,0.02647231270358306,Working,Secondary / secondary special,Widow,Municipal apartment
+11533,113440,Cash loans,M,37.0,3.47,3.0,N,Y,180000.0,533668.5,27378.0,477000.0,0.1521,0.05130151020717918,Working,Secondary / secondary special,Married,House / apartment
+17832,120792,Cash loans,F,55.0,1000.67,2.0,N,N,112500.0,585000.0,25897.5,585000.0,0.2302,0.04426923076923077,Pensioner,Secondary / secondary special,Married,House / apartment
+175337,303184,Cash loans,F,67.0,1000.67,1.0,N,Y,135000.0,278460.0,20947.5,225000.0,0.15516666666666667,0.0752262443438914,Pensioner,Secondary / secondary special,Widow,House / apartment
+186946,316720,Cash loans,F,45.0,11.52,2.0,Y,Y,135000.0,175896.0,7582.5,126000.0,0.05616666666666666,0.04310785918952108,Commercial associate,Secondary / secondary special,Married,House / apartment
+260138,401043,Cash loans,F,61.0,0.52,1.0,N,Y,90000.0,299772.0,17338.5,247500.0,0.19265,0.05783895760778191,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment
+371,100428,Cash loans,F,55.0,5.7,2.0,Y,Y,90000.0,1224990.0,35946.0,877500.0,0.3994,0.02934391301153479,Working,Higher education,Married,House / apartment
+11098,112929,Cash loans,M,51.0,16.68,2.0,N,N,202500.0,1575000.0,41679.0,1575000.0,0.2058222222222222,0.026462857142857142,Commercial associate,Secondary / secondary special,Married,House / apartment
+70667,181973,Cash loans,F,58.0,6.11,1.0,N,Y,225000.0,728460.0,38938.5,675000.0,0.17306,0.05345317519149988,Commercial associate,Secondary / secondary special,Widow,Municipal apartment
+142360,265063,Cash loans,M,25.0,1.99,3.0,N,Y,112500.0,229230.0,14022.0,202500.0,0.12464,0.06117000392618767,Working,Secondary / secondary special,Married,House / apartment
+23526,127373,Cash loans,M,42.0,0.65,2.0,Y,N,360000.0,1735299.0,75667.5,1638000.0,0.2101875,0.04360487731509095,Working,Higher education,Married,House / apartment
+30693,135623,Cash loans,F,43.0,19.37,2.0,N,Y,67500.0,284400.0,16011.0,225000.0,0.2372,0.05629746835443038,Commercial associate,Secondary / secondary special,Married,House / apartment
+159743,285178,Cash loans,M,51.0,7.74,2.0,Y,Y,315000.0,225000.0,24003.0,225000.0,0.0762,0.10668,Working,Secondary / secondary special,Married,House / apartment
+228975,365219,Cash loans,F,40.0,11.9,2.0,Y,Y,157500.0,504000.0,16389.0,504000.0,0.10405714285714286,0.03251785714285714,Working,Higher education,Married,House / apartment
+37830,143816,Cash loans,F,31.0,7.21,4.0,Y,Y,225000.0,679500.0,27076.5,679500.0,0.12034,0.0398476821192053,Working,Secondary / secondary special,Married,House / apartment
+219639,354450,Cash loans,F,27.0,2.72,2.0,N,Y,90000.0,187704.0,14958.0,148500.0,0.1662,0.07968929804372843,Working,Secondary / secondary special,Married,House / apartment
+44611,151682,Cash loans,F,42.0,1000.67,2.0,N,Y,229500.0,377370.0,34740.0,315000.0,0.15137254901960784,0.09205819222513713,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+120316,239508,Cash loans,M,55.0,6.82,2.0,Y,Y,306000.0,1113840.0,44302.5,900000.0,0.14477941176470588,0.03977456367162249,Working,Secondary / secondary special,Married,House / apartment
+200928,332913,Cash loans,M,42.0,11.96,2.0,Y,N,270000.0,971280.0,54234.0,900000.0,0.20086666666666667,0.05583765752409192,Working,Secondary / secondary special,Married,House / apartment
+68551,179504,Cash loans,M,38.0,20.23,2.0,N,N,225000.0,619965.0,16353.0,517500.0,0.07268,0.02637729549248748,Working,Secondary / secondary special,Married,House / apartment
+264496,406316,Cash loans,F,45.0,6.22,2.0,N,N,180000.0,1006920.0,70209.0,900000.0,0.39005,0.06972649267071862,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+60250,169861,Cash loans,M,23.0,1.97,2.0,Y,N,202500.0,479700.0,54252.0,450000.0,0.2679111111111111,0.11309568480300188,Commercial associate,Secondary / secondary special,Married,House / apartment
+100103,216210,Cash loans,F,63.0,1000.67,2.0,N,Y,202500.0,664569.0,28287.0,594000.0,0.1396888888888889,0.04256442897577227,Pensioner,Secondary / secondary special,Married,House / apartment
+89029,203373,Cash loans,M,27.0,4.36,1.0,Y,Y,157500.0,351486.0,36144.0,310500.0,0.2294857142857143,0.1028319762380294,Working,Higher education,Single / not married,House / apartment
+245528,384141,Cash loans,F,34.0,3.5,3.0,Y,Y,90000.0,314100.0,16573.5,225000.0,0.18415,0.052765042979942695,Working,Secondary / secondary special,Married,House / apartment
+181312,310133,Cash loans,F,37.0,3.11,4.0,Y,Y,202500.0,467257.5,22855.5,328500.0,0.11286666666666667,0.04891414263013435,Working,Secondary / secondary special,Separated,House / apartment
+304283,452541,Cash loans,M,33.0,4.99,3.0,Y,N,495000.0,791595.0,50719.5,733500.0,0.10246363636363637,0.06407253709283156,Working,Higher education,Married,House / apartment
+125456,245487,Cash loans,F,60.0,1000.67,2.0,N,Y,202500.0,584766.0,24903.0,472500.0,0.12297777777777778,0.04258626527534091,Pensioner,Secondary / secondary special,Married,House / apartment
+242224,380424,Cash loans,F,53.0,2.66,1.0,N,Y,108000.0,198666.0,13405.5,175500.0,0.124125,0.06747757542810547,Working,Secondary / secondary special,Single / not married,House / apartment
+46347,153686,Cash loans,M,58.0,3.7,2.0,Y,N,112500.0,254700.0,16407.0,225000.0,0.14584,0.06441696113074205,Working,Secondary / secondary special,Married,House / apartment
+303745,451922,Cash loans,F,53.0,4.72,2.0,N,N,76500.0,1077061.5,31491.0,940500.0,0.4116470588235294,0.029237884744742988,Working,Secondary / secondary special,Married,House / apartment
+13304,115516,Cash loans,F,35.0,5.58,2.0,N,Y,87750.0,188685.0,13549.5,157500.0,0.1544102564102564,0.07181015979012641,Working,Secondary / secondary special,Married,House / apartment
+133414,254734,Cash loans,M,49.0,7.05,1.0,N,Y,157500.0,1305000.0,49837.5,1305000.0,0.31642857142857145,0.038189655172413794,Commercial associate,Higher education,Single / not married,House / apartment
+180381,309050,Cash loans,F,40.0,4.41,3.0,N,N,67500.0,135000.0,7452.0,135000.0,0.1104,0.0552,Working,Higher education,Married,Municipal apartment
+229842,366216,Cash loans,F,31.0,5.25,2.0,N,N,112500.0,679500.0,19867.5,679500.0,0.1766,0.02923841059602649,State servant,Secondary / secondary special,Married,With parents
+289549,435450,Cash loans,M,36.0,6.37,4.0,Y,Y,157500.0,1125000.0,32895.0,1125000.0,0.20885714285714285,0.02924,Working,Secondary / secondary special,Married,House / apartment
+144110,267092,Cash loans,F,59.0,1000.67,1.0,N,N,90000.0,263686.5,25816.5,238500.0,0.28685,0.09790603614519515,Pensioner,Secondary / secondary special,Separated,House / apartment
+172962,300434,Cash loans,M,62.0,1000.67,2.0,Y,Y,65250.0,95940.0,9342.0,90000.0,0.14317241379310344,0.09737335834896811,Pensioner,Secondary / secondary special,Married,House / apartment
+15024,117544,Cash loans,F,25.0,4.64,2.0,N,N,90000.0,640080.0,31261.5,450000.0,0.34735,0.04883998875140608,Working,Secondary / secondary special,Civil marriage,House / apartment
+16,100020,Cash loans,M,35.0,3.61,2.0,N,N,108000.0,509602.5,26149.5,387000.0,0.242125,0.05131352377588415,Working,Secondary / secondary special,Married,House / apartment
+71473,182888,Cash loans,M,61.0,1000.67,2.0,N,Y,67500.0,753840.0,24448.5,540000.0,0.3622,0.03243194842406877,Pensioner,Secondary / secondary special,Married,House / apartment
+188283,318289,Revolving loans,F,23.0,0.99,1.0,N,Y,112500.0,180000.0,9000.0,180000.0,0.08,0.05,Working,Higher education,Separated,House / apartment
+205844,338596,Cash loans,F,39.0,2.91,3.0,N,Y,90000.0,654498.0,27859.5,585000.0,0.30955,0.042566211050301145,Working,Secondary / secondary special,Married,House / apartment
+107540,224763,Cash loans,M,23.0,2.19,1.0,Y,Y,247500.0,225000.0,17775.0,225000.0,0.07181818181818182,0.079,Working,Higher education,Single / not married,House / apartment
+92428,207325,Cash loans,M,42.0,2.04,2.0,Y,Y,202500.0,728460.0,44563.5,675000.0,0.22006666666666666,0.061174944403261676,Working,Secondary / secondary special,Married,House / apartment
+53545,162017,Cash loans,F,39.0,2.1,2.0,N,Y,189000.0,284400.0,20740.5,225000.0,0.10973809523809523,0.07292721518987341,Working,Secondary / secondary special,Married,House / apartment
+161744,287507,Cash loans,F,51.0,1.59,2.0,N,Y,67500.0,675000.0,21775.5,675000.0,0.3226,0.03226,Working,Secondary / secondary special,Married,House / apartment
+206442,339287,Cash loans,F,34.0,11.98,4.0,N,Y,180000.0,450000.0,19953.0,450000.0,0.11085,0.04434,Commercial associate,Higher education,Married,House / apartment
+78087,190529,Cash loans,F,65.0,1000.67,2.0,N,Y,126000.0,794173.5,35113.5,697500.0,0.27867857142857144,0.04421389028971629,Pensioner,Secondary / secondary special,Married,House / apartment
+2271,102661,Cash loans,F,36.0,11.56,1.0,N,N,225000.0,1890000.0,49986.0,1890000.0,0.22216,0.026447619047619046,Commercial associate,Higher education,Single / not married,House / apartment
+74476,186367,Cash loans,M,37.0,6.3,3.0,Y,N,180000.0,746280.0,59094.0,675000.0,0.3283,0.07918475639170285,Working,Secondary / secondary special,Married,Rented apartment
+238865,376697,Cash loans,M,61.0,8.54,2.0,N,N,157500.0,668304.0,28444.5,540000.0,0.1806,0.04256221719457014,State servant,Lower secondary,Married,House / apartment
+85511,199223,Cash loans,F,34.0,11.9,3.0,N,N,85500.0,312678.0,25200.0,261000.0,0.29473684210526313,0.080594093604283,Commercial associate,Higher education,Married,House / apartment
+210781,344261,Cash loans,F,60.0,1000.67,2.0,N,N,90000.0,112500.0,7569.0,112500.0,0.0841,0.06728,Pensioner,Secondary / secondary special,Married,House / apartment
+83868,197267,Cash loans,F,45.0,27.29,3.0,N,N,270000.0,845023.5,22288.5,705361.5,0.08255,0.026376189537924092,Commercial associate,Higher education,Married,House / apartment
+192145,322807,Cash loans,M,49.0,3.44,2.0,N,Y,220500.0,1113840.0,44172.0,900000.0,0.2003265306122449,0.0396574014221073,Working,Secondary / secondary special,Married,House / apartment
+235160,372390,Cash loans,F,64.0,1.97,2.0,N,Y,135000.0,135000.0,13482.0,135000.0,0.09986666666666667,0.09986666666666667,State servant,Secondary / secondary special,Married,House / apartment
+137147,259065,Cash loans,F,30.0,2.27,2.0,N,N,78750.0,203760.0,21618.0,180000.0,0.2745142857142857,0.10609540636042403,Working,Higher education,Married,House / apartment
+227473,363484,Cash loans,F,31.0,7.6,3.0,Y,N,225000.0,1575000.0,46053.0,1575000.0,0.20468,0.02924,Commercial associate,Higher education,Married,House / apartment
+211918,345584,Cash loans,F,61.0,1000.67,2.0,Y,Y,54000.0,299772.0,19287.0,247500.0,0.3571666666666667,0.06433889756214724,Pensioner,Secondary / secondary special,Married,House / apartment
+211132,344668,Cash loans,F,30.0,4.44,2.0,N,Y,135000.0,1534500.0,42327.0,1534500.0,0.31353333333333333,0.02758357771260997,Commercial associate,Incomplete higher,Married,House / apartment
+305868,454379,Cash loans,F,64.0,1000.67,2.0,N,Y,135000.0,540000.0,30280.5,540000.0,0.2243,0.056075,Pensioner,Secondary / secondary special,Married,House / apartment
+287397,432902,Cash loans,F,61.0,1000.67,2.0,N,Y,67500.0,119925.0,11988.0,112500.0,0.1776,0.0999624765478424,Pensioner,Lower secondary,Civil marriage,House / apartment
+185628,315187,Cash loans,F,46.0,13.72,2.0,N,Y,292500.0,513000.0,26320.5,513000.0,0.08998461538461539,0.05130701754385965,Commercial associate,Higher education,Married,House / apartment
+252935,392675,Cash loans,M,28.0,0.26,4.0,Y,Y,112500.0,253737.0,20178.0,229500.0,0.17936,0.07952328592203739,Working,Secondary / secondary special,Married,House / apartment
+193293,324150,Cash loans,F,65.0,1000.67,1.0,N,Y,189000.0,765261.0,30478.5,684000.0,0.16126190476190477,0.039827588234602314,Pensioner,Secondary / secondary special,Widow,House / apartment
+82167,195286,Revolving loans,F,26.0,2.28,4.0,N,Y,90000.0,135000.0,6750.0,135000.0,0.075,0.05,Working,Secondary / secondary special,Married,House / apartment
+261822,403078,Cash loans,F,59.0,1000.67,2.0,Y,Y,69750.0,501435.0,16146.0,414000.0,0.23148387096774192,0.03219958718477968,Pensioner,Lower secondary,Married,House / apartment
+236648,374104,Cash loans,F,50.0,8.63,2.0,N,Y,103500.0,480060.0,18225.0,337500.0,0.17608695652173914,0.03796400449943757,Working,Secondary / secondary special,Married,House / apartment
+43275,150089,Cash loans,F,29.0,2.79,3.0,N,N,135000.0,231813.0,11965.5,193500.0,0.08863333333333333,0.05161703614551384,Commercial associate,Secondary / secondary special,Married,House / apartment
+141030,263512,Cash loans,M,54.0,30.42,1.0,N,Y,135000.0,254700.0,14751.0,225000.0,0.10926666666666666,0.05791519434628975,Working,Secondary / secondary special,Separated,House / apartment
+109108,226546,Revolving loans,M,42.0,1.69,4.0,Y,Y,270000.0,630000.0,31500.0,630000.0,0.11666666666666667,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+158521,283777,Revolving loans,F,22.0,2.14,2.0,N,Y,67500.0,135000.0,6750.0,135000.0,0.1,0.05,Working,Secondary / secondary special,Married,House / apartment
+267576,410008,Revolving loans,M,36.0,3.62,3.0,Y,Y,405000.0,900000.0,45000.0,900000.0,0.1111111111111111,0.05,Commercial associate,Higher education,Married,House / apartment
+302608,450594,Cash loans,F,28.0,1.11,1.0,N,N,90000.0,814041.0,23931.0,679500.0,0.2659,0.029397782175590664,Working,Secondary / secondary special,Single / not married,With parents
+61498,171323,Cash loans,M,53.0,3.62,2.0,Y,Y,157500.0,254700.0,25321.5,225000.0,0.16077142857142857,0.09941696113074205,Working,Higher education,Married,House / apartment
+143902,266859,Cash loans,F,59.0,1000.67,1.0,N,Y,135000.0,299772.0,11430.0,247500.0,0.08466666666666667,0.038128978023297705,Pensioner,Secondary / secondary special,Widow,House / apartment
+203078,335428,Cash loans,F,29.0,1.43,4.0,N,Y,103500.0,284400.0,13387.5,225000.0,0.12934782608695652,0.04707278481012658,Working,Secondary / secondary special,Married,House / apartment
+94482,209702,Cash loans,F,30.0,0.59,3.0,N,Y,112500.0,808650.0,26217.0,675000.0,0.23304,0.032420701168614355,Working,Secondary / secondary special,Civil marriage,House / apartment
+269750,412620,Cash loans,M,32.0,0.63,2.0,Y,Y,202500.0,1085994.0,46012.5,877500.0,0.22722222222222221,0.04236901861336251,Commercial associate,Higher education,Married,House / apartment
+291395,437581,Cash loans,M,44.0,0.96,2.0,Y,N,360000.0,1125000.0,47664.0,1125000.0,0.1324,0.042368,Working,Higher education,Married,House / apartment
+57273,166381,Cash loans,M,49.0,13.82,2.0,Y,N,180000.0,270000.0,17383.5,270000.0,0.096575,0.06438333333333333,Working,Secondary / secondary special,Married,House / apartment
+271965,415299,Cash loans,F,59.0,1000.67,2.0,Y,Y,81000.0,1125000.0,32895.0,1125000.0,0.4061111111111111,0.02924,Pensioner,Secondary / secondary special,Married,House / apartment
+282409,427094,Cash loans,F,35.0,3.57,3.0,N,N,135000.0,966555.0,51628.5,913500.0,0.38243333333333335,0.053414963452674706,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+298210,445481,Cash loans,M,46.0,11.34,4.0,Y,Y,112500.0,675000.0,32602.5,675000.0,0.2898,0.0483,Working,Secondary / secondary special,Married,House / apartment
+209716,343048,Cash loans,F,64.0,1000.67,2.0,Y,N,202500.0,112500.0,10539.0,112500.0,0.05204444444444444,0.09368,Pensioner,Secondary / secondary special,Married,House / apartment
+252126,391727,Cash loans,F,38.0,7.85,2.0,N,Y,67500.0,94500.0,6718.5,94500.0,0.09953333333333333,0.0710952380952381,State servant,Higher education,Single / not married,House / apartment
+3294,103849,Cash loans,M,30.0,7.73,4.0,N,Y,202500.0,1006920.0,42790.5,900000.0,0.21131111111111112,0.04249642474079371,Commercial associate,Higher education,Married,House / apartment
+206941,339860,Revolving loans,F,39.0,2.71,4.0,Y,Y,76500.0,225000.0,11250.0,225000.0,0.14705882352941177,0.05,Working,Secondary / secondary special,Married,House / apartment
+197068,328487,Cash loans,M,52.0,0.24,2.0,Y,Y,157500.0,900000.0,48955.5,900000.0,0.31082857142857145,0.054395,Working,Secondary / secondary special,Married,House / apartment
+137641,259630,Cash loans,M,53.0,5.43,2.0,Y,Y,135000.0,900000.0,26446.5,900000.0,0.1959,0.029385,Working,Secondary / secondary special,Married,House / apartment
+219933,354788,Cash loans,F,42.0,16.29,3.0,N,Y,67500.0,117162.0,11718.0,103500.0,0.1736,0.10001536334306345,Working,Secondary / secondary special,Married,House / apartment
+300963,448668,Cash loans,F,31.0,10.39,4.0,N,Y,157500.0,679500.0,45594.0,679500.0,0.2894857142857143,0.06709933774834437,Working,Secondary / secondary special,Married,House / apartment
+255619,395782,Cash loans,F,54.0,16.11,1.0,Y,N,112500.0,675000.0,26901.0,675000.0,0.23912,0.03985333333333333,State servant,Secondary / secondary special,Widow,House / apartment
+9585,111140,Revolving loans,F,30.0,2.27,2.0,N,Y,81000.0,135000.0,6750.0,135000.0,0.08333333333333333,0.05,Working,Secondary / secondary special,Civil marriage,House / apartment
+145193,268362,Cash loans,F,66.0,1000.67,2.0,N,Y,88650.0,269550.0,18891.0,225000.0,0.21309644670050762,0.07008347245409015,Pensioner,Secondary / secondary special,Married,House / apartment
+212934,346751,Cash loans,F,42.0,13.69,2.0,Y,Y,135000.0,787131.0,26145.0,679500.0,0.19366666666666665,0.03321556386421066,Working,Higher education,Separated,House / apartment
+196824,328214,Revolving loans,M,26.0,6.36,2.0,N,Y,238500.0,450000.0,22500.0,450000.0,0.09433962264150944,0.05,Commercial associate,Higher education,Separated,House / apartment
+124582,244480,Cash loans,F,44.0,3.37,3.0,N,Y,90000.0,799956.0,26568.0,607500.0,0.2952,0.03321182665046578,Working,Higher education,Married,House / apartment
+26936,131308,Cash loans,M,36.0,14.3,4.0,N,Y,112500.0,450000.0,22018.5,450000.0,0.19572,0.04893,Working,Secondary / secondary special,Married,House / apartment
+140693,263136,Cash loans,F,36.0,3.03,2.0,N,Y,112500.0,166810.5,19926.0,144000.0,0.17712,0.11945291213682592,Working,Secondary / secondary special,Married,House / apartment
+303083,451141,Cash loans,M,53.0,10.93,2.0,N,Y,126000.0,513531.0,24835.5,459000.0,0.19710714285714287,0.04836222156013951,Working,Secondary / secondary special,Married,House / apartment
+79865,192582,Cash loans,M,45.0,5.28,1.0,N,Y,67500.0,325908.0,14485.5,247500.0,0.2146,0.044446592289848666,Working,Secondary / secondary special,Widow,House / apartment
+121434,240785,Cash loans,F,32.0,5.81,3.0,N,N,67500.0,270000.0,19332.0,270000.0,0.2864,0.0716,Working,Secondary / secondary special,Married,House / apartment
+206003,338779,Cash loans,F,55.0,0.56,2.0,N,Y,112500.0,450000.0,22018.5,450000.0,0.19572,0.04893,Working,Secondary / secondary special,Married,House / apartment
+251711,391250,Cash loans,F,35.0,5.29,1.0,N,N,112500.0,454500.0,14661.0,454500.0,0.13032,0.03225742574257426,Working,Secondary / secondary special,Widow,House / apartment
+163678,289738,Cash loans,F,23.0,3.19,2.0,N,N,90000.0,450000.0,21888.0,450000.0,0.2432,0.04864,Working,Secondary / secondary special,Married,House / apartment
+3407,103978,Cash loans,F,52.0,6.43,2.0,N,Y,112500.0,463500.0,15318.0,463500.0,0.13616,0.033048543689320385,Working,Secondary / secondary special,Married,House / apartment
+156369,281257,Cash loans,F,34.0,1.13,4.0,N,Y,180000.0,327024.0,15372.0,270000.0,0.0854,0.04700572435050639,Working,Secondary / secondary special,Married,House / apartment
+231173,367757,Cash loans,F,48.0,7.97,3.0,N,N,180000.0,561384.0,54819.0,540000.0,0.30455,0.09764973707836347,Commercial associate,Secondary / secondary special,Married,Office apartment
+162605,288504,Cash loans,M,29.0,7.3,2.0,N,Y,166500.0,814041.0,23800.5,679500.0,0.14294594594594595,0.02923747083992084,Working,Secondary / secondary special,Married,House / apartment
+256529,396850,Cash loans,F,33.0,6.4,4.0,Y,N,157500.0,945000.0,25056.0,945000.0,0.15908571428571427,0.026514285714285716,Commercial associate,Incomplete higher,Married,With parents
+247899,386862,Cash loans,F,67.0,1000.67,1.0,N,Y,67500.0,215640.0,9495.0,180000.0,0.14066666666666666,0.044031719532554255,Pensioner,Secondary / secondary special,Widow,House / apartment
+301507,449301,Cash loans,M,46.0,6.08,4.0,Y,Y,216000.0,755190.0,36459.0,675000.0,0.16879166666666667,0.0482779168156358,Commercial associate,Secondary / secondary special,Married,House / apartment
+294528,441218,Cash loans,F,35.0,3.14,2.0,N,N,81000.0,225000.0,17775.0,225000.0,0.21944444444444444,0.079,Working,Secondary / secondary special,Married,House / apartment
+188862,318955,Cash loans,F,47.0,0.6,2.0,N,Y,292500.0,497520.0,33246.0,450000.0,0.11366153846153847,0.0668234442836469,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+80807,193688,Cash loans,M,36.0,4.09,3.0,Y,Y,135000.0,760225.5,32206.5,679500.0,0.23856666666666668,0.042364403719685806,Working,Secondary / secondary special,Married,House / apartment
+45276,152444,Cash loans,F,65.0,1000.67,2.0,N,Y,135000.0,728460.0,41949.0,675000.0,0.3107333333333333,0.05758586607363479,Pensioner,Secondary / secondary special,Married,House / apartment
+207144,340101,Cash loans,M,40.0,11.14,2.0,Y,Y,112500.0,1051245.0,30865.5,877500.0,0.27436,0.02936090064637644,Commercial associate,Secondary / secondary special,Married,With parents
+32776,137985,Cash loans,F,57.0,12.39,2.0,Y,Y,135000.0,924858.0,61731.0,873000.0,0.45726666666666665,0.06674646270021993,Working,Secondary / secondary special,Married,House / apartment
+25319,129450,Cash loans,F,54.0,10.9,2.0,Y,Y,180000.0,1227901.5,50139.0,1129500.0,0.27855,0.040833079852089116,Commercial associate,Higher education,Married,House / apartment
+93815,208936,Cash loans,M,45.0,1.62,2.0,Y,Y,225000.0,450000.0,21109.5,450000.0,0.09382,0.04691,Working,Incomplete higher,Married,House / apartment
+225753,361483,Cash loans,M,27.0,4.58,1.0,N,N,121500.0,450000.0,20979.0,450000.0,0.17266666666666666,0.04662,State servant,Secondary / secondary special,Single / not married,House / apartment
+220583,355535,Cash loans,F,42.0,5.51,2.0,Y,Y,90000.0,163008.0,11943.0,144000.0,0.1327,0.07326634275618374,Working,Secondary / secondary special,Married,Municipal apartment
+173635,301221,Cash loans,M,34.0,1.29,2.0,Y,Y,256500.0,278460.0,21676.5,225000.0,0.08450877192982456,0.07784421460892049,Working,Incomplete higher,Married,House / apartment
+269201,411968,Cash loans,F,58.0,1000.67,2.0,N,Y,90000.0,1125000.0,29808.0,1125000.0,0.3312,0.026496,Pensioner,Secondary / secondary special,Married,House / apartment
+33893,139275,Cash loans,F,46.0,2.04,1.0,N,Y,54000.0,80865.0,7546.5,67500.0,0.13975,0.09332220367278798,Working,Secondary / secondary special,Single / not married,House / apartment
+71590,183018,Cash loans,M,49.0,2.93,2.0,N,Y,112500.0,1065433.5,42385.5,913500.0,0.37676,0.03978239843218746,Working,Secondary / secondary special,Married,House / apartment
+277201,421222,Cash loans,F,31.0,7.89,3.0,Y,Y,112500.0,270000.0,21460.5,270000.0,0.19076,0.07948333333333334,State servant,Higher education,Married,House / apartment
+105069,221923,Cash loans,F,68.0,1000.67,2.0,Y,N,64350.0,57564.0,5737.5,54000.0,0.08916083916083917,0.099671669793621,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+183369,312537,Cash loans,F,51.0,13.26,1.0,N,Y,157500.0,532494.0,35716.5,454500.0,0.22677142857142857,0.06707399519994592,Working,Higher education,Separated,House / apartment
+181860,310798,Cash loans,M,40.0,1.59,4.0,N,Y,202500.0,1288350.0,41692.5,1125000.0,0.2058888888888889,0.03236115962277331,Commercial associate,Higher education,Civil marriage,House / apartment
+248236,387205,Cash loans,F,40.0,2.72,2.0,Y,Y,315000.0,408780.0,32427.0,337500.0,0.10294285714285714,0.07932628797886393,Commercial associate,Secondary / secondary special,Married,House / apartment
+169184,296099,Cash loans,F,55.0,34.11,2.0,N,Y,139500.0,961146.0,28233.0,688500.0,0.20238709677419356,0.029374309418132103,State servant,Higher education,Married,House / apartment
+274033,417649,Cash loans,F,54.0,1000.67,1.0,N,Y,180000.0,781920.0,25969.5,675000.0,0.144275,0.033212476979742174,Pensioner,Secondary / secondary special,Separated,House / apartment
+45946,153239,Revolving loans,F,30.0,6.58,2.0,N,Y,135000.0,247500.0,12375.0,247500.0,0.09166666666666666,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+265585,407607,Cash loans,F,39.0,9.04,2.0,N,N,90000.0,1006920.0,39933.0,900000.0,0.4437,0.03965856274579907,Working,Secondary / secondary special,Married,House / apartment
+137528,259506,Cash loans,M,43.0,1000.67,1.0,N,Y,54000.0,254700.0,14350.5,225000.0,0.26575,0.05634275618374558,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+163499,289534,Revolving loans,F,51.0,12.1,2.0,N,N,135000.0,630000.0,31500.0,630000.0,0.23333333333333334,0.05,Working,Secondary / secondary special,Married,House / apartment
+180959,309709,Cash loans,F,60.0,1000.67,2.0,N,Y,157500.0,436032.0,21339.0,360000.0,0.1354857142857143,0.04893906869220608,Pensioner,Secondary / secondary special,Married,House / apartment
+146788,270190,Cash loans,M,44.0,3.79,2.0,Y,Y,135000.0,545040.0,36553.5,450000.0,0.27076666666666666,0.06706571994715985,Working,Secondary / secondary special,Married,House / apartment
+190397,320756,Cash loans,F,52.0,2.6,2.0,N,Y,202500.0,532345.5,29722.5,481500.0,0.14677777777777778,0.05583310087152047,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+37437,143366,Cash loans,F,33.0,8.29,4.0,N,Y,360000.0,1067940.0,31356.0,765000.0,0.0871,0.02936120006741952,Commercial associate,Secondary / secondary special,Widow,House / apartment
+154609,279207,Cash loans,F,32.0,8.2,3.0,N,N,112500.0,1288350.0,37800.0,1125000.0,0.336,0.029339853300733496,Working,Secondary / secondary special,Married,House / apartment
+18999,122157,Cash loans,F,54.0,2.35,1.0,N,Y,117000.0,450000.0,16164.0,450000.0,0.13815384615384615,0.03592,Working,Secondary / secondary special,Widow,House / apartment
+123304,242993,Cash loans,F,60.0,13.25,2.0,N,Y,292500.0,752742.0,40234.5,697500.0,0.13755384615384617,0.053450584662473995,Working,Secondary / secondary special,Married,House / apartment
+40944,147417,Cash loans,M,64.0,1000.67,2.0,N,Y,112500.0,900000.0,26446.5,900000.0,0.23508,0.029385,Pensioner,Secondary / secondary special,Married,Municipal apartment
+231388,368020,Cash loans,M,36.0,2.13,2.0,Y,N,270000.0,906228.0,46269.0,810000.0,0.17136666666666667,0.051056687720970884,Working,Higher education,Married,House / apartment
+859,100981,Cash loans,F,59.0,1000.67,2.0,N,N,67500.0,312768.0,13774.5,270000.0,0.20406666666666667,0.04404063075506446,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+107143,224308,Cash loans,F,47.0,4.8,1.0,N,Y,180000.0,360000.0,35068.5,360000.0,0.194825,0.0974125,Working,Higher education,Single / not married,House / apartment
+227726,363780,Cash loans,F,48.0,1.3,2.0,N,Y,90000.0,1125000.0,33025.5,1125000.0,0.36695,0.029356,Working,Secondary / secondary special,Civil marriage,House / apartment
+227721,363774,Cash loans,M,24.0,1.48,2.0,N,N,90000.0,455040.0,12640.5,360000.0,0.14045,0.02777887658227848,Working,Secondary / secondary special,Civil marriage,House / apartment
+56234,165162,Cash loans,M,45.0,10.21,5.0,Y,Y,180000.0,973710.0,28597.5,697500.0,0.158875,0.029369627507163324,State servant,Secondary / secondary special,Married,House / apartment
+163811,289893,Cash loans,F,37.0,0.74,2.0,N,N,180000.0,675000.0,53329.5,675000.0,0.296275,0.07900666666666667,Working,Higher education,Married,House / apartment
+43277,150091,Cash loans,M,48.0,10.56,2.0,Y,Y,180000.0,990000.0,32067.0,990000.0,0.17815,0.03239090909090909,Commercial associate,Incomplete higher,Married,House / apartment
+209435,342736,Cash loans,F,64.0,1000.67,2.0,N,Y,112500.0,450000.0,23107.5,450000.0,0.2054,0.05135,Pensioner,Secondary / secondary special,Married,House / apartment
+164966,291235,Cash loans,F,27.0,8.94,3.0,N,N,81000.0,454500.0,14791.5,454500.0,0.1826111111111111,0.032544554455445546,Working,Secondary / secondary special,Civil marriage,Municipal apartment
+281736,426361,Cash loans,F,58.0,2.27,2.0,Y,Y,202500.0,1111500.0,36864.0,1111500.0,0.18204444444444445,0.03316599190283401,Working,Higher education,Married,House / apartment
+42777,149521,Cash loans,M,60.0,23.11,2.0,Y,N,180000.0,269550.0,13761.0,225000.0,0.07645,0.051051752921535895,State servant,Secondary / secondary special,Married,House / apartment
+215853,350113,Cash loans,F,43.0,1.53,2.0,N,N,112500.0,543735.0,24079.5,486000.0,0.21404,0.04428535959612679,Working,Secondary / secondary special,Married,House / apartment
+101695,218068,Cash loans,F,63.0,1000.67,2.0,N,Y,117000.0,144279.0,15277.5,130500.0,0.1305769230769231,0.10588859085521801,Pensioner,Secondary / secondary special,Married,House / apartment
+40228,146602,Cash loans,F,30.0,1.35,3.0,N,N,67500.0,339241.5,15943.5,238500.0,0.2362,0.04699749293644793,Commercial associate,Secondary / secondary special,Married,House / apartment
+229599,365930,Cash loans,M,38.0,7.72,4.0,Y,Y,180000.0,781920.0,32998.5,675000.0,0.183325,0.0422018876611418,Working,Higher education,Married,House / apartment
+166206,292689,Revolving loans,M,40.0,6.64,2.0,Y,N,270000.0,270000.0,13500.0,270000.0,0.05,0.05,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment
+239260,377102,Cash loans,M,38.0,13.25,1.0,N,N,58500.0,188460.0,8113.5,135000.0,0.1386923076923077,0.04305157593123209,Working,Secondary / secondary special,Single / not married,House / apartment
+131782,252839,Cash loans,F,28.0,7.11,2.0,N,Y,247500.0,701730.0,72036.0,675000.0,0.29105454545454545,0.10265486725663717,Commercial associate,Incomplete higher,Married,House / apartment
+47304,154776,Cash loans,F,29.0,5.62,5.0,N,Y,90000.0,742500.0,29574.0,742500.0,0.3286,0.03983030303030303,Working,Secondary / secondary special,Married,With parents
+247897,386859,Cash loans,M,30.0,1.71,2.0,N,N,157500.0,225000.0,15219.0,225000.0,0.09662857142857142,0.06764,Working,Secondary / secondary special,Married,House / apartment
+114833,233157,Cash loans,F,41.0,13.33,3.0,N,Y,121500.0,450000.0,29299.5,450000.0,0.24114814814814814,0.06511,State servant,Secondary / secondary special,Married,House / apartment
+58025,167261,Revolving loans,F,50.0,31.93,2.0,Y,Y,112500.0,270000.0,13500.0,270000.0,0.12,0.05,Working,Secondary / secondary special,Married,House / apartment
+134028,255443,Cash loans,M,64.0,3.93,2.0,Y,Y,112500.0,408780.0,25137.0,337500.0,0.22344,0.061492734478203435,Working,Secondary / secondary special,Civil marriage,House / apartment
+136871,258749,Cash loans,M,32.0,10.67,2.0,Y,N,180000.0,342000.0,15192.0,342000.0,0.0844,0.044421052631578944,Working,Secondary / secondary special,Married,House / apartment
+272061,415396,Cash loans,F,53.0,12.72,2.0,N,N,180000.0,1057266.0,44793.0,945000.0,0.24885,0.042366821594565604,Commercial associate,Secondary / secondary special,Married,House / apartment
+17795,120749,Cash loans,F,56.0,1000.67,2.0,N,Y,112500.0,383746.5,36063.0,364500.0,0.32056,0.0939761014106969,Pensioner,Secondary / secondary special,Married,House / apartment
+294744,441469,Cash loans,M,28.0,5.78,2.0,Y,Y,207000.0,211630.5,16506.0,171000.0,0.0797391304347826,0.07799442896935933,State servant,Higher education,Married,House / apartment
+59319,168755,Cash loans,F,64.0,11.39,2.0,N,Y,67500.0,293733.0,30973.5,279000.0,0.45886666666666664,0.10544780463890677,Working,Secondary / secondary special,Married,House / apartment
+43113,149905,Cash loans,M,45.0,5.72,2.0,N,Y,112500.0,835380.0,40320.0,675000.0,0.3584,0.048265460030165915,Working,Secondary / secondary special,Married,House / apartment
+96548,212084,Cash loans,F,37.0,14.82,2.0,Y,N,157500.0,1269000.0,65704.5,1269000.0,0.4171714285714286,0.05177659574468085,Working,Higher education,Married,House / apartment
+73639,185395,Cash loans,F,61.0,1000.67,2.0,N,N,58500.0,945000.0,40036.5,945000.0,0.6843846153846154,0.042366666666666664,Pensioner,Secondary / secondary special,Married,House / apartment
+59682,169180,Cash loans,M,63.0,1000.67,2.0,N,Y,180000.0,1350000.0,47056.5,1350000.0,0.261425,0.03485666666666667,Pensioner,Secondary / secondary special,Married,House / apartment
+244038,382481,Cash loans,F,41.0,15.65,3.0,N,Y,225000.0,229500.0,14796.0,229500.0,0.06576,0.06447058823529411,Working,Secondary / secondary special,Married,House / apartment
+301984,449860,Cash loans,F,54.0,1000.67,2.0,N,Y,81000.0,630000.0,35307.0,630000.0,0.4358888888888889,0.056042857142857144,Pensioner,Secondary / secondary special,Married,House / apartment
+180210,308843,Cash loans,M,49.0,11.25,2.0,N,N,202500.0,900000.0,45954.0,900000.0,0.22693333333333332,0.05106,Working,Secondary / secondary special,Married,House / apartment
+277488,421527,Cash loans,F,56.0,1000.67,1.0,Y,Y,315000.0,1096020.0,56092.5,900000.0,0.17807142857142857,0.051178354409591065,Pensioner,Higher education,Separated,House / apartment
+85352,199033,Revolving loans,F,57.0,1000.67,2.0,N,Y,67500.0,180000.0,9000.0,180000.0,0.13333333333333333,0.05,Pensioner,Secondary / secondary special,Married,House / apartment
+272905,416373,Revolving loans,F,28.0,4.48,2.0,Y,Y,67500.0,202500.0,10125.0,202500.0,0.15,0.05,Working,Higher education,Married,House / apartment
+291897,438161,Cash loans,F,26.0,3.01,2.0,Y,Y,180000.0,691020.0,22419.0,495000.0,0.12455,0.03244334462099505,Commercial associate,Secondary / secondary special,Married,House / apartment
+127843,248277,Cash loans,F,32.0,0.66,2.0,Y,N,180000.0,360000.0,24057.0,360000.0,0.13365,0.066825,Working,Incomplete higher,Married,With parents
+110077,227667,Cash loans,F,47.0,1.63,1.0,N,Y,225000.0,277969.5,18225.0,229500.0,0.081,0.06556474721147464,Commercial associate,Higher education,Separated,House / apartment
+235238,372487,Revolving loans,M,55.0,4.97,2.0,N,Y,112500.0,337500.0,16875.0,337500.0,0.15,0.05,Working,Secondary / secondary special,Married,House / apartment
+108760,226142,Cash loans,F,59.0,1000.67,1.0,N,Y,67500.0,101880.0,10566.0,90000.0,0.15653333333333333,0.10371024734982333,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+98646,214538,Cash loans,F,36.0,3.24,1.0,N,N,405000.0,3150000.0,79632.0,3150000.0,0.19662222222222223,0.02528,Commercial associate,Higher education,Separated,With parents
+160270,285790,Cash loans,F,32.0,1.5,2.0,N,Y,180000.0,242595.0,19179.0,202500.0,0.10655,0.07905768874049342,Working,Higher education,Single / not married,House / apartment
+77058,189354,Cash loans,F,22.0,2.25,2.0,N,Y,135000.0,450000.0,21888.0,450000.0,0.16213333333333332,0.04864,Working,Incomplete higher,Civil marriage,House / apartment
+58817,168185,Cash loans,F,56.0,1000.67,3.0,Y,Y,315000.0,1808460.0,62991.0,1651500.0,0.19997142857142858,0.034831292923260676,Pensioner,Secondary / secondary special,Married,House / apartment
+12415,114470,Cash loans,M,63.0,1000.67,2.0,N,Y,72000.0,152820.0,8901.0,135000.0,0.123625,0.05824499411071849,Pensioner,Secondary / secondary special,Married,House / apartment
+144534,267593,Cash loans,F,56.0,1000.67,2.0,Y,Y,180000.0,728460.0,41949.0,675000.0,0.23305,0.05758586607363479,Pensioner,Secondary / secondary special,Civil marriage,House / apartment
+65104,175502,Cash loans,M,30.0,2.24,3.0,Y,Y,180000.0,500427.0,27274.5,432000.0,0.151525,0.0545024549035124,Commercial associate,Secondary / secondary special,Married,House / apartment
+97790,213541,Cash loans,M,42.0,0.96,2.0,N,N,360000.0,1762110.0,48456.0,1575000.0,0.1346,0.027498850809540835,Working,Higher education,Civil marriage,House / apartment
+45316,152490,Cash loans,M,39.0,3.19,2.0,Y,Y,256500.0,497520.0,53712.0,450000.0,0.2094035087719298,0.10795947901591896,Working,Higher education,Separated,House / apartment
+263124,404681,Cash loans,F,68.0,1000.67,2.0,N,N,225000.0,534204.0,27265.5,495000.0,0.12118,0.05103949053170699,Pensioner,Higher education,Married,House / apartment
+155917,280734,Cash loans,F,53.0,13.0,2.0,N,Y,81000.0,298512.0,17266.5,270000.0,0.21316666666666667,0.057841895803183795,Working,Secondary / secondary special,Married,House / apartment
+64021,174235,Cash loans,F,45.0,1.5,1.0,N,Y,202500.0,534204.0,28588.5,495000.0,0.1411777777777778,0.053516072511624775,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+245705,384345,Cash loans,F,65.0,6.33,1.0,N,Y,72000.0,360000.0,13702.5,360000.0,0.1903125,0.0380625,Working,Secondary / secondary special,Widow,House / apartment
+86825,200774,Revolving loans,M,53.0,1000.67,1.0,N,N,270000.0,765000.0,38250.0,765000.0,0.14166666666666666,0.05,Pensioner,Higher education,Single / not married,House / apartment
+75150,187152,Cash loans,F,47.0,11.79,2.0,N,N,112500.0,781920.0,28215.0,675000.0,0.2508,0.03608425414364641,State servant,Secondary / secondary special,Married,House / apartment
+241331,379431,Cash loans,F,65.0,0.95,2.0,N,Y,72000.0,142200.0,8293.5,112500.0,0.1151875,0.05832278481012658,Working,Secondary / secondary special,Civil marriage,House / apartment
+208796,341999,Cash loans,F,62.0,1.59,2.0,N,Y,135000.0,646920.0,18670.5,540000.0,0.1383,0.02886060100166945,Commercial associate,Secondary / secondary special,Married,House / apartment
+76513,188728,Cash loans,F,57.0,1000.67,2.0,N,Y,270000.0,2250000.0,91773.0,2250000.0,0.3399,0.040788,Pensioner,Secondary / secondary special,Married,House / apartment
+112127,230081,Cash loans,F,61.0,1000.67,2.0,N,N,90000.0,814041.0,23931.0,679500.0,0.2659,0.029397782175590664,Pensioner,Secondary / secondary special,Married,House / apartment
+181460,310319,Cash loans,F,49.0,11.18,4.0,Y,Y,157500.0,942300.0,36643.5,675000.0,0.23265714285714287,0.0388872970391595,Working,Secondary / secondary special,Married,Co-op apartment
+108623,225989,Cash loans,F,34.0,1000.67,1.0,N,Y,157500.0,180000.0,17802.0,180000.0,0.11302857142857142,0.0989,Pensioner,Secondary / secondary special,Widow,House / apartment
+245863,384518,Cash loans,F,53.0,35.2,1.0,N,Y,162000.0,343800.0,12478.5,225000.0,0.07702777777777778,0.03629581151832461,Working,Secondary / secondary special,Single / not married,House / apartment
+116996,235670,Cash loans,M,59.0,6.68,2.0,Y,Y,202500.0,755190.0,30078.0,675000.0,0.14853333333333332,0.039828387558097963,Working,Incomplete higher,Married,House / apartment
+254420,394407,Cash loans,F,59.0,1000.67,2.0,N,Y,103500.0,808650.0,23305.5,675000.0,0.22517391304347825,0.028820255982192542,Pensioner,Secondary / secondary special,Married,House / apartment
+240067,377986,Cash loans,M,49.0,1.47,2.0,Y,Y,90000.0,627277.5,29371.5,441000.0,0.32635,0.046823774166935686,Working,Secondary / secondary special,Civil marriage,House / apartment
+88998,203333,Cash loans,F,55.0,1000.67,1.0,N,N,157500.0,587619.0,19084.5,490500.0,0.12117142857142857,0.03247767686204837,Pensioner,Secondary / secondary special,Widow,Municipal apartment
+90735,205350,Cash loans,F,61.0,1000.67,1.0,N,Y,49500.0,54000.0,5391.0,54000.0,0.10890909090909091,0.09983333333333333,Pensioner,Secondary / secondary special,Single / not married,House / apartment
+46858,154278,Cash loans,F,42.0,0.29,2.0,N,Y,67500.0,333337.5,22405.5,301500.0,0.33193333333333336,0.06721565980425245,Working,Secondary / secondary special,Married,House / apartment
+220407,355334,Cash loans,M,24.0,1.55,1.0,Y,N,180000.0,900243.0,43308.0,900243.0,0.2406,0.04810701110700111,Working,Secondary / secondary special,Single / not married,House / apartment
+257303,397757,Cash loans,F,37.0,2.39,2.0,N,N,94500.0,433458.0,22261.5,310500.0,0.23557142857142857,0.05135791703002367,Working,Secondary / secondary special,Civil marriage,House / apartment
+86857,200809,Cash loans,F,63.0,18.94,2.0,Y,Y,299700.0,1204623.0,61915.5,1138500.0,0.2065915915915916,0.05139823828699933,State servant,Higher education,Married,House / apartment
+147893,271481,Cash loans,F,63.0,1000.67,2.0,N,Y,81000.0,170640.0,9657.0,135000.0,0.11922222222222222,0.05659282700421941,Pensioner,Secondary / secondary special,Married,House / apartment
+264613,406442,Revolving loans,F,33.0,4.34,4.0,N,Y,90000.0,270000.0,13500.0,270000.0,0.15,0.05,Working,Higher education,Married,With parents
+138196,260263,Revolving loans,F,36.0,0.63,3.0,N,Y,85500.0,270000.0,13500.0,270000.0,0.15789473684210525,0.05,Working,Secondary / secondary special,Single / not married,House / apartment
+106012,223000,Cash loans,F,26.0,2.32,3.0,Y,N,112500.0,426645.0,25911.0,324000.0,0.23032,0.06073199029638224,Working,Secondary / secondary special,Civil marriage,With parents
+56408,165357,Cash loans,M,65.0,1000.67,2.0,N,Y,135000.0,698517.0,22437.0,603000.0,0.1662,0.03212090757991574,Pensioner,Higher education,Married,House / apartment
+247614,386519,Cash loans,M,24.0,1.57,2.0,Y,Y,157500.0,640080.0,29970.0,450000.0,0.19028571428571428,0.046822272215973,Working,Secondary / secondary special,Civil marriage,Rented apartment
+252830,392553,Cash loans,F,48.0,25.34,3.0,Y,N,157500.0,373500.0,9981.0,225000.0,0.06337142857142856,0.02672289156626506,Working,Secondary / secondary special,Married,House / apartment
+193663,324574,Cash loans,F,59.0,1000.67,2.0,N,Y,157500.0,364896.0,16200.0,315000.0,0.10285714285714286,0.044396211523283345,Pensioner,Secondary / secondary special,Married,House / apartment
+221632,356736,Cash loans,F,40.0,5.08,3.0,Y,Y,270000.0,715500.0,25479.0,715500.0,0.09436666666666667,0.03561006289308176,Working,Higher education,Married,House / apartment
+100942,217203,Cash loans,M,28.0,5.48,2.0,Y,N,247500.0,1971072.0,59890.5,1800000.0,0.2419818181818182,0.030384734804208065,Commercial associate,Higher education,Married,With parents
+161054,286701,Cash loans,M,39.0,9.28,2.0,Y,N,225000.0,900000.0,35694.0,900000.0,0.15864,0.03966,Working,Secondary / secondary special,Married,Municipal apartment
+38261,144306,Cash loans,M,28.0,1.11,1.0,N,Y,90000.0,227520.0,18103.5,180000.0,0.20115,0.07956882911392404,Working,Secondary / secondary special,Single / not married,House / apartment
+278368,422505,Cash loans,F,52.0,0.27,2.0,N,Y,180000.0,288873.0,16258.5,238500.0,0.090325,0.056282518615446926,State servant,Secondary / secondary special,Married,House / apartment
+156890,281842,Cash loans,F,46.0,14.72,3.0,N,Y,171000.0,450000.0,27324.0,450000.0,0.15978947368421054,0.06072,Working,Secondary / secondary special,Married,House / apartment
+189196,319350,Cash loans,M,38.0,0.95,2.0,N,Y,157500.0,679500.0,19998.0,679500.0,0.12697142857142857,0.02943046357615894,Commercial associate,Secondary / secondary special,Married,House / apartment
+8259,109627,Cash loans,F,27.0,0.72,3.0,Y,N,157500.0,497520.0,25402.5,450000.0,0.16128571428571428,0.0510582489146165,Working,Higher education,Married,House / apartment
+195526,326718,Cash loans,F,45.0,11.16,2.0,N,Y,67500.0,296505.0,23076.0,247500.0,0.34186666666666665,0.07782668083168919,State servant,Secondary / secondary special,Single / not married,House / apartment
+296950,444035,Cash loans,M,29.0,2.73,2.0,Y,N,157500.0,536917.5,29254.5,463500.0,0.18574285714285715,0.05448602438922181,Commercial associate,Secondary / secondary special,Married,House / apartment
+9539,111089,Cash loans,M,41.0,10.01,4.0,N,Y,450000.0,1042560.0,58347.0,900000.0,0.12966,0.05596512430939227,Commercial associate,Higher education,Married,House / apartment
+264111,405835,Cash loans,F,49.0,0.72,2.0,Y,Y,256500.0,539100.0,27652.5,450000.0,0.10780701754385964,0.05129382303839733,Commercial associate,Higher education,Civil marriage,House / apartment
+244122,382575,Cash loans,M,32.0,8.57,4.0,N,Y,180000.0,824823.0,29353.5,688500.0,0.163075,0.03558763516536275,Working,Secondary / secondary special,Married,House / apartment
+119542,238622,Cash loans,M,37.0,7.96,3.0,Y,Y,450000.0,1971072.0,62019.0,1800000.0,0.13782,0.031464604032729396,Working,Higher education,Married,House / apartment
+55057,163791,Cash loans,M,42.0,1.85,2.0,Y,Y,94500.0,314055.0,17167.5,238500.0,0.18166666666666667,0.054663991975927785,Working,Secondary / secondary special,Married,House / apartment
+39965,146294,Cash loans,M,41.0,8.65,2.0,Y,N,144000.0,900000.0,26316.0,900000.0,0.18275,0.02924,Commercial associate,Secondary / secondary special,Single / not married,With parents
+183795,313033,Cash loans,F,33.0,11.08,4.0,Y,Y,76500.0,142632.0,15489.0,126000.0,0.20247058823529412,0.10859414437152953,Working,Secondary / secondary special,Married,House / apartment
+52968,161348,Cash loans,F,38.0,7.96,2.0,Y,Y,117000.0,284400.0,10345.5,225000.0,0.08842307692307692,0.036376582278481014,Commercial associate,Secondary / secondary special,Married,House / apartment
+177838,306088,Cash loans,F,59.0,1000.67,1.0,N,N,58500.0,454500.0,12883.5,454500.0,0.22023076923076923,0.028346534653465347,Pensioner,Secondary / secondary special,Widow,House / apartment
+148316,271968,Revolving loans,F,50.0,16.43,2.0,N,Y,112500.0,270000.0,13500.0,270000.0,0.12,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+167028,293633,Cash loans,M,50.0,4.66,2.0,N,Y,90000.0,450000.0,23692.5,450000.0,0.26325,0.05265,Working,Secondary / secondary special,Married,House / apartment
+290725,436800,Cash loans,M,55.0,4.67,2.0,Y,Y,225000.0,1035832.5,30285.0,904500.0,0.1346,0.029237352564241807,Commercial associate,Secondary / secondary special,Married,House / apartment
+18713,121818,Cash loans,M,54.0,30.12,2.0,Y,Y,450000.0,997389.0,94828.5,945000.0,0.21073,0.0950767453821929,State servant,Secondary / secondary special,Married,Municipal apartment
+295991,442930,Cash loans,F,36.0,3.87,3.0,N,Y,135000.0,208512.0,23710.5,180000.0,0.17563333333333334,0.11371287983425414,Working,Higher education,Civil marriage,House / apartment
+83311,196629,Cash loans,F,30.0,8.33,3.0,Y,Y,427500.0,682875.0,30208.5,589500.0,0.07066315789473684,0.04423723228995058,Working,Higher education,Married,House / apartment
+245700,384340,Cash loans,F,43.0,22.35,1.0,N,Y,67500.0,157050.0,8352.0,112500.0,0.12373333333333333,0.05318051575931232,Working,Secondary / secondary special,Separated,House / apartment
+228733,364935,Cash loans,M,32.0,0.49,2.0,N,Y,135000.0,495216.0,30055.5,427500.0,0.22263333333333332,0.060691698168072114,Working,Secondary / secondary special,Married,House / apartment
+224055,359510,Cash loans,F,34.0,9.65,3.0,N,Y,225000.0,754740.0,24345.0,630000.0,0.1082,0.03225614118769377,Working,Secondary / secondary special,Civil marriage,House / apartment
+206327,339147,Revolving loans,F,50.0,4.88,2.0,N,Y,180000.0,900000.0,45000.0,1237500.0,0.25,0.05,Working,Higher education,Married,House / apartment
+82318,195465,Cash loans,F,38.0,16.63,3.0,N,N,117000.0,463284.0,27715.5,382500.0,0.2368846153846154,0.059823995648457536,Commercial associate,Higher education,Married,House / apartment
+41968,148589,Revolving loans,F,53.0,10.91,2.0,N,Y,135000.0,765000.0,38250.0,765000.0,0.2833333333333333,0.05,Working,Higher education,Married,House / apartment
+13372,115593,Cash loans,M,39.0,3.76,5.0,N,N,67500.0,1078200.0,31522.5,900000.0,0.467,0.029236227045075124,Working,Secondary / secondary special,Married,House / apartment
+74755,186692,Cash loans,M,65.0,1000.67,2.0,Y,Y,270000.0,533668.5,25803.0,477000.0,0.09556666666666666,0.04835023989611528,Pensioner,Secondary / secondary special,Married,House / apartment
+153376,277781,Revolving loans,F,56.0,35.05,1.0,N,Y,202500.0,337500.0,16875.0,337500.0,0.08333333333333333,0.05,State servant,Higher education,Single / not married,House / apartment
+113164,231248,Cash loans,F,53.0,7.96,1.0,N,Y,180000.0,922266.0,39204.0,810000.0,0.2178,0.042508343579834885,Working,Secondary / secondary special,Widow,House / apartment
+152659,276933,Cash loans,M,54.0,1.29,2.0,N,Y,157500.0,755190.0,36459.0,675000.0,0.2314857142857143,0.0482779168156358,Working,Secondary / secondary special,Married,House / apartment
+202444,334683,Cash loans,F,40.0,0.5,2.0,Y,Y,270000.0,1125000.0,47664.0,1125000.0,0.17653333333333332,0.042368,Commercial associate,Secondary / secondary special,Married,House / apartment
+150199,274119,Cash loans,F,61.0,1000.67,1.0,N,Y,135000.0,270000.0,16645.5,270000.0,0.1233,0.06165,Pensioner,Higher education,Widow,House / apartment
+23365,127186,Cash loans,F,33.0,9.15,4.0,N,Y,99000.0,1078200.0,31522.5,900000.0,0.3184090909090909,0.029236227045075124,Working,Secondary / secondary special,Married,House / apartment
+7123,108293,Revolving loans,F,30.0,1.99,3.0,N,Y,121500.0,247500.0,12375.0,247500.0,0.10185185185185185,0.05,Working,Higher education,Married,House / apartment
+39441,145672,Cash loans,M,25.0,1.21,3.0,N,Y,180000.0,237582.0,21789.0,184500.0,0.12105,0.09171149329494659,Working,Secondary / secondary special,Married,House / apartment
+72735,184346,Cash loans,F,27.0,1.51,1.0,N,N,90000.0,364896.0,22450.5,315000.0,0.24945,0.06152574980268351,Working,Higher education,Single / not married,House / apartment
+160241,285759,Cash loans,M,30.0,7.29,5.0,Y,Y,157500.0,78192.0,9279.0,67500.0,0.05891428571428572,0.11866942909760589,Working,Secondary / secondary special,Married,House / apartment
+88312,202533,Cash loans,F,54.0,1000.67,1.0,N,N,54000.0,450000.0,16164.0,450000.0,0.29933333333333334,0.03592,Pensioner,Secondary / secondary special,Separated,House / apartment
+6080,107110,Cash loans,F,53.0,1000.67,1.0,N,N,211500.0,755190.0,36459.0,675000.0,0.17238297872340425,0.0482779168156358,Pensioner,Higher education,Separated,House / apartment
+125291,245299,Cash loans,F,38.0,3.01,2.0,Y,Y,189000.0,332842.5,12676.5,234000.0,0.06707142857142857,0.038085581018049076,State servant,Higher education,Married,House / apartment
+304449,452729,Cash loans,M,48.0,4.99,2.0,Y,Y,225000.0,417024.0,28341.0,360000.0,0.12596,0.06796011740331492,Commercial associate,Incomplete higher,Civil marriage,House / apartment
+241301,379400,Cash loans,M,33.0,8.36,2.0,N,N,162000.0,346392.0,39172.5,306000.0,0.24180555555555555,0.11308719600914571,Working,Higher education,Married,With parents
+246747,385548,Cash loans,F,35.0,4.78,2.0,N,Y,135000.0,472500.0,24133.5,472500.0,0.17876666666666666,0.051076190476190476,Working,Secondary / secondary special,Married,House / apartment
+282884,427648,Cash loans,F,30.0,2.49,4.0,N,Y,90000.0,450000.0,27193.5,450000.0,0.30215,0.06043,Working,Higher education,Married,House / apartment
+51067,159136,Cash loans,F,40.0,2.48,3.0,N,N,155250.0,1129500.0,40716.0,1129500.0,0.2622608695652174,0.03604780876494024,Working,Higher education,Married,House / apartment
+232253,369013,Cash loans,M,43.0,6.87,4.0,Y,N,90000.0,355500.0,25996.5,355500.0,0.28885,0.07312658227848101,Working,Secondary / secondary special,Married,House / apartment
+246988,385807,Cash loans,F,42.0,12.56,2.0,N,Y,292500.0,526500.0,29529.0,526500.0,0.10095384615384616,0.05608547008547009,Commercial associate,Secondary / secondary special,Married,House / apartment
+271673,414946,Cash loans,F,45.0,4.4,1.0,N,N,157500.0,239850.0,28462.5,225000.0,0.18071428571428572,0.11866791744840526,Working,Secondary / secondary special,Single / not married,Municipal apartment
+228938,365179,Cash loans,F,38.0,2.55,1.0,N,Y,135000.0,269550.0,21739.5,225000.0,0.16103333333333333,0.08065108514190317,Commercial associate,Secondary / secondary special,Separated,House / apartment
+214391,348432,Cash loans,F,44.0,25.43,3.0,N,Y,202500.0,1288350.0,37800.0,1125000.0,0.18666666666666668,0.029339853300733496,State servant,Secondary / secondary special,Married,House / apartment
+12384,114436,Cash loans,F,34.0,9.13,2.0,N,Y,157500.0,269550.0,21739.5,225000.0,0.13802857142857142,0.08065108514190317,Working,Secondary / secondary special,Married,House / apartment
+240075,377999,Cash loans,F,62.0,1000.67,2.0,Y,Y,54000.0,315000.0,19269.0,315000.0,0.35683333333333334,0.06117142857142857,Pensioner,Secondary / secondary special,Married,House / apartment
+298342,445630,Cash loans,M,48.0,7.53,2.0,Y,Y,270000.0,900000.0,46084.5,900000.0,0.17068333333333333,0.051205,Working,Secondary / secondary special,Married,Rented apartment
+134857,256420,Cash loans,M,27.0,0.56,1.0,N,N,171000.0,254700.0,24192.0,225000.0,0.1414736842105263,0.09498233215547704,Working,Secondary / secondary special,Single / not married,House / apartment
+152911,277230,Cash loans,F,45.0,9.81,2.0,N,N,171000.0,986553.0,28975.5,823500.0,0.16944736842105262,0.029370444365381283,Commercial associate,Secondary / secondary special,Married,House / apartment
+23073,126851,Cash loans,F,33.0,1.07,2.0,N,N,112500.0,531373.5,14148.0,420390.0,0.12576,0.026625339803358655,Commercial associate,Secondary / secondary special,Married,House / apartment
+103852,220533,Cash loans,F,37.0,18.41,5.0,N,Y,112500.0,691020.0,25515.0,495000.0,0.2268,0.03692367804115655,Working,Secondary / secondary special,Civil marriage,House / apartment
+231396,368028,Cash loans,F,37.0,0.44,4.0,N,N,112500.0,531706.5,28458.0,459000.0,0.25296,0.05352200885262828,State servant,Incomplete higher,Married,House / apartment
+290039,436011,Cash loans,F,24.0,5.9,3.0,N,N,157500.0,1433367.0,60858.0,1318500.0,0.3864,0.04245807249643671,Working,Secondary / secondary special,Married,House / apartment
+229236,365507,Revolving loans,M,64.0,1000.67,2.0,N,Y,225000.0,675000.0,33750.0,675000.0,0.15,0.05,Pensioner,Higher education,Married,House / apartment
+267898,410412,Cash loans,F,55.0,14.9,2.0,N,Y,360000.0,427176.0,21942.0,306000.0,0.06095,0.051365245238496546,Commercial associate,Higher education,Married,House / apartment
+285695,430883,Cash loans,F,44.0,7.02,3.0,N,Y,180000.0,1000858.5,33205.5,864000.0,0.184475,0.03317701753045011,Working,Secondary / secondary special,Married,Municipal apartment
+256528,396848,Revolving loans,M,29.0,3.27,3.0,Y,Y,292500.0,855000.0,42750.0,855000.0,0.14615384615384616,0.05,State servant,Higher education,Married,Municipal apartment
+196644,328008,Cash loans,F,63.0,1000.67,1.0,N,N,112500.0,770913.0,22540.5,643500.0,0.20036,0.02923870786975962,Pensioner,Secondary / secondary special,Widow,House / apartment
+5506,106448,Revolving loans,F,62.0,1000.67,2.0,N,Y,135000.0,180000.0,9000.0,180000.0,0.06666666666666667,0.05,Pensioner,Secondary / secondary special,Married,House / apartment
+236640,374094,Cash loans,M,53.0,4.32,3.0,Y,Y,90000.0,439074.0,19471.5,328500.0,0.21635,0.04434673881851351,Working,Secondary / secondary special,Married,House / apartment
+218941,353644,Cash loans,F,60.0,1000.67,2.0,N,Y,112500.0,272578.5,18346.5,207000.0,0.16308,0.06730721608637512,Pensioner,Secondary / secondary special,Married,House / apartment
+214282,348309,Cash loans,F,30.0,4.43,3.0,Y,N,540000.0,225000.0,18171.0,225000.0,0.03365,0.08076,Working,Secondary / secondary special,Civil marriage,House / apartment
+76541,188761,Cash loans,F,48.0,2.83,1.0,N,N,292500.0,1162170.0,41305.5,832500.0,0.1412153846153846,0.03554170216061334,Commercial associate,Secondary / secondary special,Widow,House / apartment
+97499,213200,Cash loans,M,32.0,0.24,1.0,N,N,135000.0,284400.0,19134.0,225000.0,0.14173333333333332,0.06727848101265822,Working,Secondary / secondary special,Single / not married,Rented apartment
+75217,187232,Revolving loans,M,32.0,8.02,2.0,N,Y,189000.0,270000.0,13500.0,270000.0,0.07142857142857142,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+134898,256468,Cash loans,F,50.0,0.66,2.0,N,Y,225000.0,1517724.0,52884.0,1386000.0,0.23504,0.03484427998766574,Commercial associate,Higher education,Married,House / apartment
+1253,101480,Cash loans,M,50.0,3.05,2.0,Y,Y,89100.0,560664.0,18085.5,468000.0,0.20297979797979798,0.03225728778733787,Working,Secondary / secondary special,Civil marriage,House / apartment
+58497,167803,Revolving loans,M,31.0,7.13,3.0,N,Y,157500.0,135000.0,6750.0,135000.0,0.04285714285714286,0.05,Commercial associate,Secondary / secondary special,Married,House / apartment
+7321,108531,Cash loans,M,37.0,13.41,2.0,Y,Y,261000.0,675000.0,34596.0,675000.0,0.13255172413793104,0.05125333333333333,Working,Higher education,Married,House / apartment
+179066,307502,Cash loans,M,30.0,4.02,1.0,N,N,180000.0,265851.0,20704.5,229500.0,0.115025,0.07788009072751279,Working,Higher education,Single / not married,With parents
+86011,199802,Cash loans,F,30.0,6.52,2.0,Y,N,262800.0,675000.0,24799.5,675000.0,0.09436643835616439,0.03674,State servant,Higher education,Civil marriage,Rented apartment
+186923,316691,Cash loans,M,61.0,1000.67,2.0,N,Y,55881.0,669600.0,32341.5,598500.0,0.5787566435818973,0.0482997311827957,Pensioner,Higher education,Married,House / apartment
+90138,204650,Cash loans,F,36.0,2.04,2.0,N,Y,225000.0,497520.0,49338.0,450000.0,0.21928,0.09916787264833575,Working,Secondary / secondary special,Married,House / apartment
+218428,353066,Cash loans,M,42.0,4.01,2.0,Y,Y,157500.0,573408.0,32148.0,495000.0,0.20411428571428572,0.056064791562029134,Working,Secondary / secondary special,Civil marriage,House / apartment
+135902,257633,Cash loans,F,33.0,0.59,4.0,Y,Y,157500.0,284400.0,16456.5,225000.0,0.10448571428571428,0.05786392405063291,Commercial associate,Secondary / secondary special,Married,House / apartment
+214614,348684,Cash loans,F,54.0,10.43,1.0,N,Y,81000.0,587619.0,18954.0,490500.0,0.234,0.032255594186028705,Working,Secondary / secondary special,Separated,House / apartment
+267567,409998,Cash loans,M,31.0,5.63,1.0,Y,N,225000.0,521280.0,28408.5,450000.0,0.12626,0.05449758287292818,State servant,Higher education,Single / not married,House / apartment
+124006,243808,Cash loans,M,44.0,22.04,2.0,Y,N,292500.0,679500.0,19867.5,679500.0,0.06792307692307692,0.02923841059602649,Working,Secondary / secondary special,Married,House / apartment
+246042,384733,Cash loans,F,34.0,0.7,2.0,N,N,270000.0,2142459.0,67401.0,1849500.0,0.24963333333333335,0.03145964520207854,Working,Higher education,Single / not married,House / apartment
+230310,366770,Cash loans,F,39.0,1.16,3.0,Y,N,90000.0,156384.0,18688.5,135000.0,0.20765,0.11950391344383057,Working,Secondary / secondary special,Single / not married,House / apartment
+256435,396743,Cash loans,F,54.0,1000.67,2.0,N,Y,270000.0,472500.0,20146.5,472500.0,0.07461666666666666,0.04263809523809524,Pensioner,Secondary / secondary special,Married,House / apartment
+145715,268956,Cash loans,F,51.0,22.68,1.0,N,Y,90000.0,629325.0,25087.5,562500.0,0.27875,0.03986414015016089,Commercial associate,Secondary / secondary special,Separated,House / apartment
+101508,217854,Cash loans,F,56.0,6.39,2.0,N,N,1575000.0,2303460.0,230161.5,2250000.0,0.14613428571428572,0.0999199031022896,Commercial associate,Higher education,Married,House / apartment
+38258,144302,Cash loans,F,54.0,4.33,2.0,Y,N,270000.0,1096020.0,52726.5,900000.0,0.19528333333333334,0.048107242568566265,Commercial associate,Secondary / secondary special,Married,House / apartment
+245237,383822,Cash loans,M,30.0,0.27,2.0,N,Y,382500.0,241618.5,25767.0,229500.0,0.06736470588235294,0.10664332408321382,Commercial associate,Higher education,Civil marriage,House / apartment
+183222,312360,Cash loans,F,29.0,2.99,2.0,N,N,135000.0,948055.5,48537.0,778500.0,0.3595333333333333,0.051196369832778775,Commercial associate,Higher education,Married,With parents
+15884,118534,Cash loans,M,59.0,1000.67,2.0,N,Y,315000.0,405000.0,24907.5,405000.0,0.07907142857142857,0.0615,Pensioner,Secondary / secondary special,Married,House / apartment
+207883,340950,Cash loans,M,38.0,6.2,4.0,N,Y,112500.0,207396.0,16515.0,157500.0,0.1468,0.07963027252213158,Working,Lower secondary,Married,House / apartment
+166228,292716,Cash loans,M,44.0,11.43,2.0,Y,Y,202500.0,563269.5,26388.0,396000.0,0.1303111111111111,0.04684791205630697,Working,Higher education,Married,With parents
+113136,231218,Cash loans,F,45.0,1.06,3.0,N,Y,112500.0,679500.0,34825.5,679500.0,0.30956,0.051251655629139074,Working,Secondary / secondary special,Married,House / apartment
+43496,150355,Cash loans,M,40.0,1.12,3.0,Y,Y,675000.0,1546020.0,50004.0,1350000.0,0.07408,0.03234369542438002,Commercial associate,Secondary / secondary special,Married,House / apartment
+253870,393758,Cash loans,M,63.0,44.82,2.0,Y,N,202500.0,1078200.0,34911.0,900000.0,0.1724,0.032378964941569284,Working,Secondary / secondary special,Married,House / apartment
+274631,418303,Cash loans,F,37.0,11.79,3.0,N,N,135000.0,961794.0,51372.0,909000.0,0.38053333333333333,0.05341268504482249,State servant,Secondary / secondary special,Married,Office apartment
+12547,114623,Cash loans,M,34.0,3.35,2.0,Y,Y,126000.0,312768.0,19030.5,270000.0,0.15103571428571427,0.06084541896869245,Working,Secondary / secondary special,Married,House / apartment
+80690,193553,Cash loans,M,38.0,9.03,5.0,Y,N,225000.0,1359000.0,51894.0,1359000.0,0.23064,0.038185430463576156,Working,Secondary / secondary special,Married,House / apartment
+174247,301928,Cash loans,M,36.0,1.43,2.0,N,N,126000.0,545040.0,25537.5,450000.0,0.20267857142857143,0.04685435931307794,Working,Secondary / secondary special,Married,House / apartment
+287896,433507,Cash loans,F,44.0,2.7,1.0,N,Y,112500.0,1321902.0,38781.0,1035000.0,0.34472,0.029337273111017307,Commercial associate,Secondary / secondary special,Single / not married,House / apartment
+186097,315743,Cash loans,M,47.0,5.9,4.0,Y,Y,270000.0,450000.0,24543.0,450000.0,0.0909,0.05454,Working,Higher education,Married,House / apartment
+120753,240003,Cash loans,F,65.0,1000.67,1.0,N,N,135000.0,540000.0,24529.5,540000.0,0.1817,0.045425,Pensioner,Secondary / secondary special,Widow,House / apartment
